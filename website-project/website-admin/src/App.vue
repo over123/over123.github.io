@@ -1,9 +1,12 @@
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
+import VueTemplate from './components/interview/Vue.vue'
 </script>
 
 <template>
   <div>
+    <router-view></router-view>
+    <el-button>按钮</el-button>
     <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
     </a>
@@ -12,6 +15,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
+  <VueTemplate />
 </template>
 
 <style scoped>

@@ -16,3 +16,37 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
    1. Run `Extensions: Show Built-in Extensions` from VSCode's command palette
    2. Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
 2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+
+
+```
+创建项目
+npm init vite
+
+安装依赖
+npm install vue-router@next vuex@next axios
+npm install
+
+运行项目
+npm run dev
+
+安装element-plus
+npm install element-plus --save
+
+按需导入 - 自动导入
+npm install -D unplugin-vue-components unplugin-auto-import
+
+配置vite
+import AutoImport from 'unplugin-auto-import/vite'
+import Components from 'unplugin-vue-components/vite'
+import { ElementPlusResolver } from 'unplugin-vue-components/resolvers'
+export default {
+  plugins: [
+    AutoImport({
+      resolvers: [ElementPlusResolver()],
+    }),
+    Components({
+      resolvers: [ElementPlusResolver()],
+    }),
+  ],
+}
+```
