@@ -1,21 +1,33 @@
+<!--
+ * @Author: xudan
+ * @Date: 2024-07-04 19:49:37
+ * @LastEditors: xudan
+ * @LastEditTime: 2024-07-12 15:38:14
+ * @Description: main page
+ * Contact Information: E-mail: xudan@gmail.com
+ * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
+-->
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
-import VueTemplate from './components/interview/Vue.vue'
+// import HelloWorld from './components/HelloWorld.vue'
+// import VueTemplate from './components/interview/Vue.vue'
+import axios from 'axios';
+import { onMounted } from 'vue'
+
+onMounted(()=>{
+  axios.get('http://localhost:3000/user/find').then(res => {
+    console.log(res.data);
+  })
+}) 
+
+
 </script>
 
 <template>
   <div>
     <router-view></router-view>
-    <el-button>按钮</el-button>
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-    </a>
+    <!-- <HelloWorld msg="Vite + Vue" />
+    <VueTemplate /> -->
   </div>
-  <HelloWorld msg="Vite + Vue" />
-  <VueTemplate />
 </template>
 
 <style scoped>
