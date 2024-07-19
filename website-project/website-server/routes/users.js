@@ -2,14 +2,13 @@
  * @Author: xudan
  * @Date: 2024-07-04 19:57:46
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-12 19:47:19
+ * @LastEditTime: 2024-07-18 16:02:02
  * @Description: Routes for User
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
  */
 const router = require('koa-router')()
-
-const UserController = require('../controller/user')
+const { login, verify, updatePwd } = require('../controller/users')
 
 router.prefix('/user')
 
@@ -17,32 +16,18 @@ router.prefix('/user')
  * @description: 添加用户
  * @return {*}
  */
-router.post('/add', UserController.userAdd)
+router.post('/login', login)
 
 /**
- * @description: 更新用户/修改用户
+ * @description: 用户登录状态验证
  * @return {*}
  */
-router.post('/update', UserController.userUpdate)
+router.post('/verify', verify)
 
 /**
- * @description: 删除用户
+ * @description: 用户密码修改
  * @return {*}
  */
-router.post('/del', UserController.userDelete)
-
-/**
- * @description: 查找所有用户
- * @return {*}
- */
-router.get('/find', UserController.userFind)
-
-
-/**
- * @description: 查找用户
- * @return {*}
- */
-router.get('/find/:id', UserController.userFindOne)
-
+router.post('/update/pwd', updatePwd)
 
 module.exports = router

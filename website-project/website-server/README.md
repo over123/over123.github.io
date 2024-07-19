@@ -1,3 +1,12 @@
+<!--
+ * @Author: xudan
+ * @Date: 2024-07-04 19:58:05
+ * @LastEditors: xudan
+ * @LastEditTime: 2024-07-18 16:43:32
+ * @Description: readme.md
+ * Contact Information: E-mail: xudan@gmail.com
+ * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
+-->
 # 服务端
 
 ## 安装koa脚手架
@@ -40,4 +49,21 @@ module.exports = () => {
 const MongoConnection = require('./db');
 // 连接数据库
 MongoConnection();
+```
+
+
+## JWT
+
+- json web token 是开发标准
+- 定义了一个紧凑的方式，将各方信息作为JSON对象进行安全传输
+- 该信息经过数字签名，可验证和信任
+
+```javascript
+// npm install jsonwebtoken --save
+```
+
+## koa-multer
+- 文件上传模块
+```javascript
+// npm install koa-multer --save
 ```

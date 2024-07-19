@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-04 19:57:46
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-12 19:48:05
+ * @LastEditTime: 2024-07-18 11:51:37
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -20,11 +20,13 @@ const logger = require('koa-logger')
 const cors = require('koa2-cors');
 
 const MongoConnection = require('./db');
+const koajwt = require('koa-jwt')
 // 连接数据库
 MongoConnection();
 
 const index = require('./routes/index')
 const users = require('./routes/users')
+const upload = require('./routes/upload')
 
 // error handler
 onerror(app)
@@ -41,6 +43,12 @@ app.use(views(__dirname + '/views', {
   extension: 'pug'
 }))
 
+app.use(koajwt({
+  secret: 'jwt-website-server'
+}).unless({
+  // 配置路由，不需要经过jwt认证的路由
+  path: [/^\/user\/login/]
+}))
 // logger
 app.use(async (ctx, next) => {
   const start = new Date()
@@ -55,6 +63,7 @@ app.use(cors())
 // routes
 app.use(index.routes(), index.allowedMethods())
 app.use(users.routes(), users.allowedMethods())
+app.use(upload.routes(), upload.allowedMethods())
 
 // error-handling
 app.on('error', (err, ctx) => {
