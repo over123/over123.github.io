@@ -2,12 +2,20 @@
  * @Author: xudan
  * @Date: 2024-07-04 19:49:37
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-12 14:57:05
- * @Description: login page
+ * @LastEditTime: 2024-07-17 18:14:03
+ * @Description: login
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
 -->
-<template>
+<template>  
+  <el-card style="max-width: 480px">
+    <!-- login - 卡片头部 -->
+    <template #header>
+      <div class="card-header">
+        <span>后台管理</span>
+      </div>
+    </template>
+    <!-- login - 表单 -->
     <el-form
       ref="ruleFormRef"
       style="max-width: 600px"
@@ -31,6 +39,10 @@
         <el-button @click="resetForm(ruleFormRef)">Reset</el-button>
       </el-form-item>
     </el-form>
+    <!-- login - footer -->
+    <template #footer>Footer content</template>
+  </el-card>
+    
   </template>
   
   <script lang="ts" setup>
