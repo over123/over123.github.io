@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-04 19:57:46
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-18 11:51:37
+ * @LastEditTime: 2024-07-23 18:21:44
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -47,7 +47,7 @@ app.use(koajwt({
   secret: 'jwt-website-server'
 }).unless({
   // 配置路由，不需要经过jwt认证的路由
-  path: [/^\/user\/login/]
+  path: [/^\/user\/login/,/^\/string/]
 }))
 // logger
 app.use(async (ctx, next) => {

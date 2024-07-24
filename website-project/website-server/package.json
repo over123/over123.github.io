@@ -6,9 +6,12 @@
     "start": "node bin/www",
     "dev": "nodemon bin/www",
     "prd": "pm2 start bin/www",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "e2e": "node ./tests/e2e/speak8.spec.js"
   },
   "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
     "debug": "^4.1.1",
     "jsonwebtoken": "^9.0.2",
     "koa": "^2.7.0",
@@ -24,7 +27,8 @@
     "koa-views": "^6.2.0",
     "koa2-cors": "^2.0.6",
     "mongoose": "^8.5.0",
-    "pug": "^2.0.3"
+    "pug": "^2.0.3",
+    "selenium-webdriver": "^4.23.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"

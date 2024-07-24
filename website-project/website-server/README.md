@@ -67,3 +67,11 @@ MongoConnection();
 ```javascript
 // npm install koa-multer --save
 ```
+
+## server端解决跨域问题
+```javascript
+// app.js
+const cors = require('koa2-cors');
+// router前配置跨域
+app.use(cors())
+```
