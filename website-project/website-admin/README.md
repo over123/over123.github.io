@@ -50,3 +50,132 @@ export default {
   ],
 }
 ```
+
+## typescript 忽略路径检测
+```javascript
+// 根目录下创建文件 shims-vue.d.ts 
+declare module "*.vue" {
+    // 从 "vue" 中导入 DefineComponent 类型
+    import { DefineComponent } from "vue";
+    // 定义一个类型为 DefineComponent 的变量 component
+    // 它具有三个泛型参数，分别表示组件的 props、组件的 data 和其他的类型。
+    // 在这里，我们使用空对象（{}）表示没有 props，使用空对象（{}）表示没有 data，使用 any 表示其他类型可以是任意值。
+    const component: DefineComponent<{}, {}, any>;
+    // 导出 component 变量，这样其他地方在导入 ".vue" 文件时，TypeScript 编译器会将它识别为一个 Vue 组件
+    export default component;
+}
+
+// 配置tsconfig.json
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  },
+}
+```
+
+## Vue实例全局挂载方法
+```javascript
+// 也可直接写在main.ts
+import { App} from 'vue'
+import http from '@/http'
+export const registerCommon = (app: App<Element>) => {
+    app.config.globalProperties.$http = http; // 全局挂载http请求方法
+}
+
+// http/index.ts
+import axios from 'axios'
+
+let instance = axios.create({
+    baseURL: 'http://localhost:3000',
+    timeout: 5000, // 超时时长
+})
+
+/**
+ * @description: 请求拦截
+ * @param {*} param1
+ * @param {*} param2
+ * @return {*}
+ */
+instance.interceptors.request.use((config) => {
+    // 请求拦截需处理的内容
+    // ...
+    return config
+}, (error) => {
+    console.log('请求失败，' + error)
+    return Promise.reject(error)
+})
+
+/**
+ * @description: 响应拦截
+ * @param {*} param1
+ * @param {*} param2
+ * @return {*}
+ */
+instance.interceptors.response.use((response) => {
+    // 响应拦截需处理的内容
+    // ...
+    return response
+}, (error) => {
+    console.log('响应失败，' + error)
+    return Promise.reject(error)
+})
+
+/**
+ * @description: 封装http请求
+ * @param {*} option 配置对象，属性包括:
+ * path: 请求地址,
+ * method: 请求方法,
+ * params: 请求数据,
+ * @return {*}
+ */
+async function http(option: { method?: string, path?: string, params?: any } = {}) {
+    let result = null;
+    
+    if(option.method == 'get'  || option.method == 'delete') {
+        await instance[option.method](
+            option.path || '', // Provide a default value for option.path
+            {
+                params: option.params
+            }
+        ).then(res=> {
+            console.log(res);
+            result = res
+        }).catch(err => {
+            console.log(err);
+            result = err
+        })
+        // return instance.get(option.path || '', {params: option.params}) // Provide a default value for option.path
+    }else if(option.method == 'post'  || option.method == 'put') {
+        await instance[option.method](
+            option.path || '',
+            option.params
+        ).then(res=> {
+            console.log(res);
+            result = res
+        }).catch(err => {
+            console.log(err);
+            result = err
+        })
+    }
+
+    return result
+}
+
+export default http
+
+```
+
+## Vue全局注入方法
+
+```javascript
+// main.ts
+app.provide('$increment', increment);
+
+// 模板中使用
+import { inject } from 'vue'
+const incrment_num = inject('$increment')
+
+```

@@ -1,3 +1,12 @@
+<!--
+ * @Author: xudan
+ * @Date: 2024-07-16 15:37:16
+ * @LastEditors: xudan
+ * @LastEditTime: 2024-07-24 17:59:29
+ * @Description: home page
+ * Contact Information: E-mail: xudan@gmail.com
+ * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
+-->
 <template>
     <div class="common-layout">
         <el-container>
@@ -13,11 +22,6 @@
             <el-container>
                 <el-aside width="200px">
                     <el-menu>
-                        <!-- <el-sub-menu index="/">
-                            <template #title>
-                                <span>个人中心1</span>
-                            </template>
-                        </el-sub-menu> -->
                         <el-sub-menu index="/">
                             <template #title>
                                 <span>个人中心</span>
@@ -29,7 +33,9 @@
                                 <el-menu-item index="/users/password">修改密码</el-menu-item>
                             </router-link>
                         </el-sub-menu>
-                        <el-menu-item index="/users/password1">一级导航</el-menu-item>
+                        <router-link to="/users/schedules">
+                            <el-menu-item index="/users/schedules">日程安排</el-menu-item>
+                        </router-link>
                     </el-menu>
                 </el-aside>
                 <el-container>
@@ -44,14 +50,14 @@
 </template>
 
 <style scoped lang="less">
-.common-layout{
+.common-layout {
     height: 100%;
 
     .el-header {
         background-color: aqua
     }
 
-    .el-container{
+    .el-container {
         height: 100%;
         background-color: bisque;
     }

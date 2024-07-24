@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-04 19:49:37
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-17 18:14:03
+ * @LastEditTime: 2024-07-23 16:24:39
  * @Description: login
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -30,7 +30,7 @@
         <el-input v-model="ruleForm.username" />
       </el-form-item>
       <el-form-item label="password" prop="pwd">
-        <el-input v-model="ruleForm.pwd" />
+        <el-input v-model="ruleForm.pwd" type="password" autocomplete="off"/>
       </el-form-item>
       <el-form-item>
         <el-button type="primary" @click="submitForm(ruleFormRef)">
@@ -48,6 +48,11 @@
   <script lang="ts" setup>
   import { reactive, ref } from 'vue'
   import type { ComponentSize, FormInstance, FormRules } from 'element-plus'
+  import { useRouter } from 'vue-router';
+  import { useAuthStore } from '@/stores'
+  import { $message } from '@/utils/message'
+
+  const auth_store = useAuthStore()
   
   interface RuleForm {
     username: string
@@ -74,12 +79,27 @@
       },
     ]
   })
+
+  const router = useRouter();
   
   const submitForm = async (formEl: FormInstance | undefined) => {
     if (!formEl) return
     await formEl.validate((valid, fields) => {
       if (valid) {
         console.log('submit!')
+        
+        console.log($message)
+
+
+        // $message({
+        //   message: 'Congratulations! Login successfully!',
+        //   type: 'success'
+        // })
+
+        auth_store.update(11)
+        console.log(auth_store.user_token)
+        
+        router.push('/');
       } else {
         console.log('error submit!', fields)
       }
