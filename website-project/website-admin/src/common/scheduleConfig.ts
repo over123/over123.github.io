@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-26 12:20:23
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-26 18:56:13
+ * @LastEditTime: 2024-07-29 17:09:28
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -14,7 +14,20 @@ const defaultWeek = '2024-07-26';
 
 
 /** 表格内容数据 */
-export const scheduleData = [
+export interface ScheduleData {
+    time: string;
+    date: string;
+    professor?: string;
+    professorId?: string;
+    platform?: string;
+    meetingPlatform?: string;
+    meetingId?: string;
+    category?: string; // 英语类别: IELTS, business ...
+    available?: boolean;
+    remarks?: string;
+}
+
+export const scheduleData: ScheduleData[] = [
     {
         time: '00:00',
         date: '2024-07-27',
@@ -43,59 +56,9 @@ export const scheduleData = [
         available: true
     },
     {
-        date: '2024-07-27',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
+        time: '10:00',
+        date: '2024-07-28',
         available: true
-    },
-    {
-        date: '2024-07-26',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-    },
-    {
-        date: '2024-07-25',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-    },
-    {
-        date: '2024-07-27',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-    },
-    {
-        date: '2024-07-27',
-        time: '09:30',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-        available: false,
-    },
-    {
-        date: '2024-07-27',
-        time: '09:00',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-        available: true,
-    },
-    {
-        date: '2016-05-04',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-    },
-    {
-        date: '2016-05-01',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-    },
-    {
-        date: '2016-05-08',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
-    },
-    {
-        date: '2016-05-06',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
     }
-]
+];
 
