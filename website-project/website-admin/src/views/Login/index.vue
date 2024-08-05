@@ -30,7 +30,13 @@
         <el-input v-model="ruleForm.username" />
       </el-form-item>
       <el-form-item label="password" prop="pwd">
-        <el-input v-model="ruleForm.pwd" type="password" autocomplete="off"/>
+        <el-input
+          v-model="ruleForm.pwd"
+          type="password"
+          autocomplete="off"
+          placeholder="Please input password"
+          show-password
+        />
       </el-form-item>
       <el-form-item>
         <el-button type="primary" @click="submitForm(ruleFormRef)">

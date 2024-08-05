@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-24 11:08:52
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-29 17:31:33
+ * @LastEditTime: 2024-08-01 18:11:53
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -14,7 +14,7 @@
         <div>Time / Date</div>
       </template>
       <template #default="scope">
-        <span>{{ renderTime(scope) }}</span>
+        <span>{{ renderTime(scope).time }}</span>
       </template>
     </el-table-column>
     <el-table-column width="180" height="100%" type="index" :index="index" v-for="(day, index) in dateList">
@@ -25,12 +25,14 @@
         </div>
       </template>
       <template #default="scope">
-        <div class="content" v-if="renderData(scope)?.professor">
-          <div>{{ renderData(scope)?.professor }}</div>
-          <div>{{ renderData(scope)?.meetingPlatform + ': ' + renderData(scope)?.meetingId }}</div>
+        <div :class="(renderData(scope) as ScheduleData)?.isDisabled ? 'disabled': ''">
+            <div class="content" v-if="(renderData(scope) as ScheduleData)?.professor">
+              <div>{{ (renderData(scope) as ScheduleData)?.professor }}</div>
+              <div>{{ (renderData(scope) as ScheduleData)?.meetingPlatform + ': ' + (renderData(scope) as ScheduleData)?.meetingId }}</div>
+            </div>
+            <div class="cell-status open " v-else-if="(renderData(scope) as ScheduleData)?.available"  style="background-color: aqua;" @click="bookSchedule(scope)">OPEN</div>
+            <div class="cell-status closed" v-else> - </div>
         </div>
-        <div class="cell-status open " v-else-if="renderData(scope)?.available"   style="background-color: aqua;" @click="bookSchedule(scope)">OPEN</div>
-        <div class="cell-status closed" v-else> - </div>
       </template>
     </el-table-column>
   </el-table>
@@ -129,10 +131,18 @@ const renderTime = (data: any) => {
 const renderData = (data: any) => {
   // $index 行索引 从-1开始
   // cellIndex 列索引 从1开始
-  const { date } = dateList[data.cellIndex - 1];
-  const time = timeList[data.$index];
+  const { date, isDisabled: dateIsDisabled } = dateList[data.cellIndex - 1];
+  const { time, isDisabled: timeIsDisabled } = timeList[data.$index];
+  const today = new Date().toISOString().split('T')[0]
+  const _isDisabled = dateIsDisabled || (today == date && timeIsDisabled);
+
   const existData = scheduleData.find(item => item.time === time && item.date === date);
-  if (existData) return existData
+  return (existData ? {
+    isDisabled: _isDisabled,
+    existData
+  }: { 
+    isDisabled: _isDisabled 
+  });
 }
 
 /**
@@ -142,7 +152,7 @@ const renderData = (data: any) => {
  */
 const bookSchedule = (data: any) => {
   const { date } = dateList[data.cellIndex - 1];
-  const time = timeList[data.$index];
+  const { time } = timeList[data.$index];
   scheduleForm.date = date;
   scheduleForm.time = time;
   dialogFormVisible.value = true;
@@ -182,6 +192,9 @@ const cancelSchedule = () => {
 
 
 <style scoped lang="less">
+.disabled {
+  background-color: #999;
+}
 .cell-status {
   text-align: center;
   color: #fff;

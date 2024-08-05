@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-26 12:02:19
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-26 18:55:31
+ * @LastEditTime: 2024-08-01 18:09:11
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -23,7 +23,8 @@ const generateDateList = () => {
         date.setDate(date.getDate() + i);
         const formattedDate = date.toISOString().split('T')[0];
         const dayOfWeek = daysOfWeek[date.getDay()];
-        dateList.push({ date: formattedDate, dayOfWeek });
+        const isDisabled = date < today;
+        dateList.push({ date: formattedDate, dayOfWeek, isDisabled });
     }
     return dateList;
 }
@@ -36,10 +37,13 @@ const generateTimeList = () => {
     const timeList = [];
     let hour = 8;
     let minute = 0;
+    const today = new Date();
+    const currentHour = today.getHours();
 
     while (hour < 24) {
         const time = `${hour.toString().padStart(2, '0')}:${minute.toString().padStart(2, '0')}`;
-        timeList.push(time);
+        const isDisabled = hour < currentHour;
+        timeList.push({ time, isDisabled });
 
         minute += 30;
         if (minute >= 60) {
@@ -48,7 +52,7 @@ const generateTimeList = () => {
         }
     }
 
-    timeList.push('00:00')
+    // timeList.push({ time: '00:00', isDisabled: true });
     return timeList;
 }
 

@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-26 12:20:23
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-29 17:09:28
+ * @LastEditTime: 2024-08-01 17:50:11
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -25,6 +25,7 @@ export interface ScheduleData {
     category?: string; // 英语类别: IELTS, business ...
     available?: boolean;
     remarks?: string;
+    isDisabled?: boolean; // 当前日期/时间是否不可选
 }
 
 export const scheduleData: ScheduleData[] = [
@@ -37,8 +38,6 @@ export const scheduleData: ScheduleData[] = [
         meetingPlatform: 'tencentMeeting',
         meetingId: '123456',
         category: 'IELTS',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
         available: true,
         remarks: '备注内容'
     },
@@ -51,8 +50,6 @@ export const scheduleData: ScheduleData[] = [
         meetingPlatform: 'tencent meeting',
         meetingId: '123456',
         category: 'business',
-        name: 'Tom',
-        address: 'No. 189, Grove St, Los Angeles',
         available: true
     },
     {

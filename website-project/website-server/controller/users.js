@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-12 11:31:20
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-24 11:42:30
+ * @LastEditTime: 2024-08-01 19:56:11
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -61,6 +61,8 @@ const verify = async (ctx) => {
     token = token.replace('Bearer ','')
     try {
         const result = jwt.verify(token, 'jwt-website-server');
+        console.log(result)
+        return;
         const user = await Users.findOne({_id: result._id})
         ctx.body = {
             code: 200,

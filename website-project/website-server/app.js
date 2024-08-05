@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-04 19:57:46
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-23 18:21:44
+ * @LastEditTime: 2024-08-01 19:38:18
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -27,6 +27,7 @@ MongoConnection();
 const index = require('./routes/index')
 const users = require('./routes/users')
 const upload = require('./routes/upload')
+const experiences = require('./routes/experiences')
 
 // error handler
 onerror(app)
@@ -64,6 +65,7 @@ app.use(cors())
 app.use(index.routes(), index.allowedMethods())
 app.use(users.routes(), users.allowedMethods())
 app.use(upload.routes(), upload.allowedMethods())
+app.use(experiences.routes(), experiences.allowedMethods())
 
 // error-handling
 app.on('error', (err, ctx) => {
