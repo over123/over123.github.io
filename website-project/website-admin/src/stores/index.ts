@@ -11,7 +11,7 @@ import { defineStore } from 'pinia';
 import { ref } from 'vue';
 
 export const useAuthStore = defineStore('auth_store', () => {
-    const user_token = ref(0);
+    const user_token = ref();
     
     function update(token: number) {
         user_token.value = token

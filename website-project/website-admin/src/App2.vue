@@ -14,8 +14,28 @@ const currentInstance = getCurrentInstance();
 const $http = currentInstance?.appContext.config.globalProperties.$http;
 
 onMounted(()=>{
-  
+  // get请求测试
+  $http({
+    path: '/string',
+    method: 'get'
+  }).then((res: any)=>{
+    console.log(res);
+  })
+  // post请求测试
+  $http({
+    path: '/user/login',
+    method: 'post',
+    params: {
+      username: 'aaa',
+      pwd: '123456'
+    }
+  }).then((res: any)=>{
+    console.log(res);
+  })
 
+  const incrment_num: any = inject('$increment')
+  const num = incrment_num(5);
+  console.log(num)
 }) 
 
 

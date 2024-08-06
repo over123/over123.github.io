@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-04 19:49:37
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-23 16:24:39
+ * @LastEditTime: 2024-08-06 15:13:00
  * @Description: login
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -56,7 +56,9 @@
   import type { ComponentSize, FormInstance, FormRules } from 'element-plus'
   import { useRouter } from 'vue-router';
   import { useAuthStore } from '@/stores'
-  import { $message } from '@/utils/message'
+
+
+  // import { login } from '@/http/api';
 
   const auth_store = useAuthStore()
   
@@ -92,17 +94,20 @@
     if (!formEl) return
     await formEl.validate((valid, fields) => {
       if (valid) {
-        console.log('submit!')
+        console.log('submit!');
+  
         
-        console.log($message)
+        // const user = login(ruleForm);
+        // if(user.token) {
+        //   auth_store.update(user.token)
+        // }
 
 
         // $message({
         //   message: 'Congratulations! Login successfully!',
         //   type: 'success'
-        // })
+        // },null)
 
-        auth_store.update(11)
         console.log(auth_store.user_token)
         
         router.push('/');

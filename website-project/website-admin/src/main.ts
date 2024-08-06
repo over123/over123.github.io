@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-04 19:49:37
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-23 18:26:16
+ * @LastEditTime: 2024-08-06 14:12:06
  * @Description: main
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -15,14 +15,12 @@ import ElementPlus from 'element-plus'
 import 'element-plus/dist/index.css'
 
 import { createPinia } from 'pinia'
-import { registerCommon } from '@/common/config'
+import { registerCommon } from '@/common/registerConfig'
 
 const pinia = createPinia()
 const app = createApp(App)
 
 app.use(ElementPlus)
-
-
 
 app.use(pinia)
 

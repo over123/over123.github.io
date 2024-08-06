@@ -2,15 +2,17 @@
  * @Author: xudan
  * @Date: 2024-07-15 12:06:27
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-16 14:51:56
+ * @LastEditTime: 2024-08-06 13:40:50
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
  */
 import axios from 'axios'
+import { apiServer, debugMode } from '@/common/config'
 
+// console.log(apiServer)
 let instance = axios.create({
-    baseURL: 'http://localhost:3000',
+    baseURL: apiServer,
     timeout: 5000, // 超时时长
 })
 
@@ -25,7 +27,7 @@ instance.interceptors.request.use((config) => {
     // ...
     return config
 }, (error) => {
-    console.log('请求失败，' + error)
+    debugMode && console.log('请求失败，' + error)
     return Promise.reject(error)
 })
 
@@ -40,7 +42,7 @@ instance.interceptors.response.use((response) => {
     // ...
     return response
 }, (error) => {
-    console.log('响应失败，' + error)
+    debugMode && console.log('响应失败，' + error)
     return Promise.reject(error)
 })
 
@@ -62,10 +64,10 @@ async function http(option: { method?: string, path?: string, params?: any } = {
                 params: option.params
             }
         ).then(res=> {
-            console.log(res);
+            debugMode && console.log(res);
             result = res
         }).catch(err => {
-            console.log(err);
+            debugMode && console.log(err);
             result = err
         })
         // return instance.get(option.path || '', {params: option.params}) // Provide a default value for option.path
@@ -74,10 +76,10 @@ async function http(option: { method?: string, path?: string, params?: any } = {
             option.path || '',
             option.params
         ).then(res=> {
-            console.log(res);
+            debugMode && console.log(res.data);
             result = res
         }).catch(err => {
-            console.log(err);
+            debugMode && console.log(err);
             result = err
         })
     }
