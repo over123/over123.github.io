@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-16 15:37:16
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-24 17:59:29
+ * @LastEditTime: 2024-08-07 16:06:08
  * @Description: home page
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -22,20 +22,19 @@
             <el-container>
                 <el-aside width="200px">
                     <el-menu>
-                        <el-sub-menu index="/">
-                            <template #title>
-                                <span>个人中心</span>
-                            </template>
-                            <router-link to="/users/personal">
-                                <el-menu-item index="/users/personal">个人资料</el-menu-item>
+                        <div v-for="(menu, index) in routes">
+                            <el-sub-menu :index="menu.title" v-if="menu.children.length > 1">
+                                <template #title>
+                                    <span>{{ menu.title }}</span>
+                                </template>
+                                <router-link v-for="(item, index) in menu.children"  :to="item.path" >
+                                    <el-menu-item :index="item.path"> {{ item.meta.title }} </el-menu-item>
+                                </router-link>
+                            </el-sub-menu>
+                            <router-link :to="menu.children[0].path" v-else>
+                                <el-menu-item :index="menu.children[0].path">{{ menu.children[0].meta.title }}</el-menu-item>
                             </router-link>
-                            <router-link to="/users/password">
-                                <el-menu-item index="/users/password">修改密码</el-menu-item>
-                            </router-link>
-                        </el-sub-menu>
-                        <router-link to="/users/schedules">
-                            <el-menu-item index="/users/schedules">日程安排</el-menu-item>
-                        </router-link>
+                        </div>
                     </el-menu>
                 </el-aside>
                 <el-container>
@@ -63,3 +62,8 @@
     }
 }
 </style>
+
+<script setup>
+import { routes } from '@/common/routeConfig';
+
+</script>

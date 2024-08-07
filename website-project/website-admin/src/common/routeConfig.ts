@@ -2,42 +2,77 @@
  * @Author: xudan
  * @Date: 2024-07-23 16:09:47
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-24 17:56:40
+ * @LastEditTime: 2024-08-07 16:17:30
  * @Description: routes data
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
  */
-const routeData = [
+
+
+const routes = [
     {
-        path: '/',
-        name: 'HomePage',
-        component: () => import('@/views/Home/index.vue'),
+        menu: 'member',
+        title: '个人中心',
         children: [
             {
-                path: '/users/personal',
+                menu: 'personal',
                 name: 'UserPersonal',
+                path: '/users/personal',
                 component: () => import('@/views/User/personal.vue'),
                 meta: {
                     title: '个人资料'
                 }
             },
             {
-                path: '/users/password',
+                menu: 'password',
                 name: 'UserPassword',
+                path: '/users/password',
                 component: () => import('@/views/User/password.vue'),
                 meta: {
                     title: '修改密码'
                 }
-            },
+            }
+        ]
+    },
+    {
+        menu: 'experience',
+        title: 'Business Experience',
+        children: [
             {
-                path: '/users/schedules',
+                menu: 'experience',
+                name: 'UserExperience',
+                path: '/users/experience',
+                component: () => import('@/views/Experience/index.vue'),
+                meta: {
+                    title: '工作经历'
+                }
+            }
+        ]
+    },
+    {
+        menu: 'schedule',
+        title: 'Daily Schedule',
+        children: [
+            {
+                menu: 'schedules',
                 name: 'UserSchedules',
-                component: () => import('@/views/User/schedules.vue'),
+                path: '/users/schedules',
+                component: () => import('@/views/Schedule/index.vue'),
                 meta: {
                     title: '日程安排'
                 }
             }
-        ],
+        ]
+    },
+]
+
+
+const routeData = [
+    {
+        path: '/',
+        name: 'HomePage',
+        component: () => import('@/views/Home/index.vue'),
+        children: [...routes.flatMap(route => route.children)],
         meta: {
             requiresAuth: true,
             title: '个人中心'
@@ -53,4 +88,4 @@ const routeData = [
     },
 ]
 
-export default routeData;
+export { routes, routeData };

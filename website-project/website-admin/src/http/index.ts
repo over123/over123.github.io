@@ -2,13 +2,15 @@
  * @Author: xudan
  * @Date: 2024-07-15 12:06:27
  * @LastEditors: xudan
- * @LastEditTime: 2024-08-06 13:40:50
+ * @LastEditTime: 2024-08-07 19:15:47
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
  */
-import axios from 'axios'
+import axios, { InternalAxiosRequestConfig } from 'axios'
 import { apiServer, debugMode } from '@/common/config'
+import { useAuthStore } from '@/stores';
+const auth_store = useAuthStore()
 
 // console.log(apiServer)
 let instance = axios.create({
@@ -22,14 +24,14 @@ let instance = axios.create({
  * @param {*} param2
  * @return {*}
  */
-instance.interceptors.request.use((config) => {
+instance.interceptors.request.use((config: InternalAxiosRequestConfig) => {
     // 请求拦截需处理的内容
-    // ...
-    return config
+    config.headers['Authorization'] = 'Bearer ' + auth_store.user_token
+    return config;
 }, (error) => {
-    debugMode && console.log('请求失败，' + error)
-    return Promise.reject(error)
-})
+    debugMode && console.log('请求失败，' + error);
+    return Promise.reject(error);
+});
 
 /**
  * @description: 响应拦截
@@ -59,10 +61,7 @@ async function http(option: { method?: string, path?: string, params?: any } = {
     
     if(option.method == 'get'  || option.method == 'delete') {
         await instance[option.method](
-            option.path || '', // Provide a default value for option.path
-            {
-                params: option.params
-            }
+            option.path || '', // Provide a default value for option.path            
         ).then(res=> {
             debugMode && console.log(res);
             result = res
@@ -70,7 +69,6 @@ async function http(option: { method?: string, path?: string, params?: any } = {
             debugMode && console.log(err);
             result = err
         })
-        // return instance.get(option.path || '', {params: option.params}) // Provide a default value for option.path
     }else if(option.method == 'post'  || option.method == 'put') {
         await instance[option.method](
             option.path || '',

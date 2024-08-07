@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-04 19:57:46
  * @LastEditors: xudan
- * @LastEditTime: 2024-08-01 19:38:18
+ * @LastEditTime: 2024-08-07 19:38:03
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -44,12 +44,30 @@ app.use(views(__dirname + '/views', {
   extension: 'pug'
 }))
 
+app.use((ctx, next) => {
+  return next().catch((err) => {
+      if(err.status === 401){
+          ctx.status = 401;
+        ctx.body = 'Protected resource, use Authorization header to get access\n';
+      }else{
+          throw err;
+      }
+  })
+})
+
+
+
+
+// !!在koa-jwt 和 router前配置跨域
+app.use(cors())
+
 app.use(koajwt({
   secret: 'jwt-website-server'
 }).unless({
   // 配置路由，不需要经过jwt认证的路由
   path: [/^\/user\/login/,/^\/string/]
 }))
+
 // logger
 app.use(async (ctx, next) => {
   const start = new Date()
@@ -57,9 +75,6 @@ app.use(async (ctx, next) => {
   const ms = new Date() - start
   console.log(`${ctx.method} ${ctx.url} - ${ms}ms`)
 })
-
-// router前配置跨域
-app.use(cors())
 
 // routes
 app.use(index.routes(), index.allowedMethods())

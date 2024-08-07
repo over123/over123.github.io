@@ -2,27 +2,28 @@
  * @Author: xudan
  * @Date: 2024-08-06 12:21:02
  * @LastEditors: xudan
- * @LastEditTime: 2024-08-07 18:57:20
+ * @LastEditTime: 2024-08-07 17:46:11
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
  */
 import http from "./index";
+import { useAuthStore } from '@/stores';
+const auth_store = useAuthStore()
 
 /**
- * @description: 获取用户信息
+ * @description: get business experience
  * @param {*} params
  * @return {*}
  */
-const login = ({ username, pwd }: any): any => {
+const getExperienceList = (): any => {
     return new Promise((resolve, reject) => {
         http({
-            path: '/user/login',
+            path: '/experiences',
             method: 'post',
-            params: {
-                username,
-                pwd
-            }            
+            headers: {
+                authorization: 'Bearer ' + auth_store.user_token,
+            },
         }).then((res: any) => {
             if(res.status == 200) {
                 resolve(res.data);
@@ -35,7 +36,5 @@ const login = ({ username, pwd }: any): any => {
 }
 
 export {
-    login,
+    getExperienceList,
 }
-
-export * from "./experience"
