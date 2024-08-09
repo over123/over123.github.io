@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-11 16:03:41
  * @LastEditors: xudan
- * @LastEditTime: 2024-08-06 11:31:11
+ * @LastEditTime: 2024-08-09 18:57:22
  * @Description: model for project
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -11,7 +11,19 @@
 const mongoose = require('mongoose')
 
 const projectSchema = mongoose.Schema({
-    name: {
+    title: {
+        type: String,
+        default: ''
+    },
+    type: {
+        type: String,
+        default: ''
+    },
+    brief: {
+        type: String,
+        default: ''
+    },
+    background: {
         type: String,
         default: ''
     },

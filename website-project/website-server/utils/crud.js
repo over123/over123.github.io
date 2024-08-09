@@ -15,6 +15,7 @@
  */
 const find = (model, where, ctx) => {
     return model.find(where).then((res)=>{
+        console.log(res)
         ctx.body = {
             code: 200,
             msg: '查找成功',

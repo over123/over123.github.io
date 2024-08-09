@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-08-01 18:31:08
  * @LastEditors: xudan
- * @LastEditTime: 2024-08-06 11:27:48
+ * @LastEditTime: 2024-08-09 18:48:25
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -17,7 +17,7 @@ const projectFind = async (ctx) => {
     token = token.replace('Bearer ','');
     try {
         // Set the response body with the user's work project
-        const projects = await crul.find(Projects, null ,ctx);
+        const projects = await crud.find(Projects, null ,ctx);
         ctx.body = {
             msg: 'Projects',
             data: projects

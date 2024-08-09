@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-08-01 18:31:08
  * @LastEditors: xudan
- * @LastEditTime: 2024-08-07 19:21:34
+ * @LastEditTime: 2024-08-08 11:20:59
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -18,10 +18,11 @@ const experienceFind = async (ctx) => {
     try {
         // Set the response body with the user's work experience
         const experiences = await crud.find(Experiences, null ,ctx);
-        ctx.body = {
-            msg: 'Experiences',
-            data: experiences
-        };
+        // console.log(experiences)
+        // ctx.body = {
+        //     msg: 'Experiences',
+        //     data: experiences
+        // };
     } catch (error) {
         // Handle any errors that occur during the process
         ctx.status = 500;
