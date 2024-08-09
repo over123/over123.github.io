@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-08-07 16:13:53
  * @LastEditors: xudan
- * @LastEditTime: 2024-08-09 18:20:08
+ * @LastEditTime: 2024-08-09 19:12:53
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -12,15 +12,15 @@
     <el-button type="primary" @click.stop="openDrawer">Add</el-button>
   </div>
   <el-collapse v-model="activeIndex" accordion class="collapse_container">
-    <el-collapse-item :title="experience.company" :name="index" v-for="(experience, index) in experienceList"
-      :key="experience._id">
+    <el-collapse-item :title="project.title" :name="index" v-for="(project, index) in projectList"
+      :key="project._id">
       <template #title class="collapse-title_container">
-        {{ experience.company }}
-        <el-button type="primary" @click.stop="openDrawer(experience)">Edit</el-button>
-        <el-button type="danger" @click.stop="deleteExperience(experience._id)">Delete</el-button>
+        {{ project.company }}
+        <el-button type="primary" @click.stop="openDrawer(project)">Edit</el-button>
+        <el-button type="danger" @click.stop="deleteProject(project._id)">Delete</el-button>
       </template>
-      <el-descriptions class="experience-card_container">
-        <el-descriptions-item>{{ experience.startTime }} - {{ experience.endTime }}</el-descriptions-item>
+      <el-descriptions class="project-card_container">
+        <el-descriptions-item>{{ project.startTime }} - {{ project.endTime }}</el-descriptions-item>
         <el-descriptions-item label="Place">Suzhou</el-descriptions-item>
         <el-descriptions-item label="Remarks">
           <el-tag size="small">School</el-tag>
@@ -33,49 +33,47 @@
   </el-collapse>
 
 
-  <el-drawer v-model="drawer" title="Edit the experience" :direction="direction" :before-close="handleClose" size='40%'>
-    <Edit v-model:experience="experience" @closeDrawer="closeDrawer"></Edit>
+  <el-drawer v-model="drawer" title="Edit the project" :direction="direction" :before-close="handleClose" size='40%'>
+    <Edit v-model:project="project" @closeDrawer="closeDrawer"></Edit>
   </el-drawer>
 
 </template>
 
 <script lang="ts" setup>
-import { getExperienceList, delExperience } from '@/http/api';
+import { getProjectList, delProject } from '@/http/api';
 import { onMounted, ref, reactive } from 'vue';
 import { $message } from '@/utils/message';
 import type { DrawerProps } from 'element-plus'
 
-import Edit from '@/components/experience/edit.vue'
+import Edit from '@/components/project/edit.vue'
 
-interface Experience {
+interface Project {
   _id?: string;
-  startTime?: string;
-  endTime?: string;
-  company?: string;
-  description?: string;
-  job?: string;
+  brief?: string; // project brief 
+  type?: string; // 'miniprogram' or 'website' or 'h5' 
+  background?: string; // project background
+  description?: string; // project description
   limits?: number;
 }
 
 const drawer = ref(false)
 const direction = ref<DrawerProps['direction']>('rtl')
-const experienceDefault:Experience = {
+const projectDefault:Project = {
   "_id": '',
-  "startTime": '',
-  "endTime": '',
-  "company": '',
+  "brief": '',
+  "type": '',
+  "background": '',
   "description": '',
-  "job": '',
   "limits": 1
 }
-const experience = ref(experienceDefault)
+const project = ref(projectDefault)
 
 
-const experienceList = ref([]);
+const projectList = ref([]);
 const activeIndex = ref('1')
 
 onMounted(async () => {
-  getExperiences();
+  getProjects();
 })
 
 
@@ -83,9 +81,9 @@ onMounted(async () => {
  * @description: 获取经历列表
  * @return {*}
  */
-const getExperiences = async () => {
-  const { res } = await getExperienceList();
-  experienceList.value = res;
+const getProjects = async () => {
+  const { res } = await getProjectList();
+  projectList.value = res;
 }
 
 /**
@@ -93,14 +91,14 @@ const getExperiences = async () => {
  * @param {*} id
  * @return {*}
  */
-const deleteExperience = (id: string) => {
+const deleteProject = (id: string) => {
   $message.confirm('Are you sure you want to delete this?')
     .then(async () => {
       // delete
-      const res = await delExperience(id);
+      const res = await delProject(id);
       if (res.code == 200) {
         $message.success('Delete successfully');
-        getExperiences();
+        getProjects();
       }
     })
     .catch(() => {
@@ -111,15 +109,15 @@ const deleteExperience = (id: string) => {
 
 /**
  * @description: 打开抽屉
- * @param {*} experienceItem
+ * @param {*} projectItem
  * @return {*}
  */
-const openDrawer = (experienceItem: Experience) => {
-  if (experienceItem && experienceItem._id) {
-    experience.value = experienceItem
+const openDrawer = (projectItem: Project) => {
+  if (projectItem && projectItem._id) {
+    project.value = projectItem
     debugger
   } else {
-    experience.value = experienceDefault;
+    project.value = projectDefault;
   }
   drawer.value = true
 }
@@ -130,7 +128,7 @@ const openDrawer = (experienceItem: Experience) => {
  */
 const closeDrawer = () => {
   drawer.value = false;
-  getExperiences();
+  getProjects();
 }
 
 /**
@@ -177,7 +175,7 @@ const handleClose = (done: () => void) => {
   }
 }
 
-.experience-card_container {
+.project-card_container {
   background: #eee;
   margin-top: 28px;
 

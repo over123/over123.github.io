@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-08-06 12:21:02
  * @LastEditors: xudan
- * @LastEditTime: 2024-08-08 18:52:02
+ * @LastEditTime: 2024-08-09 18:42:18
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -12,14 +12,14 @@ import { useAuthStore } from '@/stores';
 const auth_store = useAuthStore()
 
 /**
- * @description: get business experience
+ * @description: get business project
  * @param {*} params
  * @return {*}
  */
-const getExperienceList = (): any => {
+const getProjectList = (): any => {
     return new Promise((resolve, reject) => {
         http({
-            path: '/experiences',
+            path: '/projects',
             method: 'post',
             headers: {
                 authorization: 'Bearer ' + auth_store.user_token,
@@ -34,32 +34,10 @@ const getExperienceList = (): any => {
         })
     })
 }
-const getExperienceOne = (_id:string): any => {
+const getProjectOne = (_id:string): any => {
     return new Promise((resolve, reject) => {
         http({
-            path: '/experiences/one',
-            method: 'post',
-            headers: {
-                authorization: 'Bearer ' + auth_store.user_token,
-            },
-            params: {
-                _id
-            }
-        }).then((res: any) => {
-            if(res.status == 200) {
-                resolve(res.data);
-            }
-        }).catch((err: any) => {
-            console.log(err);
-            reject();
-        })
-    })
-}
-
-const delExperience = (_id:string): any => {
-    return new Promise((resolve, reject) => {
-        http({
-            path: '/experiences/del',
+            path: '/projects/one',
             method: 'post',
             headers: {
                 authorization: 'Bearer ' + auth_store.user_token,
@@ -78,10 +56,32 @@ const delExperience = (_id:string): any => {
     })
 }
 
-const updateExperience = (params:any): any => {
+const delProject = (_id:string): any => {
     return new Promise((resolve, reject) => {
         http({
-            path: '/experiences/update',
+            path: '/projects/del',
+            method: 'post',
+            headers: {
+                authorization: 'Bearer ' + auth_store.user_token,
+            },
+            params: {
+                _id
+            }
+        }).then((res: any) => {
+            if(res.status == 200) {
+                resolve(res.data);
+            }
+        }).catch((err: any) => {
+            console.log(err);
+            reject();
+        })
+    })
+}
+
+const updateProject = (params:any): any => {
+    return new Promise((resolve, reject) => {
+        http({
+            path: '/projects/update',
             method: 'post',
             headers: {
                 authorization: 'Bearer ' + auth_store.user_token,
@@ -98,10 +98,10 @@ const updateExperience = (params:any): any => {
     })
 }
 
-const addExperience = (params:any): any => {
+const addProject = (params:any): any => {
     return new Promise((resolve, reject) => {
         http({
-            path: '/experiences/add',
+            path: '/projects/add',
             method: 'post',
             headers: {
                 authorization: 'Bearer ' + auth_store.user_token,
@@ -119,9 +119,9 @@ const addExperience = (params:any): any => {
 }
 
 export {
-    getExperienceList,
-    getExperienceOne,
-    addExperience,
-    delExperience,
-    updateExperience
+    getProjectList,
+    getProjectOne,
+    addProject,
+    delProject,
+    updateProject
 }
