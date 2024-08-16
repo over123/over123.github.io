@@ -2,13 +2,14 @@
  * @Author: xudan
  * @Date: 2024-07-24 11:08:52
  * @LastEditors: xudan
- * @LastEditTime: 2024-08-07 16:14:28
+ * @LastEditTime: 2024-08-16 13:55:32
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
 -->
 <template>
-  <el-table :data="scheduleList" style="width: 100%;height: 100%;">
+  <div>
+    <el-table :data="scheduleList" style="width: 100%;height: 100%;">
     <el-table-column fixed width="120">
       <template #header>
         <div>Time / Date</div>
@@ -17,14 +18,14 @@
         <span>{{ renderTime(scope).time }}</span>
       </template>
     </el-table-column>
-    <el-table-column width="180" height="100%" type="index" :index="index" v-for="(day, index) in dateList">
+    <el-table-column width="180" height="100%" type="index" :key="index" :index="index" v-for="(day, index) in dateList" :formatter="formatData">
       <template #header>
         <div style="text-align: center;">
           <div>{{ day.date }}</div>
           <div>{{ day.dayOfWeek }}</div>
         </div>
       </template>
-      <template #default="scope">
+      <!-- <template #default="scope">
         <div :class="(renderData(scope) as ScheduleData)?.isDisabled ? 'disabled': ''">
             <div class="content" v-if="(renderData(scope) as ScheduleData)?.professor">
               <div>{{ (renderData(scope) as ScheduleData)?.professor }}</div>
@@ -33,7 +34,7 @@
             <div class="cell-status open " v-else-if="(renderData(scope) as ScheduleData)?.available"  style="background-color: aqua;" @click="bookSchedule(scope)">OPEN</div>
             <div class="cell-status closed" v-else> - </div>
         </div>
-      </template>
+      </template> -->
     </el-table-column>
   </el-table>
   <el-dialog v-model="dialogFormVisible" title="Schedule book" width="500">
@@ -89,12 +90,15 @@
       </div>
     </template>
   </el-dialog>
+  </div>
+  
 </template>
 
 <script lang="ts" setup>
 import { dateList, timeList, scheduleList } from "@/utils/datetime";
 import { ScheduleData, scheduleData } from "@/common/scheduleConfig";
 import { ref, reactive } from "vue";
+import { TableColumnCtx } from "element-plus";
 
 const dialogFormVisible = ref(false)
 const scheduleForm = reactive({
@@ -113,6 +117,11 @@ const scheduleForm = reactive({
 });
 
 const formLabelWidth = '140px'
+
+
+const formatData = (row:  ScheduleData, column: TableColumnCtx<ScheduleData>) => {
+  return row.date
+}
 
 /**
  * @description: 渲染早8点到晚12点的时间列,表格首列数据
@@ -139,10 +148,10 @@ const renderData = (data: any) => {
   const existData = scheduleData.find(item => item.time === time && item.date === date);
   return (existData ? {
     isDisabled: _isDisabled,
-    existData
+    ...existData
   }: { 
     isDisabled: _isDisabled 
-  });
+  })
 }
 
 /**

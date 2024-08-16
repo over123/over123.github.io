@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-23 16:09:47
  * @LastEditors: xudan
- * @LastEditTime: 2024-08-07 16:17:30
+ * @LastEditTime: 2024-08-12 13:45:11
  * @Description: routes data
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -12,7 +12,7 @@
 const routes = [
     {
         menu: 'member',
-        title: '个人中心',
+        title: 'Member Center',
         children: [
             {
                 menu: 'personal',
@@ -36,7 +36,7 @@ const routes = [
     },
     {
         menu: 'experience',
-        title: 'Business Experience',
+        title: 'Project & Experience',
         children: [
             {
                 menu: 'experience',
@@ -45,6 +45,15 @@ const routes = [
                 component: () => import('@/views/Experience/index.vue'),
                 meta: {
                     title: '工作经历'
+                }
+            },
+            {
+                menu: 'project',
+                name: 'UserProject',
+                path: '/users/project',
+                component: () => import('@/views/Project/index.vue'),
+                meta: {
+                    title: '项目经验'
                 }
             }
         ]

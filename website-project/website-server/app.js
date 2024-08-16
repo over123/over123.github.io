@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-04 19:57:46
  * @LastEditors: xudan
- * @LastEditTime: 2024-08-09 18:47:43
+ * @LastEditTime: 2024-08-14 17:59:08
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -56,10 +56,7 @@ app.use((ctx, next) => {
   })
 })
 
-
-
-
-// !!在koa-jwt 和 router前配置跨域
+// !! cors跨域需在koa-jwt 和 router前配置跨域
 app.use(cors())
 
 app.use(koajwt({

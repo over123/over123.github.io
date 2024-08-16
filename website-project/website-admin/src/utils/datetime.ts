@@ -1,3 +1,12 @@
+/*
+ * @Author: xudan
+ * @Date: 2024-07-26 12:02:19
+ * @LastEditors: xudan
+ * @LastEditTime: 2024-08-12 13:48:27
+ * @Description: 
+ * Contact Information: E-mail: xudan@gmail.com
+ * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
+ */
 /**
  * @description: Generate a list of dates for the next seven days, including today
  * @return {Array}
@@ -31,7 +40,7 @@ const generateTimeList = () => {
 
     while (hour < 24) {
         const time = `${hour.toString().padStart(2, '0')}:${minute.toString().padStart(2, '0')}`;
-        const isDisabled = hour < currentHour;
+        const isDisabled = hour <= currentHour;
         timeList.push({ time, isDisabled });
 
         minute += 30;

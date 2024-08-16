@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-16 15:37:16
  * @LastEditors: xudan
- * @LastEditTime: 2024-08-07 16:06:08
+ * @LastEditTime: 2024-08-12 13:46:34
  * @Description: home page
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -32,7 +32,7 @@
                                 </router-link>
                             </el-sub-menu>
                             <router-link :to="menu.children[0].path" v-else>
-                                <el-menu-item :index="menu.children[0].path">{{ menu.children[0].meta.title }}</el-menu-item>
+                                <el-menu-item :index="menu.children[0].path">{{ menu.title }}</el-menu-item>
                             </router-link>
                         </div>
                     </el-menu>
