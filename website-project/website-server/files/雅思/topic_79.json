@@ -1,0 +1,43 @@
+{
+  "topicId": 79,
+  "summaryTitle": "雅思",
+  "title": "Social media",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "1. When did you start using social media?",
+          "2. Do you think you spend too much time on social media?",
+          "3. Do your friends use social media?",
+          "4. What do people often do on social media?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a place in your country that you think is interesting",
+          "You should say:",
+          "Where it is",
+          "How you knew it",
+          "What special features it has",
+          "And explain why you think it is interesting"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1.How can people access travel information?",
+          "2.Do people have different personalities in different regions of your country?",
+          "3.What causes the differences between different regions of your country?",
+          "4.ls it just youngsters who like to try new things, or do people of your parents' age",
+          "also like to try new things?",
+          "5.ls a great tourist destination also a good place to live?",
+          "6.Why do people who go to live in small towns think these towns are more",
+          "interesting"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

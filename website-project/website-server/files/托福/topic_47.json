@@ -1,0 +1,116 @@
+{
+  "topicId": 47,
+  "summaryTitle": "托福",
+  "title": "Official 09",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Question",
+          "Some people think that family members are the most important influence on young adults. Others believe that friends are the most important influence. Which do you agree with? Explain why."
+        ],
+        "singleItemTitle": "TASK1家人朋友"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Required Work Experience",
+          "The business studies department at State University will now require all students enrolled in its program to complete one semester of work experience in a local corporation or small business. It is felt that students will benefit from this work experience by developing leadership and organizational skills that would not normally be learned in a classroom or campus setting. Furthermore, the relationships that students establish with the company that they work for may help them to secure permanent employment with that company once they have completed the program and graduated.",
+          "Listening查看文本",
+          "Narrator: Now listen to two students discussing the announcement.",
+          "Man: Did you read this announcement?",
+          "Woman: Yeah, and I disagree-",
+          "I don't think it will actually help students.",
+          "Man: Really? Why not?",
+          "Woman: Well, they talked about leadership and organizational skills,",
+          "but that's not really the kind of work you do.",
+          "Like my older brother's had the kind of jobs they're talking about...",
+          "and typically you're just there to do basic tasks like typing or filing stuff-",
+          "nothing very meaningful.",
+          "Man: Oh, so you wouldn't actually learn anything new.",
+          "Woman: Exactly.",
+          "Man: I guess I see what you mean-",
+          "but what about the other point they make?",
+          "Woman: About this helping us after we graduate? I don't agree.",
+          "Man: How come?",
+          "Woman: Well, the problem is that there are lots of other universities in our area that have the same requirement,",
+          "so there are lots of other students at these positions.",
+          "Man: Yeah, I guess I hadn't thought of that.",
+          "Woman: So even if you take a position like this in a company while you're still a student,",
+          "once you graduate,",
+          "the competition for permanent jobs will be impossible.",
+          "I mean, there just won't be enough jobs available for all the business graduates in the city who will be looking for full-time work.",
+          "Man: Hmm... I see what you're saying.",
+          "Question",
+          "The woman expresses her opinion of the university's new policy. State her opinion and explain the reasons she gives for holding that opinion."
+        ],
+        "singleItemTitle": "TASK2学术要求"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "The Establishing Shot",
+          "Film directors use different types of camera shots for specific purposes. An establishing shot is an image shown briefly at the beginning of a scene, usually taken from far away, that is used to provide context for the rest of the scene. One purpose of the establishing shot is to communicate background information to the viewer, such as the setting—where and when the rest of the scene will occur. It also establishes the mood or feeling of the scene. Due to the context that the establishing shot provides, the characters and events that are shown next are better understood by the viewer.",
+          "Listening查看文本",
+          "Narrator: Now listen to part of a lecture on this topic in a Film class.",
+          "Professor: So the other day I went to this great new movie,",
+          "and one of the scenes in particular, I thought, was really set up nicely.",
+          "At the start of the scene, before the action and talking and things started, you saw on the movie screen an image of a city.",
+          "You could tell it was a big city.",
+          "There were a lots of buildings, tall ones, skyscrapers.",
+          "And the cars and signs on the city streets looked old fashioned,",
+          "like they were from the past, like the nineteen forties.",
+          "The other thing I noticed right away from this first image, just when the scene started,",
+          "was that the city seemed gloomy.",
+          "You couldn't see much because it was... well, there was mostly darkness rather than sunlight,",
+          "and there was only just a little bit of light from the street lamps.",
+          "On top of that, it was raining and kind of foggy.",
+          "All of these details work together to create a dark, gloomy, mysterious feeling.",
+          "So then, when the action started and it showed detectives talking to each other in an office,",
+          "I already knew that the office was located in a tall building in a big city,",
+          "some time in the nineteen forties.",
+          "And I had a good idea that the events that would be taking place would be pretty dark and mysterious,",
+          "because of the shot, the image, I saw at the beginning of the scene.",
+          "Question",
+          "Using the professor's example, explain what an establishing shot is and how it is used."
+        ],
+        "singleItemTitle": "TASK3艺术"
+      },
+      {
+        "singleItemContent": [
+          "Listening查看文本",
+          "Narrator: Listen to part of a lecture in a Biology class.",
+          "Professor: We all know that insects like to eat plants,",
+          "but some plants have been able to... to develop ways to protect themselves from insects.",
+          "Today, I'm going to talk about some ways plants defend themselves.",
+          "Now some plants have physical features that prevent insects from landing on them,",
+          "like the passion plant, for example.",
+          "Its leaves have little spiky hairs all over them.",
+          "They're like spikes sticking out of the plant that are so numerous and dense that they prevent insects from landing on the leaves.",
+          "Basically, there's just no room for the insect to land.",
+          "And since insects can't land on the leaves,",
+          "they can't eat them.",
+          "So the little hairs serve as a physical feature that helps protect the passion plant from insects.",
+          "All right,",
+          "but other plants protect themselves using chemical defenses, like the potato plant.",
+          "The potato plants able to release a chemical throughout its leaf system whenever an insect attacks it, starts eating leaf.",
+          "So, say an insect starts eating a potato plant's leaf, that will cause the plant to react,",
+          "by releasing a chemical throughout its leaf system.",
+          "The insects swallows this chemical as it eats,",
+          "and this chemical discourages the insect from wanting to eat any more of the plant.",
+          "How?",
+          "Well, the substance makes the insect feel full,",
+          "like it's already had enough to eat.",
+          "The insect no longer feels hungry,",
+          "so it stops eating the plant.",
+          "So by emitting this chemical,",
+          "the potato plant protects itself from insects.",
+          "Question",
+          "Using points from the lecture, explain how the passion plant and the potato plant defend themselves from insects."
+        ],
+        "singleItemTitle": "TASK4生物"
+      }
+    ]
+  }
+}

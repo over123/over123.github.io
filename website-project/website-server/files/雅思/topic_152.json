@@ -1,0 +1,39 @@
+{
+  "topicId": 152,
+  "summaryTitle": "雅思",
+  "title": "Sitting down & Invention that has changed the world",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Where is your favorite place to sit ?",
+          "Do you always sit down for a long time?",
+          "Do you feel sleepy when you are sitting down?",
+          "When you were a kid, did you usually sit  on the floor?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an invention that has changed the world in a positive way",
+          "You should say :",
+          "What it is",
+          "Wuat benefits it has brought",
+          "How it influences people of different ages",
+          "And explain how  it changed people’s lives"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What is the most helpfu; innovation at home?",
+          "What household appliances makes us lazy?",
+          "What kind of invention can beused at school?",
+          "Do you thik AI will replace human teachers? Why?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

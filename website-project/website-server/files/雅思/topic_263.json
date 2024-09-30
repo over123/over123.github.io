@@ -1,0 +1,39 @@
+{
+  "topicId": 263,
+  "summaryTitle": "雅思",
+  "title": "Daily Routine",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What is your typical morning routine?",
+          "What would you like to change about it?",
+          "Do you think breakfast is important?",
+          "What is the best thing about your morning routine at the weekends?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a typical day at work/college/university. You should say:",
+          "what you do",
+          "when you do it",
+          "what your favourite part of the day is and explain what you would like to change about this routine."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What is the attitude towards arriving late in your country?",
+          "When is it very important to be on time?",
+          "How can people make sure that they are never late?",
+          "What factors influence most people's daily routines?",
+          "Do you think people get enough choice in their daily routines?",
+          "How do you think people's routines will change in the future?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

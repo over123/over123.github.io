@@ -1,0 +1,39 @@
+{
+  "topicId": 144,
+  "summaryTitle": "雅思",
+  "title": "Books and reading habits & Quite place",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you often read books? When?",
+          "Do you read differently now that you did before?",
+          "Have you ever read a novel that has been adapted into film?",
+          "Which do you prefer, readingbooks or watching movies?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a quiet place you like to go",
+          "You should say:",
+          "Where it is",
+          "How you knew it",
+          "How often you go there",
+          "And explain how you feel about the place"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Is it easy to find quiet places in your country? Why?",
+          "Why do old people prefer to live in quiet places",
+          "Why are there  more  noises made at home now than in the past?",
+          "Why do some people like to use noise as background sound when they are working or studying?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

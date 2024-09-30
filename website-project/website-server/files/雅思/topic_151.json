@@ -1,0 +1,39 @@
+{
+  "topicId": 151,
+  "summaryTitle": "雅思",
+  "title": "Computers & Positive change",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "In what conditions would you use a computer ?",
+          "When was the first time you used computer?",
+          "What would your life be like without computers?",
+          "In what conditions would it be difficult for you to use a computer?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a positive change that you made in your life",
+          "You should say:",
+          "What it is",
+          "Why you did it",
+          "Who you did it with",
+          "And explain how you feel about the change"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "It is easier for young people to change ?",
+          "Is it easy for old people to change?",
+          "How  can people change their daily routine if they want to?",
+          "What are the disadvantages when people keep making changes?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

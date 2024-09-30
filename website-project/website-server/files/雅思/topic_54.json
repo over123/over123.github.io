@@ -1,0 +1,41 @@
+{
+  "topicId": 54,
+  "summaryTitle": "雅思",
+  "title": "Sharing",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Did your parents teach you to share when you were a child?",
+          "What kind of things do you like to share with others?",
+          "What kind of things are not suitable for sharing?",
+          "Do you have anything to share with others recently?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an advertisement you have seen but you did not like",
+          "You should say:",
+          "Where and when you saw it",
+          "What the advertisement was for",
+          "What you could see in the advertisement",
+          "And explain why you did not like the advertisement"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What role does social media play in advertising?",
+          "Does advertising encourage us to buy things we don't need?",
+          "What do you think of celebrity endorsements in advertising?",
+          "What are the benefits of advertising?",
+          "Which one is more effective, newspaper advertising or online advertising?",
+          "What are the most advertised products in your country?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

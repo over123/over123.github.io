@@ -1,0 +1,38 @@
+{
+  "topicId": 120,
+  "summaryTitle": "雅思",
+  "title": "Social media & Character from a film",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like using social media ?",
+          "Do you think your friends use too much social media?",
+          "Do you want to work in social media?Why?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a character from a film",
+          "You should say:",
+          "What character it is who acted the character",
+          "When you saw the film",
+          "And explain whether you lik this character"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Is it interesting to be an actor/actress?",
+          "What can children learn from acting?",
+          "Why do children like special costume?",
+          "What are the differences between actors/actresses who earn much and those who earn little?",
+          "What are the differences between acting in a theatreand in a film?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

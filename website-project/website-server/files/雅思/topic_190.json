@@ -1,0 +1,39 @@
+{
+  "topicId": 190,
+  "summaryTitle": "雅思",
+  "title": "Pets and Animals & Habit",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "  What’s you favorite animal?Why?",
+          "  What is the most popular animal in China?",
+          "  Have you ever had a pet before?",
+          "  Where do you prefer to keep your pet, indoors or outdoors?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "  Describe a habit your friend has and you want to develop",
+          "  Wou should say:",
+          "  Who your friend is",
+          "  What habit he/she has",
+          "  When you noticed this habit",
+          "  And explain why you want to develop this habit"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "  What habits should children have?",
+          "  What should parents do to teach their children good habits?",
+          "  What influences do children with bad habits have on other children?",
+          "  Why do some habits change when people get older."
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

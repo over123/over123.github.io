@@ -1,0 +1,44 @@
+{
+  "topicId": 18,
+  "summaryTitle": "雅思",
+  "title": "Internet",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "When did you start using the internet?",
+          "How often do you go online?",
+          "How does the internet influence people?",
+          "Do you think you spend too much time online?",
+          "What would you do without the internet?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an indoor or outdoor place where it is easy for you to study",
+          "You should say:",
+          "Where it is",
+          "What it is like",
+          "When you go there",
+          "What you study there",
+          "And explain why you would like to study in this place"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you like to learn on your own or with others?",
+          "What’s the difference between learning face-to-face with teachers and learning by",
+          "yourself?",
+          "Do you prefer to study at home or study in other places?",
+          "What are the benefits of gaining work experience while studying?",
+          "Do most people like to study in a noisy place?",
+          "What are the advantages and disadvantages of studying with other people?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

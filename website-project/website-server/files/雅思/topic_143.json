@@ -1,0 +1,39 @@
+{
+  "topicId": 143,
+  "summaryTitle": "雅思",
+  "title": "Doing sports & Something you do to keep healthy",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What sports do you like?",
+          "Where did you learn how to do it?",
+          "Did you do some sports when you were young?",
+          "Do you think students need more exercise?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe  something you do to keep fit and healthy",
+          "You should say:",
+          "What it is",
+          "When you do it",
+          "Who you do it with",
+          "And explain why you think this method is importan"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "How do children and old people keep fit and healthy?",
+          "What do people normally do to keep fit and healthy in your country",
+          "How can parents help and guide their kids to keep healthy?",
+          "Do you think it is a good way for governments to use the power of idol to help people to build health awareness?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

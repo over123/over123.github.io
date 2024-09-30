@@ -1,0 +1,42 @@
+{
+  "topicId": 42,
+  "summaryTitle": "雅思",
+  "title": "Librar",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you often go to the library？",
+          "What do you usually do in the library？",
+          "Did you go to the library when you were a kid？",
+          "Do Chinese kids often go to the library？"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a person who thinks music is important and enjoys music",
+          "You should say:",
+          "Who this person is",
+          "How you knew him/her",
+          "What music he/she likes",
+          "Why he/she thinks music is important",
+          "And explain how you feel about him/her"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What do you think about playing music for children in class?",
+          "Why do many teachers incorporate music into the classroom？",
+          "Do you think there are any advantages to a shop with music playing?",
+          "Would people’s shopping behaviour be affected in a shop with music?",
+          "What do you think would be the effect of background music in a film?",
+          "Do you think very few people notice background music?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

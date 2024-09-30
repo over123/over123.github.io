@@ -1,0 +1,41 @@
+{
+  "topicId": 70,
+  "summaryTitle": "雅思",
+  "title": "Feeling bored",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "1.Do you often feel bored?",
+          "2.When would you feel bored?",
+          "3.What do you do when you feel bored?",
+          "4.Do you think childhood is boring or adulthood is boring?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a rule that is important in your school or at work",
+          "You should say:",
+          "What the rule is about",
+          "What happens when people break the rule",
+          "Why you think it is an important rule",
+          "And explain how you feel about the rule"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1.What rules should children follow at home in your country?",
+          "2.On what occasions can children be forgiven if they don't follow some rules?",
+          "3.What rules should people follow when using public transport?",
+          "4.What kinds of rules do people need to follow in public places?",
+          "5.What are the reasons that cause people to break rules?",
+          "6.When people break rules ,how would they be punished in your country?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

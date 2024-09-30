@@ -1,0 +1,41 @@
+{
+  "topicId": 252,
+  "summaryTitle": "雅思",
+  "title": "Money",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "How important is money to you?",
+          "What sorts of things do you like to spend spare money on?",
+          "What was the last thing you bought yourself as a treat?",
+          "It is difficult to control your spending?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe something you bought that you had to save money for.",
+          "You should say:",
+          "what it was",
+          "how long you saved money for it",
+          "how you saved the money",
+          "and explain how you felt after you bought it."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you think children should be taught to save money?",
+          "Why do some parents give their children money to spend each week?",
+          "Should children be allowed to buy anything they want with the money they’ve saved?",
+          "Do you think it is a good idea for students to earn money while studying?",
+          "What kind of possessions show status in your country?",
+          "Modern society is often called ‘materialistic’. Why do you think this is?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topicId": 130,
+  "summaryTitle": "雅思",
+  "title": "House work & Photo you’re proud of",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like cooking?",
+          "Do you want to learn how to cook well?",
+          "Who does the cooking in your family?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe the photo you took that tou are proud of",
+          "You should say:",
+          "When you took it",
+          "Where you too it",
+          "What is in this photo",
+          "And explain why you are proud of it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Why do some people like to recors important things with photos?",
+          "What can people learn from historical photographs?",
+          "Is taking photos the best wat to remember something?",
+          "What do ou think of beautified selfies?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

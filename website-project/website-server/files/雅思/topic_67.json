@@ -1,0 +1,41 @@
+{
+  "topicId": 67,
+  "summaryTitle": "雅思",
+  "title": "Fishing",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " 1. Is fishing popular in your country?",
+          " 2. Do you like eating fish?",
+          " 3. Have you ever been to a place where there are lots of fish around you?",
+          " 4. Have you seen any movies with lots of fish?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Describe a bad service you received in a restaurant/shop",
+          " You should say:",
+          " When and where it happened",
+          " What happened",
+          " How it was solved",
+          " And explain how you felt about the experience"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " 1.What kinds of service are bad services?",
+          " 2.Why do some people choose to remain silent when they receive bad services?",
+          " 3.Who should be responsible for bad services?",
+          " 4.As a boss, what would you do to prevent bad service?",
+          " 5.Does providing good employee training always lead to good customer service?",
+          " 6.Why are some people often dissatisfied with customer service?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

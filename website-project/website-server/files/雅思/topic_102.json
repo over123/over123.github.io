@@ -1,0 +1,41 @@
+{
+  "topicId": 102,
+  "summaryTitle": "雅思",
+  "title": "TEACHERS & in the future",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you want to be a teacher in the future?",
+          "Do you remember one of your teachers?",
+          "What were your primary school teachers like?",
+          "Do you have a favorite teacher?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a water sport you would like to try in the future",
+          "You should say:",
+          "What it is",
+          "Where you would like to try it",
+          "Whether it is difficult",
+          "And explain why you would like to try it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What are the advantages of water transportation?",
+          "Why do people like to live near water?",
+          "What kinds of water sports are popular nowadays?",
+          "Do you think it is good to teach swimming in school?",
+          "What do you think of the people who waste water?",
+          "What are the characteristics of goods transported by water?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

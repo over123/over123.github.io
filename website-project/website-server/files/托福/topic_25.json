@@ -1,0 +1,115 @@
+{
+  "topicId": 25,
+  "summaryTitle": "托福",
+  "title": "Official 31",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Question",
+          "Some university students choose to take difficult classes even if they know they might not get a good grade in the class. Other students prefer to take easier classes in which they know they will get a good grade. Which do you prefer? Explain why."
+        ],
+        "singleItemTitle": "TASK1教育学习"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Students Need Access to Movie Collection",
+          "The university has a large collection of films on video and DVD that students can borrow. However, students aren't allowed to go into the area where these items are kept. Instead, students need to request a movie title, and then library staff gets it for them. I think students should be allowed to go into the area where the videos and DVDs are kept. First, it will be easier for students to choose a good movie because then they can easily see what is available. Also, if students can get movies themselves, the university won't have to pay extra library staff to help students.",
+          "Sincerely,",
+          "Rebecca Smith",
+          "Listening查看文本",
+          "Narrator: Now listen to two students discussing the letter.",
+          "Woman: What do you think?",
+          "Man: I don't think we need to change anything.",
+          "Woman: You don't think she's right that it would be easier?",
+          "Man: Well, I just don't think it's that difficult now.",
+          "I mean, the library has a really good computer system where you can easily see what they have in their collection,",
+          "see what's available and what's not.",
+          "Woman: Yeah, you can always look through the titles on the library computers.",
+          "Man: Right. And you don't even have to have an exact title in mind.",
+          "You can just look for certain types of movies or movies with certain actors or whatever.",
+          "Woman: Good point.",
+          "Man: And as far as what she said about the staff,",
+          "the people who do that work are students who really need the money to pay for books and stuff.",
+          "Woman: True.",
+          "Man: Plus, I'm sure those students don't get paid that much to do the work.",
+          "So I don't think it's going to put any strain on the university's budget.",
+          "Question",
+          "The man expresses his opinion about the proposal described in the letter. Briefly summarize the proposal. Then state his opinion about the proposal and explain the reasons he gives for holding that opinion."
+        ],
+        "singleItemTitle": "TASK2校园服务与设施"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Mental Accounting",
+          "Although they may not realize it, people do not always manage their money in responsible way. In their minds, people tend to divide the money into different categories as if they were putting it into separate mental bank accounts. This tendency is known as mental accounting. People mentally store some money in one account to be saved, while they imagine other money being stored in another account from which money can be taken and freely spent. Mental accounting can lead people to spend more money than they should, which can make it difficult for them to save enough money to achieve their long-term goals.",
+          "Listening查看文本",
+          "Narrator: Now listen to part of a lecture in a Psychology class.",
+          "Professor: So a good example of this is something that happened to me.",
+          "When I was younger,",
+          "I had an office job and I worked there every day during the week,",
+          "and I made a regular salary from that.",
+          "But also I worked as a waiter at a restaurant each weekend,",
+          "so I made some money from doing that.",
+          "Now, around this time, I decided I wanted to buy a house.",
+          "So every time I got my regular paycheck from my job at the office,",
+          "I'd save as much of the money from it as I could after I bought the basic stuff I needed.",
+          "But with the money I made as a waiter,",
+          "that was another story.",
+          "Somehow, I guessed that money seems separate from the money I earned at my regular job.",
+          "So I used the money I made at the restaurant to go out to dinner,",
+          "to buy videos or CDS, things I didn't really need.",
+          "But the thing is, it ended up taking me a really long time to save up all of the money I needed to buy the house.",
+          "And looking back now I realize I could have bought the house a lot sooner,",
+          "if only I'd save more of the money I made working at the restaurant.",
+          "Question",
+          "Using the examples from the professor's lecture, explain the concept of mental accounting."
+        ],
+        "singleItemTitle": "TASK3心理"
+      },
+      {
+        "singleItemContent": [
+          "Listening查看文本",
+          "Narrator: Listen to part of a lecture in a Biology class.",
+          "Professor: Even though it's cold and snow-covered,",
+          "the Arctic houses many species of animals that manage to survive the harsh conditions there.",
+          "These Arctic animals have adapted to the extremely cold temperatures,",
+          "primarily because of certain body features that help them to survive in the cold Arctic climate.",
+          "Let's look at a few of them.",
+          "For one thing, many Arctic animals have developed a protective covering on their feet.",
+          "The covering usually consists of fur or feathers,",
+          "which act as a protective layer between the cold and the animal skin.",
+          "Since they spend so much of their time on snowy icy surfaces,",
+          "whether they are standing on the ground or swimming in the water,",
+          "they can easily lose heat through their feet.",
+          "This is especially true of Arctic birds.",
+          "A bird like the Arctic snowy owl, for example, has feathers on its body the way other birds do.",
+          "But unlike most birds,",
+          "it also has feathers all over its feet.",
+          "This shields and protects the feet from the icy ground,",
+          "so that very little of the owls foot actually touches snowy or icy surfaces,",
+          "which helps its feet to stay warm.",
+          "Another physical characteristic that some Arctic animals share,",
+          "is having smaller bodies and smaller, shorter body parts.",
+          "In other words,",
+          "their bodies are often more compact than other animals,",
+          "and the parts of their bodies that stick out or protrude,",
+          "like the legs, ears or tails are smaller and shorter.",
+          "And the result is that there is less body surface exposed to the cold air.",
+          "A great example is the Arctic wolf.",
+          "Unlike the larger grey wolves that live in warmer climates,",
+          "Arctic wolves have relatively small, compact bodies that efficiently retain heat.",
+          "They also have smaller ears and shorter legs,",
+          "so they lose less body heat than animals with larger bodies or longer body parts.",
+          "And in a climate where the temperature is below zero most of the year, that's very important.",
+          "Question",
+          "Using the example of the owl and the wolf, explain how two special body features have helped arctic animals adapt to the cold."
+        ],
+        "singleItemTitle": "TASK4生物"
+      }
+    ]
+  }
+}

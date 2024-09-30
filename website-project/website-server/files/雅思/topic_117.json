@@ -1,0 +1,41 @@
+{
+  "topicId": 117,
+  "summaryTitle": "雅思",
+  "title": "Birthday & Piece of good news",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What do you usually do on your birthday?",
+          "What did you do on your birthday when you were young?",
+          "So you think it is important for you to celebrate your birthday?",
+          "Whose birthday do you think is the most important to celebrate in China?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a piece of good news that you heard about someone you know well",
+          "You should say:",
+          "What it was",
+          "When you heard it",
+          "How you knew it",
+          "And explain how you felt about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Is it good to share something on social media?",
+          "Should the media only publish good news?",
+          "How does the social media help people access information?",
+          "What kind of good news do people often share in the community?",
+          "So most people like to share good news with others?",
+          "Do people like to hear good news from their friends?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

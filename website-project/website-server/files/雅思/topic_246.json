@@ -1,0 +1,41 @@
+{
+  "topicId": 246,
+  "summaryTitle": "雅思",
+  "title": "Shopping",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you enjoy shopping?",
+          "Do you prefer to shop in town or on the internet?",
+          "In your country, at what times are the shops generally open?",
+          "Where do you buy your food items?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a shop that recently opened in your town.",
+          "You should say:",
+          "what the shop is",
+          "when it opened",
+          "what it sells",
+          "and explain how you feel about this shop."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "How have people's shopping habits changed over the past 5 years?",
+          "Do you think that most shopping will be done online in the future?",
+          "Will smaller shops survive in the current retail system?",
+          "What can shops do to make shopping more pleasant for their customers?",
+          "Do you think that brand name is very important for sales?",
+          "Do the young and the old have different priorities when they look for products to buy?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

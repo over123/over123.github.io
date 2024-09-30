@@ -1,0 +1,42 @@
+{
+  "topicId": 164,
+  "summaryTitle": "雅思",
+  "title": "Phones & Organising Things",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "p>What was your first mobile phone?",
+          "p>How often do you use your mobile phone?",
+          "p>Do you use your mobile phone for texting or calls?",
+          "p>Can you describe your mobile phone?",
+          "p>Will you buy a new mobile phone in the future?",
+          "p>How has your mobile phone changed your life?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "p>Describe a happy event you organized.",
+          "p>You should say:",
+          "p>What the event was",
+          "p>When you had it",
+          "p>Who helped you to organize it",
+          "p>And explain how you feel about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "p>How can parents help children to become organized?",
+          "p>What factors should people consider while organising events?",
+          "p>On what occasions are people organized?",
+          "p>What are the occasions people have parties for?",
+          "p>What public events are celebrated in your area, and what do you think about them?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

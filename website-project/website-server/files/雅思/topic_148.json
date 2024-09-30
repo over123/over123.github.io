@@ -1,0 +1,39 @@
+{
+  "topicId": 148,
+  "summaryTitle": "雅思",
+  "title": "Talents & Something help you concentrate",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you have a talent, or something you are good at?",
+          "Was it mastered recently or when you were young?",
+          "Do you think you talent can be useful for your future work? Why?",
+          "Do you think anyone in you family has the same talent?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe  something you do that can help you concentrate on work/study",
+          "You should say:",
+          "What it is",
+          "How it helps you concentrate",
+          "When you do it",
+          "And explain how yu feel about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Why is it more difficult for children to concentrate nowadays than in the past?",
+          "Do you think technology will harm children’s ability to concentrate?",
+          "What kinds of jobs require high concentration at work …",
+          "Can exercise help people improve concentration?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

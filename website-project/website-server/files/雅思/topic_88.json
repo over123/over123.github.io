@@ -1,0 +1,37 @@
+{
+  "topicId": 88,
+  "summaryTitle": "雅思",
+  "title": "Maps & Know more about",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "When was the first time when you use map?",
+          "How often do you use a map ?",
+          "Did you learn to use map when you were a child?",
+          "Are you good at reading maps?",
+          "Do you prefer electronic or paper maps"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe someone you don’t know but would like to know more about",
+          "You should say:",
+          "Who this person is",
+          "What interesting he/she has done",
+          "Why you want to know more about him/her"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Are there any differences in the relationship between you and your friends and you and other people?",
+          "Do people feel lonely in crowded cities?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

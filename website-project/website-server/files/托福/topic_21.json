@@ -1,0 +1,120 @@
+{
+  "topicId": 21,
+  "summaryTitle": "托福",
+  "title": "Official 35",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Question",
+          "Do you agree or disagree with the following statement? A university's academic reputation is the most important thing a student should consider in deciding which university to attend. Use examples and details to support your opinion."
+        ],
+        "singleItemTitle": "TASK1教育学习"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "University Should Allow Students to Audit Classes",
+          "Many universities allow students to audit classes. That is, students may attend lectures and discussions for a particular class without completing the assignments, receiving a grade, or earning credit for the class. I think our university should also allow this. Auditing classes would be good for interested students, since they would be able to learn more and experience a variety of different classes that they would not otherwise be able to take. Furthermore, it shouldn’t create any difficulties or additional obligations for professors, because these students wouldn’t take tests or write papers that need to be graded.",
+          "Listening查看文本",
+          "Narrator: Now listen to two students discussing the letter.",
+          "Man: Did you see this letter? Molly?",
+          "Woman: Yeah, but I don't agree with him.",
+          "Man: Why not?",
+          "Woman: Well, it might have some educational benefit for the people doing it,",
+          "but overall, for the other students who are actually taking the classes,",
+          "it wouldn't be good.",
+          "Man: How come?",
+          "Woman: Because anyone who is taking the class for a grade, for credit,",
+          "puts in a lot of time preparing for it, doing the reading and assignments.",
+          "Whereas people who aren't, they might not be as well prepared,",
+          "and that would affect the quality of the class discussion.",
+          "Man: You mean the discussions wouldn't be at a very high level?",
+          "Woman: Right. Because people who aren't taking the class for a grade would be asking really basic questions.",
+          "There'll be slowing down the class discussion by taking time to discuss basic stuff that was already covered in the reading assignments.",
+          "Man: That's good point. I can see how that might happen.",
+          "Woman: Plus, he's wrong about the work it requires for the professor.",
+          "Man: But it's true the professor doesn't have to grade anything.",
+          "Woman: Sure, but there are lots of other little things that can add up to more work,",
+          "like they'd have to prepare extra handouts for the class,",
+          "learn extra names, and, well,",
+          "possibly stay after class to answer those students' questions.",
+          "Man: Yeah, I guess that's all extra work.",
+          "Woman: Absolutely. All these little things add up, and require the professor's attention.",
+          "Question",
+          "The woman expresses her opinion about the letter writer's proposal. Briefly summarize the proposal. Then state her opinion about the proposal and explain the reasons she gives for holding that opinion."
+        ],
+        "singleItemTitle": "TASK2学术要求"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Integrated Farming",
+          "Many farmers keep animals and raise crops at the same time. While some farmers treat the cultivation of their animals and plants as two separate activities, others integrate the two so that they work together. This is called integrated farming. Integrated farming uses the natural behavior of animals in a way that helps to keep both animals and crops healthy and thriving. By integrating a particular animal with a specific crop, farmers create a system in which both animals and plants provide for each others’ needs.",
+          "Listening查看文本",
+          "Narrator: Now listen to part of a lecture from an Environmental science class.",
+          "Professor: OK, so an example of this is when chickens are used to prepare a field for planting.",
+          "Farmers who do this have a special kind of little house that they keep their chickens in.",
+          "This little house has four walls and a roof,",
+          "but it doesn't have any floor. And it has wheels attached to it,",
+          "And it has wheels attached to it,",
+          "so it can easily be moved from one location to another.",
+          "So, farmers move this little house to a field where something is going to be planted,",
+          "say bean plants, and then the chickens are placed inside the house.",
+          "Now remember there's no floor in this house,",
+          "and what the chickens do is they walk around inside the house and peck at the soil,",
+          "and eat any weeds or wild plants that they find.",
+          "And then when the chickens are done eating the weeds in that location,",
+          "the farmers move the house to the next section of the field.",
+          "And again the chickens peck at the soil and eat the weeds.",
+          "So the chickens get to eat lots of weeds, which are good for them.",
+          "Now this activity is also good for the bean plants that'll be growing in the field.",
+          "Because when the chickens eat the weeds,",
+          "they're improving the quality of the soil.",
+          "Thanks to the chickens, when the bean plants start to grow,",
+          "there won't be any weeds there to compete with them for crucial resources, like sunlight and water.",
+          "Question",
+          "Explain how the example from the lecture illustrates the concept of integrated farming."
+        ],
+        "singleItemTitle": "TASK3自然科学"
+      },
+      {
+        "singleItemContent": [
+          "Listening查看文本",
+          "Narrator: Listen to part of a lecture in an Archaeology class.",
+          "Professor: OK, so as we know, archaeologists discover objects from past civilizations,",
+          "stuff like old pottery, old tools, even sometimes old bits of fabric.",
+          "And they examine these artifacts to learn about past civilizations.",
+          "But why are some artifacts preserved well enough to last for thousands of years,",
+          "while others just wear away and disappear？",
+          "Well, a lot of it has to do with the environmental conditions in the area where the artifacts are found.",
+          "Artifacts are preserved better in environments where the bacteria that cause decay are less likely to grow.",
+          "So let's look at two environmental conditions that discourage bacterial growth,",
+          "and thus help preserve archaeological artifacts.",
+          "One environmental condition that inhibits bacterial growth,",
+          "and helps preserve artifacts, is aridity, lack of moisture.",
+          "Bacteria that cause decay can't survive well in dry environments,",
+          "and artifacts don't decay as fast in arid climates without much moisture.",
+          "So many of the best preserved archaeological artifacts have been found in such climates.",
+          "For example, in the deserts of Egypt,",
+          "archaeologists have found tombs more than two thousand years old,",
+          "with brightly-coloured wall paintings in them, and those wall paintings, well,",
+          "their colours were still as clear and bright as a painting made today.",
+          "Another environmental condition is lack of oxygen.",
+          "Bacteria, like all living things, depend on oxygen to grow.",
+          "So when there's no oxygen present,",
+          "they can't grow and cause decay.",
+          "So artifacts are usually well preserved when they end up in environments that contain little or no oxygen,",
+          "like, for example, the bottom of the ocean,",
+          "which is where archaeologists found an ancient ship that had sunk and settled into the mud at the bottom of the Mediterranean Sea.",
+          "The ship was carrying vases,",
+          "and the vases were still intact and remarkably well preserved.",
+          "Question",
+          "Using points and examples from the lecture, explain two environmental conditions that help preserve archaeological artifacts."
+        ],
+        "singleItemTitle": "TASK4历史与社会"
+      }
+    ]
+  }
+}

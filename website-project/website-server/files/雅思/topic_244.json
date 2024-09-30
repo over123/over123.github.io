@@ -1,0 +1,40 @@
+{
+  "topicId": 244,
+  "summaryTitle": "雅思",
+  "title": "Transportation",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "How popular is cycling in your hometown?",
+          "Do people ride bicycles more for pleasure or to commute?",
+          "What are the advantages of a bicycle compared to a car?",
+          "How often do you ride a bicycle?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a train journey you have taken. You should say:",
+          "where you were going",
+          "why you were going there",
+          "who you were travelling with",
+          "and explain what you liked and disliked about the journey."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "How safe is travel in your country?",
+          "Which method of transport do you consider the safest?",
+          "What do you think should be done to improve the safety of travel?",
+          "How do people choose which car to buy?",
+          "What environmental problems are there related to the car industry?",
+          "Who do you think is responsible for finding solutions, governments or the car industry?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

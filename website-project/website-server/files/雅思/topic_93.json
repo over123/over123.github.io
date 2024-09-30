@@ -1,0 +1,40 @@
+{
+  "topicId": 93,
+  "summaryTitle": "雅思",
+  "title": "Noise & gave to someone",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like to stay in a place with a lot of noise?",
+          "Do you think there is too much noise in today’s world?",
+          "Is making noise one of people’s rights?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a good advice that you gave to someone",
+          "You should say:",
+          "Who you gave the advice to",
+          "What the advice was",
+          "Why you gave the advice?",
+          "And explain how he/she followed your advice"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you think parents should give their children advice?",
+          "Should teachers give students advice?",
+          "Do you think it is necessary for us to listen to friend’s advice?",
+          "How do people give young  people and old  people advice ?",
+          "What are the areas in which people are more or less willing to accept advice?",
+          "Have you ever received an advice from professional people, like a doctor, a lawyer, or a teacher?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

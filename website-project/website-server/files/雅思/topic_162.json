@@ -1,0 +1,44 @@
+{
+  "topicId": 162,
+  "summaryTitle": "雅思",
+  "title": "Things & Song & Music",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What should people do if they find something?",
+          "Is it ok to keep an item that you found?",
+          "What should people do to find what they lost?",
+          "What things do people usually find?",
+          "Have you ever lost something?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an interesting song.",
+          "You should say:",
+          "what the song is",
+          "what story does the song tell",
+          "whether the music is popular",
+          "and explain why you think it is interesting."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What kinds of music do young people like?",
+          "What kinds of music is popular in your country?",
+          "What kinds of people like traditional music?",
+          "Why are some music competitions popular in your country?",
+          "What are the differences between live concerts and online concerts?",
+          "Why do people spend a lot of money on concerts?",
+          "Are music concerts suitable for older people?",
+          "Why do some people prefer to listen to live music and others listen to CDs?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

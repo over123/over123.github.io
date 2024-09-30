@@ -1,0 +1,41 @@
+{
+  "topicId": 204,
+  "summaryTitle": "日常",
+  "title": "Days of the Week",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What day is it today?",
+          "Can you spell the days of the week?",
+          "What day was it yesterday?",
+          "What day is tomorrow?",
+          "What day is the day after tomorrow?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "What day was it yesterday?",
+          "What day was the day before yesterday?",
+          "Which days of the week do you have an English class?",
+          "What is your last working day of the week?",
+          "What is your first working day of the week?"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "On which day do you start work again?",
+          "What day of the week is the hardest for you to spell?",
+          "What days of the week are the weekend?",
+          "What is the date today?",
+          "What was the date yesterday?",
+          "What will the date be tomorrow?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

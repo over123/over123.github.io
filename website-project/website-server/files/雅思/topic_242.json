@@ -1,0 +1,40 @@
+{
+  "topicId": 242,
+  "summaryTitle": "雅思",
+  "title": "Hometown, Towns & Cities",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Where did you grow up?",
+          "Was it a good place for children to grow up?",
+          "Where did you usually play?",
+          "Who did you usually play with?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a city that you have visited. You should say:",
+          "what city it is",
+          "when you went there",
+          "why you went there",
+          "and explain what you liked or disliked about the city."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What are the advantages of living in a city or a big town?",
+          "Do people enjoy a better quality of life in the city or in the countryside?",
+          "What are some of the challenges facing towns and cities?",
+          "What can be done to reduce traffic congestion in cities?",
+          "How important is it to have trees and parks in our cities?",
+          "In your experience, are city centres usually attractive places?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

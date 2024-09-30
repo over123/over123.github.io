@@ -1,0 +1,39 @@
+{
+  "topicId": 131,
+  "summaryTitle": "雅思",
+  "title": "Technology & Friend from your childhood",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " What technology do you often use, computers or mobile phones?",
+          " What electronic devices have you bought lately?",
+          " Are there any technology you want to buy?",
+          " Whats the benefit of technology?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a friend from your childhood",
+          "You should say :",
+          "Who he/she is",
+          "Where you met each other",
+          "What you often did together",
+          "And explain what made you like him/her"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you still keep in touch with your friends from childhood? Why or why not?",
+          "What do you think online social media?",
+          "Do you think online social media will replace face to fafe communication?",
+          "Do you use a loto of imojis online? Why ?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "topicId": 46,
+  "summaryTitle": "雅思",
+  "title": "Life stages",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What did you often do with your friends in your childhood?",
+          "What do you think is the most important at the moment?",
+          "Do you have any plans for the next five years?",
+          "How do people remember each stage of their lives?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a historical building you have been to",
+          "You should say:",
+          "Where it is",
+          "What it looks like",
+          "What it is used for now",
+          "what you learned there",
+          "And how you felt about this historical building"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Why do people visit historical buildings?",
+          "Do Chinese people like to visit historical buildings?",
+          "Do most people agree to the government’s funding to protect historical buildings?",
+          "Is it necessary to protect historical buildings?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

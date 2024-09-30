@@ -1,0 +1,42 @@
+{
+  "topicId": 63,
+  "summaryTitle": "雅思",
+  "title": "Running",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "1. Do you go running a lot?",
+          "2. Where do you usually go running?",
+          "3. When was the last time you went running?",
+          "4. What do you think of running as a sport?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a difficult task that you completed at work/study that you felt",
+          "proud of",
+          "You should say:",
+          "What the task was",
+          "How you completed it",
+          "Why the task was difficult",
+          "Why you were proud of the completion of the task"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1.What are the things that make people feel proud?",
+          "2.Do people often feel proud of themselves when they complete a difficult task?",
+          "3.What challenges do young people face today?",
+          "4.How do young people handle difficult or challenging tasks?",
+          "5.What kinds of rewards do people receive from work?",
+          "6.What are the most difficult jobs that people do?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

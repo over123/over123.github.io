@@ -1,0 +1,47 @@
+{
+  "topicId": 48,
+  "summaryTitle": "托福",
+  "title": "Official 08",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Question",
+          "Some people enjoy taking risks and trying new things Others are not adventurous: they are cautious and prefer to avoid danger. Which behavior do you think is better? Explain why."
+        ],
+        "singleItemTitle": "TASK1对比类比"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Music Coming to Cafeterias",
+          "Mary Dixon, Director of the Student Life Committee, announced yesterday that beginning next semester university cafeterias will broadcast classical music during mealtimes. “Music will foster a more relaxed atmosphere.” said Dixon, \"Students' lives are hectic, and mealtimes provide important opportunities to take a break and catch up with friends before moving on to the next class or assignment.\" Added Dixon. \"We're also hoping that, if we provide the music, students will unplug their personal music devices—their Walkmans and mp3 players or whatever—and will spend more time talking to each other. When students have their headphones on. they're not connecting with each other.\"",
+          "Listening查看文本",
+          "Question",
+          "The man expresses his opinion of the university’s plan. State his opinion and explain the reasons he gives for holding that opinion."
+        ],
+        "singleItemTitle": "TASK2校园服务与设施"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Revealing Coloration",
+          "Many animals use coloration to protect themselves from predators. One defensive strategy involving the use of coloration is what is known as revealing coloration. Animals employing this strategy have an area of bright color on some part of their body; this bright color is usually hidden from predators' view. When approached by a predator, the animal suddenly reveals the area of bright color; this unexpected display of color startles or confuses the predator and provides the would-be prey with an opportunity to escape.",
+          "Listening查看文本",
+          "Question",
+          "Using the examples of the peanut bug and the morpho butterfly, explain the concept of revealing coloration."
+        ],
+        "singleItemTitle": "TASK3生物"
+      },
+      {
+        "singleItemContent": [
+          "Listening查看文本",
+          "Question",
+          "Using the points and examples from the lecture, explain the two pricing strategies described by the professor."
+        ],
+        "singleItemTitle": "TASK4商科"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "topicId": 72,
+  "summaryTitle": "雅思",
+  "title": "Collecting things",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "  1. Do you collect things?",
+          "  2. Are there any things you keep from childhood?",
+          "  3. Where do you usually keep things you need?",
+          "  4. Would you keep old things for a long time? Why?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "  Describe an activity that made you feel tired",
+          "  You should say:",
+          "  When and where it took place",
+          "  Why you took part in it",
+          "  What the activity was",
+          "  And explain why it made you feel tired"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "  1.Does studying and learning make people tired today?",
+          "  2.When do people usually feel tired?",
+          "  3.What do you think about striving for learning and striving for sports?",
+          "  4.Do people have fewer holidays now than in the past?",
+          "  5.What are the differences between feeling tired after studying and after exercising?",
+          "  6.How can people solve the problem of old people easily getting tired?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

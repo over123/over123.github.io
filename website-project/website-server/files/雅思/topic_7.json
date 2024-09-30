@@ -1,0 +1,41 @@
+{
+  "topicId": 7,
+  "summaryTitle": "雅思",
+  "title": "Mobile phone",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What was your first mobile phone?",
+          "Do you often use your mobile phone for texting or calls?",
+          "Will you buy a new one in the future?",
+          "How has your mobile phone changed your life?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an enjoyable journey by public transport",
+          "You should say:",
+          "Where you went",
+          "Who you were with",
+          "What you did",
+          "And how you felt about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Why do people choose to travel by public transport?",
+          "Why do more and more people like to travel by plane?",
+          "Do you think offering free public transport will solve traffic problems in the city?",
+          "What are the disadvantages of traveling by public transport?",
+          "What do you think are the cheapest and most expensive means of transport?",
+          "What are the difficulties that commuters face during rush hours?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "topicId": 129,
+  "summaryTitle": "雅思",
+  "title": "Work & study & Website",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you work or are you student?",
+          "What work do you do?",
+          "Why did you choose this job?",
+          "Why did you choose to study  that subject?",
+          "Do you like your job ?",
+          "Is there anything you dislike about your job?",
+          "What was your dream job when you were young?",
+          "Have you changed your mind on your dream job?",
+          "What do you like about your studies?",
+          "What do you dislike about your studies?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a website you often visit",
+          "You should say :",
+          "How you found it",
+          "What it is about",
+          "How often you visit it",
+          "And explain why you often visit it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1. What are the most popular and least popular apps in China?",
+          "2. What’s the difference between the internet and television?",
+          "3. Why do people like to read the news on the internet instead of on tv?",
+          "4. Is the library still necessary? Why?",
+          "5. What kinds of people would still go to the library to read and study?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

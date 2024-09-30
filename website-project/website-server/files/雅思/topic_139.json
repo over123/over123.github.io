@@ -1,0 +1,41 @@
+{
+  "topicId": 139,
+  "summaryTitle": "雅思",
+  "title": "Home & accommodation & Appointment",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What kind of house or flat do you want to live in the future?",
+          "Are the transportation facilities to your home very good?",
+          "Do you prefer to live in a house or a flat?",
+          "Can you describe the place where you live?",
+          "What kind of housing accommodation do you live in?",
+          "What do you like about your flat?",
+          "Which room does your family spend most of the time in?",
+          "What do you dislike about it?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you forgot an appointment",
+          "You should say:",
+          "What the appointment was for",
+          "Who you made it with",
+          "Why you forgot it",
+          "And explain how you felt about the experience"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "How do people who are busy remember things they need to do?",
+          "Do you think people should remember family history?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

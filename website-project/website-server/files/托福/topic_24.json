@@ -1,0 +1,121 @@
+{
+  "topicId": 24,
+  "summaryTitle": "托福",
+  "title": "Official 32",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Question",
+          "Do you agree or disagree with the following statement? Children should receive money for doing household tasks such as cleaning. Use specific examples and details to support your opinion."
+        ],
+        "singleItemTitle": "TASK1家庭教育"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "An Airport Bus for School Breaks",
+          "Students who fly home for the winter and spring breaks need to get to and from the airport, which is a half-hour drive from campus. I think the university should run a free bus service for students between campus and the airport during the breaks. This would help the students, since there is no public transportation between campus and the airport. In order to provide service to the airport, some of the buses that normally run between campus buildings when classes are in session could run between the school and the airport during the school breaks.",
+          "Listening查看文本",
+          "Narrator: Now listen to two students discussing the letter.",
+          "Woman: Did you see this, Jim?",
+          "What do you think about her idea?",
+          "Man: I think it'd be great. It'd make things much less expensive.",
+          "'Cause our campus is located outside the city,",
+          "if you can't get a friend with a car to give you a ride,",
+          "there's no other way to get to the airport,",
+          "and your only choice is to take a taxi.",
+          "Woman: I know. I've had to take a taxi before, and it's pretty expensive.",
+          "Man: Yeah, like thirty or forty dollars,",
+          "which is a lot, especially for students.",
+          "Woman: Yeah, definitely,",
+          "Man: And I think it would work, what she's suggesting...",
+          "I mean, there's less need for buses on campus during that time to take students between the buildings.",
+          "Woman: You mean because classes are over then?",
+          "Man: Yeah, exactly.",
+          "There might be some final exam still going on，",
+          "but regular classes won't be meeting.",
+          "There are much fewer students left on campus, and they don't need to get around campus that often.",
+          "Woman: Yeah, I guess they're just making occasional trips to take exams or go to the library or gym or whatever.",
+          "Man: Right. It shouldn't cause any problem for anyone who still needs to get around campus.",
+          "Question",
+          "The man expresses his opinion about the proposal described in the letter. Briefly summarize the proposal then state his opinion about the proposal and explain the reasons he gives for holding that opinion."
+        ],
+        "singleItemTitle": "TASK2校园服务与设施"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Choice-Supportive Bias",
+          "People often make decisions by considering the advantages and disadvantages of each option. However, after a person selects an option, there is a tendency for that person to exhibit the choice-supportive bias. After selecting an option, a person may begin to favor that option. Without being fully aware of it, people who exhibit this bias tend to focus on and remember only the advantages of the option they selected. As time passes, they will overlook the option’s disadvantages, eventually even forgetting them.",
+          "Listening查看文本",
+          "Narrator: Now listen to part of a lecture on this topic in a Psychology class.",
+          "Professor: Okay, so an example of this from my own life.",
+          "Five or six years ago,",
+          "I was helping a friend of mine decide on a house to buy.",
+          "He had been in the market to buy a house,",
+          "and he had it narrowed down to this one house that he was interested in.",
+          "What he really liked about this house was it had an excellent location.",
+          "It was in a great place that was actually in the same part of town where he was working,",
+          "right up the street from his job.",
+          "So he wouldn't have far to drive to get to work, which he really liked.",
+          "However, the downside of this house was that it was smaller than what he was hoping to buy.",
+          "He'd wanted to buy a sort of a big house, and this house just wasn't that big.",
+          "So it was a tough decision.",
+          "But my friend eventually did decide to buy the house.",
+          "And a few years after he made the purchase,",
+          "I remember we were talking about the decision and why he decided to buy the house.",
+          "He told me, well, of course, it was because of the house's location.",
+          "He told me how happy he was with the fact that it was so close to his work,",
+          "how great it was that it was only a few minutes from his job.",
+          "I said, yes, but what about its size?",
+          "Do you still think the house is kind of small?",
+          "And he looked at me kind of surprised.",
+          "\"Small? What do you mean small?\"",
+          "Like he didn't know what I was talking about.",
+          "The house's the size, a couple of years after buying it,",
+          "just didn't seem to be on his mind anymore.",
+          "Question",
+          "Explain how the example from the professor’s lecture illustrates the choice-supportive bias."
+        ],
+        "singleItemTitle": "TASK3心理"
+      },
+      {
+        "singleItemContent": [
+          "Listening查看文本",
+          "Narrator: Listen to part of a lecture in an Environmental Science class.",
+          "Professor: Roads, paved roads are everywhere and sometimes seem like part of the natural landscape.",
+          "But of course, roads are not part of nature, and in fact,",
+          "road construction can have harmful effects on the environment,",
+          "and seriously impact both animal life and plant life.",
+          "One harmful environmental effect of roads,",
+          "is that they contribute to the movement of plant species from one area to another.",
+          "This causes problems for existing plants, plants already growing in that area.",
+          "Because when a new plant species gets introduced into an area where it wasn't growing before,",
+          "the new plants compete for resources with the existing plant life.",
+          "For example, this happened in California with a weed called the yellow starthistle.",
+          "What happened was the starthistle seeds got stuck to the tires of cars driving down the road,",
+          "and the seeds were distributed to new areas.",
+          "This put the starthistle in competition for natural resources, like water, with the original plant life of the area.",
+          "That made it harder for the native plants to survive.",
+          "Also roads, especially major highways, can act as barriers,",
+          "and divide up an animal's habitat into smaller ones,",
+          "where there's not enough food to support the population.",
+          "These busy highways, with cars speeding past day and night, act like boundaries that animals are afraid to cross,",
+          "act like boundaries that animals are afraid to cross.",
+          "So they sometimes get shut in on a small piece of land where there isn't enough food to support them.",
+          "This is a serious problem for animals that need access to large expanses of land to look for food.",
+          "For example, there are these foxes, called kit foxes, that live in the southwestern United States.",
+          "They hunt small animals like mice and squirrels,",
+          "which are spread out over large areas of open grasslands.",
+          "And now because of these roads,",
+          "the kit fox population has declined significantly because now they don't get enough food.",
+          "Question",
+          "Using the examples of the starthistle and the Kit fox, describe two ways roads can affect the environment."
+        ],
+        "singleItemTitle": "TASK4自然科学"
+      }
+    ]
+  }
+}

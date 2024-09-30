@@ -1,0 +1,39 @@
+{
+  "topicId": 154,
+  "summaryTitle": "雅思",
+  "title": "Advertisment & Time you were busy",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "1. Are you interested in watching TV advertisements or internet advertisements?",
+          "2. What kinds of advertisements do you dislike?",
+          "3. Do you share advertiements with others?",
+          "4. Do you want to work in advertising in th future?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time you were very busy",
+          "You should say:",
+          "When it happened",
+          "Where you were",
+          "What you did",
+          "And explain why you were busy"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Are you often busy?",
+          "What are the advantages and disadvantages when people keep busy?",
+          "Do you think children should lern through playing games or under pressure?",
+          "What kind of pressure people may experience at work?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

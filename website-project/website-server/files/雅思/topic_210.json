@@ -1,0 +1,41 @@
+{
+  "topicId": 210,
+  "summaryTitle": "雅思",
+  "title": "Advertising & Company",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Is there advertising in your country?",
+          "Where can we see advertisements?",
+          "What advertisement do you have in your country?",
+          "How do you feel about advertisement?",
+          "Do you like advertisement?",
+          "What do you think is the purpoe of advertisement?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a company where you live that employs a lot of people",
+          "You should say:",
+          "What it does",
+          "How many people it employs",
+          "What kind of people work there",
+          "How you feel about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Should big companies be punished more seriously if they break the law?",
+          "Should big companies donate more to charities?",
+          "What are the good things about working for a big company?",
+          "What are the differences between big companies and small companies?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

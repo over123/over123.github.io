@@ -1,0 +1,46 @@
+{
+  "topicId": 26,
+  "summaryTitle": "雅思",
+  "title": "Art",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like art?",
+          "Do you like visiting art galleries?",
+          "Do you want to be an artist?",
+          "Do you like modern art or traditional art?",
+          "11 P1 Number",
+          "What's your favorite number?",
+          "Are you good at remembering phone numbers?",
+          "Do you usually use numbers?",
+          "Are you good at math?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a place you visited where the air was polluted",
+          "You should say:",
+          "Where the place is",
+          "When you visited it",
+          "Why the air was not good",
+          "And explain how you felt about the place"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Is there more pollution now than in the past?",
+          "Do you think the city is cleaner or dirtier than the countryside? Why?",
+          "What can factories and power plants do to reduce pollutants?",
+          "Do you think the wind has any effect on pollution? How?",
+          "In what ways can air pollution be reduced effectively?",
+          "Do you think many companies have been forced to reduce pollutants?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

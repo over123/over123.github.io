@@ -1,0 +1,41 @@
+{
+  "topicId": 260,
+  "summaryTitle": "雅思",
+  "title": "Work",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What is your job?",
+          "Why did you choose this job?",
+          "What do you enjoy most about your job?",
+          "How did you feel on your first day at work?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an organisation or company near where you live that employs a lot of people.",
+          "You should say:",
+          "what organisation or company it is",
+          "what industry they are in",
+          "what the work involves",
+          "and explain why you think they are or are not a good employer."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Which kinds of jobs have the highest salaries in your country? Why?",
+          "Are there any jobs that you think should have higher salaries?",
+          "Are all jobs of equal importance?",
+          "What is the most common way to get a job these days?",
+          "Is money always the most important thing when choosing a job?",
+          "Why do some people become workaholics?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

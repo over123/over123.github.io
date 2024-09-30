@@ -1,0 +1,39 @@
+{
+  "topicId": 134,
+  "summaryTitle": "雅思",
+  "title": "Birthday & Movie you want",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What do you usually do on your birthday?",
+          "What did you do on your birthday when you were young?",
+          "So you think it is important for you to celebrate your birthday?",
+          "Whose birthday do you think is the most important to celebrate in China?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a movie you watched recently and would like to watch again",
+          "You should say:",
+          "What it was about",
+          "Where yoy watched it",
+          "Why you like it",
+          "And explain why you would like to watch it again"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Where do people normally watch movies?",
+          "What are the differences between watching movies at home and in cinema?",
+          "Are actors or actress important to movies ? Why?",
+          "Why are there fewer people going to cinema to watch movies?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

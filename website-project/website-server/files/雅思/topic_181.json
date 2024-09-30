@@ -1,0 +1,40 @@
+{
+  "topicId": 181,
+  "summaryTitle": "雅思",
+  "title": "Special Costumes & Good Service",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like to wear special costumes?",
+          "Did you try special costumes when you were young?",
+          "When was your last time to wear special costumes?",
+          "Do you ever buy special costumes?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a good service you received",
+          "You should say:",
+          "What the service was",
+          "When you received it",
+          "Who you were with",
+          "And how you felt about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What do you think of the relationship between",
+          "Companiesand customers?",
+          "As customer, what kinds of services would you expect to receive from company?",
+          "What kinds of jobs involve coping with the public?",
+          "Why should companies react quickly when customers have difficulties?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

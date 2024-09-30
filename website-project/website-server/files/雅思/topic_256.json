@@ -1,0 +1,41 @@
+{
+  "topicId": 256,
+  "summaryTitle": "雅思",
+  "title": "Music",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like music?",
+          "Have you ever learnt to play a musical instrument?",
+          "What instrument do you think it is best for children to learn?",
+          "Do think music should be taught in schools?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a type of music that you like a lot.",
+          "You should say:",
+          "what type of music it is",
+          "when you first started listening to it",
+          "how often you listen to it",
+          "and explain why you like it so much."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What traditional music do you have in your culture?",
+          "How important is it for a culture to have musical traditions?",
+          "Why do you think countries have national anthems or songs?",
+          "How do most people listen to music these days?",
+          "Is live music as popular now as it was 10 years ago?",
+          "Why do you think that so many young people dream of being famous musicians?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

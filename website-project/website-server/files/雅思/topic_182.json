@@ -1,0 +1,41 @@
+{
+  "topicId": 182,
+  "summaryTitle": "雅思",
+  "title": "Wild Animals & Defficult Decision",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Have you ever seen wild animals?",
+          "Where can we see wild animals?",
+          "Whats your favorite wild animal?",
+          "Do you like watching wild animals in the zoo?",
+          "Is it important to let children know about animals?",
+          "Is it important to protect wild animals?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a difficult decision that you once made",
+          "You should say:",
+          "What the decision was",
+          "When you made the decision",
+          "How long it took to make the decision",
+          "And explain why it is difficult to make"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What decision do people usually make in their daily lives?",
+          "Which is easier, making a decision by yourself or making a decision after group discussion?",
+          "Why are many young people unwilling to follow their parent’s advice?",
+          "Why would middle- aged people tend to second -guess their own decisions?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

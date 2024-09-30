@@ -2,12 +2,13 @@
  * @Author: xudan
  * @Date: 2024-07-15 12:06:27
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-24 11:29:29
+ * @LastEditTime: 2024-09-25 10:45:23
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
  */
 let axios = require('axios')
+const { logger } = require('../middlewares/logger');
 
 let instance = axios.create({
     baseURL: 'http://localhost:3000',
@@ -25,7 +26,7 @@ instance.interceptors.request.use((config) => {
     // ...
     return config
 }, (error) => {
-    console.log('请求失败，' + error)
+    logger.info('请求失败，' + error)
     return Promise.reject(error)
 })
 
@@ -40,7 +41,7 @@ instance.interceptors.response.use((response) => {
     // ...
     return response
 }, (error) => {
-    console.log('响应失败，' + error)
+    logger.info('响应失败，' + error)
     return Promise.reject(error)
 })
 
@@ -54,30 +55,30 @@ instance.interceptors.response.use((response) => {
  */
 async function http(option = {}) {
     let result = null;
-    
-    if(option.method == 'get'  || option.method == 'delete') {
+
+    if (option.method == 'get' || option.method == 'delete') {
         await instance[option.method](
             option.path || '', // Provide a default value for option.path
             {
                 params: option.params
             }
-        ).then(res=> {
-            console.log(res);
+        ).then(res => {
+            logger.info(res);
             result = res
         }).catch(err => {
-            console.log(err);
+            logger.info(err);
             result = err
         })
         // return instance.get(option.path || '', {params: option.params}) // Provide a default value for option.path
-    }else if(option.method == 'post'  || option.method == 'put') {
+    } else if (option.method == 'post' || option.method == 'put') {
         await instance[option.method](
             option.path || '',
             option.params
-        ).then(res=> {
-            console.log(res);
+        ).then(res => {
+            logger.info(res);
             result = res
         }).catch(err => {
-            console.log(err);
+            logger.info(err);
             result = err
         })
     }
@@ -85,4 +86,4 @@ async function http(option = {}) {
     return result
 }
 
-module.exports =  http
+module.exports = http

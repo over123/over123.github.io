@@ -1,0 +1,40 @@
+{
+  "topicId": 254,
+  "summaryTitle": "雅思",
+  "title": "Education",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Did you enjoy school?",
+          "What was your favourite subject?",
+          "How did you get on with your peers in school?",
+          "What subject would you like to learn in the future?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a school you attended. You should say:",
+          "what school it was",
+          "what the buildings were like",
+          "how good the teachers were",
+          "and explain what you liked and disliked about it."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What makes a good student?",
+          "What role should the teacher have in the classroom?",
+          "Do you think computers will one day replace teachers in classrooms?",
+          "How well do schools prepare young people for working life?",
+          "Do you think schools should teach subjects like art, music and dancing?",
+          "In your opinion, is a university education important?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

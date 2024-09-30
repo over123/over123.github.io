@@ -1,0 +1,40 @@
+{
+  "topicId": 253,
+  "summaryTitle": "雅思",
+  "title": "Film & TV",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "How much television do you watch per day?",
+          "Who do you normally watch TV with?",
+          "What kinds of TV programmes do you enjoy the most?",
+          "What is your favourite TV programme at the moment?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a TV drama series you like. You should say:",
+          "what TV series it is",
+          "what it is about",
+          "who acts in it",
+          "and explain why you like it."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Is the quality of TV programmes in your country good?",
+          "What type of foreign TV programmes are popular in your country?",
+          "Do you think television influences the way we think?",
+          "Should children be allowed to watch a lot of TV?",
+          "What do you think are the qualities of a good children’s TV programme?",
+          "What are the educational benefits of children watching TV?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

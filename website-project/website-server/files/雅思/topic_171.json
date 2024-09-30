@@ -1,0 +1,37 @@
+{
+  "topicId": 171,
+  "summaryTitle": "雅思",
+  "title": "Dreams & Story",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "p>  Do you often remember your dreams?",
+          "p>  Are you interested in others’ dreams?",
+          "p>  Do you want to make your dreams come true?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "p>  Describe a story someone told you and you remember.",
+          "p>  You should say:",
+          "p>  What the story was about",
+          "p>  Who told you this story?",
+          "p>  Why do you remember it?",
+          "p>  And explain how you feel about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "p>  Do young children like the same stories as older children?",
+          "p>  How has technology changed the way of storytelling?",
+          "p>  Why do children like stories?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

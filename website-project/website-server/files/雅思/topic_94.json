@@ -1,0 +1,39 @@
+{
+  "topicId": 94,
+  "summaryTitle": "雅思",
+  "title": "Helping others & your life",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you usually help people around you?",
+          "How do you help people around you, such as neighbors, family and friends?",
+          "Do your parents teach you how to help others?",
+          "Did your parents help you a lot when you were young?",
+          "What have you done to help the elderly?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a period of time that change your life",
+          "You should say:",
+          "When it was",
+          "Who you were with",
+          "What happened",
+          "And explain why it changed your life"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you like new things or changes in life?",
+          "Why do some people quit and change jobs?",
+          "How to adapt to changes in life?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

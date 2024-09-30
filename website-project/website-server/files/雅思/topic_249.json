@@ -1,0 +1,40 @@
+{
+  "topicId": 249,
+  "summaryTitle": "雅思",
+  "title": "Environment",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What is your favourite type of natural environment?",
+          "What is the air quality like where you live?",
+          "Do you recycle?",
+          "What other ways can individuals help to protect the environment?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an environmental problem in your country.",
+          "You should say:",
+          "what the problem is",
+          "what has caused the problem",
+          "what effect it has had on your country and explain what is being done to solve it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "How is your country affected by water pollution?",
+          "What are some of the causes of water pollution?",
+          "Do you think that everyone in the world will have access to clean water in the future?",
+          "Do you think large companies and business organisations should be more environmentally friendly?",
+          "What measures can individuals take to protect the environment?",
+          "How can we teach children about the importance of protecting the environment?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

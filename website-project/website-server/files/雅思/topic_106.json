@@ -1,0 +1,41 @@
+{
+  "topicId": 106,
+  "summaryTitle": "雅思",
+  "title": "ICE CREAM & in the future",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like ice cream?",
+          "Did you eat ice cream when you were a child?",
+          "Are there shops selling ice cream near the place where you live?",
+          "Can you make ice cream yourself?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an adventure you would like to talk in the future",
+          "You should say:",
+          "What the adventure is",
+          "Where you would go",
+          "Who you would be with",
+          "And explain why you would like to take the adventure"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Who likes to read adventure books?",
+          "Do people prefer adventure novels or adventure movies?",
+          "Why do people like to read adventure books rather than take an adventure?",
+          "Who doesn’t like to take adventures?",
+          "What kind of personality should people have in order to experience a lot of adventure?",
+          "Will experiencing adventures broaden people’s horizons?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

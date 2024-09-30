@@ -1,0 +1,42 @@
+{
+  "topicId": 113,
+  "summaryTitle": "雅思",
+  "title": "BAGS & helps others",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you usually carry a bag?",
+          "What kinds of bags do you like to carry?",
+          "Do you change your bags often?",
+          "What kind of bags would you use when travelling?",
+          "Is a bag an ideal gift?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe someone you know who often helps others",
+          "You should say:",
+          "What he/she is like",
+          "How she/he helps others",
+          "Why his/her help is beneficial",
+          "And explain why he/she helps others"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "How can children help their parents at home?",
+          "Should children be taught to help others?",
+          "What makes children help each other at school?",
+          "Should students do community service? Why?",
+          "Do students in your country do volunteer work?",
+          "Why do some people do volunteer work all over the world?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

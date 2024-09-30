@@ -1,0 +1,42 @@
+{
+  "topicId": 141,
+  "summaryTitle": "雅思",
+  "title": "Hometown & Person likes to dress",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Please describe your hometown a little",
+          "What is your hometown well-known for?",
+          "Do you like your hometown?",
+          "Is that a big City or a small place?",
+          "How long have you been living there?",
+          "Do you think you will continue living there for a long time?",
+          "How has your town changed over the last 20 years?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a person who likes to dress fashionably/well",
+          "You should say:",
+          "Who he/she is",
+          "What job he/she does",
+          "What kind of clothes he/she wears",
+          "And explain why he/she  likes fashion"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you think online shopping will replace in-store shopping in the future? Why?",
+          "Why is fashion very important to some people?",
+          "Are older people as fashionable as young people? Why?",
+          "Are women more fashionable than men? Why?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

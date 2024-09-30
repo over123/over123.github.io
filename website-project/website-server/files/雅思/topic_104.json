@@ -1,0 +1,41 @@
+{
+  "topicId": 104,
+  "summaryTitle": "雅思",
+  "title": "RAIN & a car journey you had",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like rainy days?",
+          "Does it rain much in your city?",
+          "Would like to live in a place that Is dry or wet?",
+          "Would you change your plan if it rained?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a car journey you had",
+          "You should say:",
+          "Where you went",
+          "What you did",
+          "Who you had the car journey with",
+          "And explain how you felt about the journey"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What benefits does public transport bring to the world?",
+          "Is it too late for people to get the driver license at the age of 18?",
+          "What qualities does a driver need to have?",
+          "Do you think the government should make It a rule for people to use public transport?",
+          "Which jobs require people to be good at driving?",
+          "Do you see driverless cars as the future of cars?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

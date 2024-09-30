@@ -1,0 +1,40 @@
+{
+  "topicId": 41,
+  "summaryTitle": "雅思",
+  "title": "Internet",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "When did you start using the internet?",
+          "How often do you go online?",
+          "How does the internet influence people?",
+          "Do you think you spend too much time online?",
+          "What would you do without the internet?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an occasion you wore the best clothes",
+          "You should say:",
+          "When it was",
+          "What you wore",
+          "Why you wore it",
+          "And how you felt about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you think people need to wear formally in the workplace?",
+          "Why do some people like to wear traditional clothes?",
+          "Will traditional clothes disappear in the future?",
+          "Do old people change their style of dressing?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

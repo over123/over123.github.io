@@ -1,0 +1,41 @@
+{
+  "topicId": 56,
+  "summaryTitle": "雅思",
+  "title": "Clothing",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "1.What kind of clothes do you like to wear?",
+          "2.Do you prefer to wear comfortable and casual clothes or smart clothes?",
+          "3.Do you like wearing T-shirts?",
+          "4.Do you spend a lot of time choosing clothes?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe someone you studied with who is successful in his/her life",
+          "You should say:",
+          "Who this person is",
+          "Where you studied together",
+          "When you studied together",
+          "And explain why you think this person is successful in his/her life."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1.What do students need to do to succeed in school?",
+          "2.Is it easy for students to succeed in school these days?",
+          "3.Why do some people think money is the best way to measure success?",
+          "4.Is success in school the most important thing for young people?",
+          "5.What sacrifices may people need to make in order to achieve success?",
+          "6.Is it harder for people to succeed today than in the past?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "topicId": 31,
+  "summaryTitle": "雅思",
+  "title": "Chocolate",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like eating chocolate? Why or why not?",
+          "How often do you eat chocolate?",
+          "Did you often eat chocolate when you were a kid?",
+          "Why do you think chocolate is popular around the world?",
+          "What's your favourite flavour of chocolate?",
+          "Do you think it is good to use chocolate as gifts to others?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a place (city/town) that is good for people to live in",
+          "You should say:",
+          "Where it is",
+          "How you knew this place",
+          "What it is like",
+          "And explain why it is better than other places to live in"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What are the differences between cities and towns?",
+          "What has happened to towns and villages in recent years in your country?",
+          "What are the differences between big cities and small ones?",
+          "What factors will contribute to whether a place is good to live in or not?",
+          "What are the major changes that have happened in your city?",
+          "How different is life in the countryside to life in the city?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

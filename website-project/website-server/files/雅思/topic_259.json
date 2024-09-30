@@ -1,0 +1,41 @@
+{
+  "topicId": 259,
+  "summaryTitle": "雅思",
+  "title": "Health",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you lead a healthy lifestyle?",
+          "What do you do to keep fit?",
+          "Have you ever had any habits which you consider to be unhealthy?",
+          "Is fitness or a healthy diet more important to you?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe something healthy you enjoy doing.",
+          "You should say:",
+          "what it is",
+          "where you do it",
+          "who you do it with",
+          "and explain why you think doing this is healthy"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "How can people improve their health?",
+          "What are some popular ways to keep fit in your country?",
+          "How important is it for people to do some regular physical exercise?",
+          "Do you think there will be more or less illness in the future?",
+          "Why do so many people suffer from stress-related illnesses?",
+          "What makes a good doctor?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

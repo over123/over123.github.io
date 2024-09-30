@@ -1,0 +1,40 @@
+{
+  "topicId": 111,
+  "summaryTitle": "雅思",
+  "title": "DAY OFF & a lot of money",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "When was the last time you had a few days off?",
+          "What do you do on your day off?",
+          "Do you usually spend your days off with your parents or with your friends?",
+          "What would you like to do if you had a day off tomorrow?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an expensive gift that you would like to give someone when save a lot of money",
+          "You should say:",
+          "What the gift is",
+          "Who you will give the gift to",
+          "How long it will take to save the money",
+          "And explain why you would like to give the gift to this person"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What do young people like to save money for?",
+          "Is it easy for people to save money to buy something expensive?",
+          "Should children learn how to use money  -- -- or from their parents?",
+          "How do people save money?",
+          "Why can’t some people save money?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

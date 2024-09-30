@@ -1,0 +1,40 @@
+{
+  "topicId": 140,
+  "summaryTitle": "雅思",
+  "title": "Country & Decision to wait",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Tell me a little about your hometown.",
+          "Which part of your country  do most people live in?",
+          "Where is your country located?",
+          "Tell me about the main industries in your country.",
+          "What are some of the good things and some of the bad things about living in your country?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time you made a decision to wait for something",
+          "You should say:",
+          "When it happened",
+          "What you waited for",
+          "Why you made the decision",
+          "And explain how you felt about the decision"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do people in your country like to take public transportation?",
+          "Why do some people like a slow-paced life?",
+          "Is being patient good for people? Why?",
+          "Are people less patient now than people in the past? Why?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

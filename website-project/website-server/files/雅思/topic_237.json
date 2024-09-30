@@ -1,0 +1,39 @@
+{
+  "topicId": 237,
+  "summaryTitle": "雅思",
+  "title": "Scenery & Computer & phone",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What can you see from the windows where you live?",
+          "Is there good scenery in your hometown?",
+          "Do you like to take pictures of scenery?",
+          "When you travel, do you like to live in hotels with scenic views?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a computer/phone game you enjoy playing since your childhood.",
+          "You should say:",
+          "What it is",
+          "What it is like",
+          "How you play it",
+          "And explain why you enjoy playing it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Why do more and more young people like playing electronic games?",
+          "What will happen if teenagers spend too much time playing computer games?",
+          "Should parents and teachers prevent children from playing games?",
+          "What are the benefits of playing electronic games?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -2,13 +2,14 @@
  * @Author: xudan
  * @Date: 2024-07-24 14:24:17
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-24 17:51:38
+ * @LastEditTime: 2024-09-25 10:46:15
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
  */
 const { Builder, By, Key, until } = require("selenium-webdriver");
 const fs = require('fs');
+const { logger } = require('../middlewares/logger');
 
 (async function example() {
   let driver = await new Builder().forBrowser("chrome").build();
@@ -46,18 +47,18 @@ const fs = require('fs');
     // 将文本内容写入本地文件
     // fs.writeFile('output.txt', text, (err) => {
     //   if (err) throw err;
-    //   console.log('The file has been saved!');
+    //   logger.info('The file has been saved!');
     // })
 
-      
+
     // // 等待元素可见
     // let showLoginDialog = await driver.wait(until.elementIsVisible(driver.findElement(By.css('.status_loginned'))), 10000);
 
-    
-    
+
+
   } catch (error) {
-    console.log("error")
-    console.log(error)
+    logger.info("error")
+    logger.info(error)
   } finally {
     // await driver.quit();
   }

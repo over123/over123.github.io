@@ -2,17 +2,21 @@
  * @Author: xudan
  * @Date: 2024-07-12 11:31:20
  * @LastEditors: xudan
- * @LastEditTime: 2024-08-01 19:56:11
+ * @LastEditTime: 2024-09-27 13:38:38
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
  */
-const jwt = require('jsonwebtoken');
+const { logger } = require('../middlewares/logger');
 /* The fast, flexible & elegant library for parsing and manipulating HTML and XML. */
 const cheerio = require('cheerio');
 
+const { sign, verify } = require('../middlewares/jwt')
+
 let Users = require('../model/users')
 let http = require('../http');
+
+const { add, find, findOne, update } = require('../utils/crud');
 
 /**
  * @description: login for users
@@ -22,118 +26,85 @@ const login = async (ctx) => {
     let { username, pwd } = ctx.request.body
     let user = null;
     try {
-        user = await Users.findOne({username, pwd})
-        // if(!user) {
-        //     user = await Users.create({ username: username, password: pwd})
-        // }else {
-            
-        // }
-
-        let token = jwt.sign({
+        user = await findOne(Users, { username }, ctx, true)
+        if (!user) {
+            // 若不存在此用户，则创建该用户
+            // TODO 密码加密加盐处理
+            // ...
+            user = await add(Users, { username, pwd }, ctx, true)
+        }
+        let token = sign({
             username: user.username,
             _id: user._id
-        }, 'jwt-website-server', {
-            expiresIn: 3600 * 24 * 7
-        }) 
+        })
 
         ctx.body = {
             code: 200,
             msg: 'Welcome',
-            token
+            res: token.token
         }
+
     } catch (error) {
+        logger.error(error)
         ctx.body = {
             code: 401,
             msg: '登录失败'
         }
     }
-    
-    
+
+
 }
 
-/**
- * @description: verify status of the user - 验证登录状态
- * @param {*} ctx
- * @return {*}
- */
-const verify = async (ctx) => {
-    let token = ctx.header.authorization
-    token = token.replace('Bearer ','')
-    try {
-        const result = jwt.verify(token, 'jwt-website-server');
-        console.log(result)
-        return;
-        const user = await Users.findOne({_id: result._id})
-        ctx.body = {
-            code: 200,
-            msg: '用户认证成功',
-            user: user
-        }
-    } catch (error) {
-        ctx.body = {
-            code: 500,
-            msg: '用户认证失败'
-        }
-    }
-}
 /**
  * @description: update password for user - 修改密码
  * @param {*} ctx
  * @return {*}
  */
 const updatePwd = async (ctx) => {
-    const { username, pwd } = ctx.request.body;
+    try {
+        const { username, pwd } = ctx.request.body;
+        const result = verify(ctx);
+        await update(Users, { username }, { pwd }, ctx)
 
-    const result = await Users.updateOne({ username }, { pwd });
 
-    console.log(result)
-    if(result.modifiedCount > 0) {
+    } catch (error) {
+
+
         ctx.body = {
-            code: 200,
-            msg: '修改成功',
+            code: 500,
+            msg: '用户认证失败'
         }
     }
+
+
 }
 
 const updatePersonal = async (ctx) => {
     let user = ctx.request.body
-
-    const result = await Users.updateOne({_id: user._id}, {
+    await update(Users, { _id: user._id }, {
         avatar: user.avatar,
         sex: user.sex,
         desc: user.desc,
         phone: user.phone,
         email: user.email
-    })
-
-    if(result.modifiedCount > 0) {
-        ctx.body = {
-            code: 200,
-            msg: '資料修改成功',
-        }
-    }else {
-        ctx.body = {
-            code: 300,
-            msg: '資料修改失敗',
-        }
-    }
+    }, ctx)
 }
 
 const getSchedules = async (ctx) => {
     let user = ctx.request.body;
-    console.log('current user: ' + user);
+    logger.info('current user: ' + user);
 
     await http({
         path: 'http://www.speak8.com/plugin.php?id=strong_yyyuyue&mobile=2',
         method: 'get'
-    }).then((res)=>{
-        console.log(res.data);
+    }).then((res) => {
+        logger.info(res.data);
 
         // format res.data
         const $ = cheerio.load(res.data);
         const yuyumenuContent = $('#yuyumenu').html();
 
-        console.log(yuyumenuContent)
+        logger.info(yuyumenuContent)
 
         ctx.body = {
             code: 200,
@@ -144,7 +115,6 @@ const getSchedules = async (ctx) => {
 
 module.exports = {
     login,
-    verify,
     updatePwd,
     updatePersonal,
     getSchedules

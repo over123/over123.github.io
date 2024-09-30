@@ -1,0 +1,41 @@
+{
+  "topicId": 76,
+  "summaryTitle": "雅思",
+  "title": "Cake",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "1. Do you like eating cakes?",
+          "2.Do you know how to bake a cake?",
+          "3.When do you usually eat cakes?",
+          "4.What is your favorite kind of cake?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a foreigner who speaks Chinese very well",
+          "You should say:",
+          "Who this person is",
+          "Where he/she is from",
+          "How he/she learns Chinese",
+          "And explain why he/she can speak Chinese well"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1.What foreign languages do Chinese children learn?",
+          "2.Why do Chinese children learn English?",
+          "3.Why are so many people learning English?",
+          "4.How can you help children learn English?",
+          "5.Do you think the way people learn English today is the same as in the past?",
+          "6.What are the benefits of the Internet for people's learning?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

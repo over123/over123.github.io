@@ -1,0 +1,37 @@
+{
+  "topicId": 123,
+  "summaryTitle": "雅思",
+  "title": "Keys & Favorite place in your house",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you always bring a lot of keys with you ?",
+          "Have you ever lost your keys ?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe your favorite place in your house where you can relax",
+          "You should say:",
+          "Where it is",
+          "What it is like",
+          "What you enjoy doing there",
+          "And explain why you feel relaxed at this place"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Why is it difficult for some people to relax?",
+          "What are the benefits of doing exercise?",
+          "Do people in your country exercise after work?",
+          "What is the place where people spend most of their time in their home?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

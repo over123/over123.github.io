@@ -1,0 +1,40 @@
+{
+  "topicId": 239,
+  "summaryTitle": "雅思",
+  "title": "Photographs",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "How often do you take photographs?",
+          "What things do you like to photograph?",
+          "Do you ever take selfies?",
+          "What do you do with the photos you take?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a photograph you like. You should say:",
+          "what can be seen in the photo",
+          "when it was taken",
+          "who took it",
+          "and explain why you like the photograph."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "How has photography changed over the past 20 years?",
+          "What makes a good photograph?",
+          "Are photographs works or art?",
+          "Do you agree that with the advances in camera technology, anyone - can take quality pictures today?",
+          "Why are selfies are so popular?",
+          "Do you think there are any dangers in sharing personal photos on social media?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

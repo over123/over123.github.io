@@ -1,0 +1,39 @@
+{
+  "topicId": 196,
+  "summaryTitle": "雅思",
+  "title": "Shoes & Cafe You Like",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like buying shoes? How often?",
+          "Have you ever bought shoes online?",
+          "How much do you usually spend on shoes?",
+          "Which do you prefer fashionable shoes or comfortable shoes?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Describe a cafe you like to visit",
+          " You should say:",
+          " Where it is",
+          " What kinds of food and drinks it serves",
+          " What you do there",
+          " And explain why you like to go there"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " What kind of people would like to to go a cafe?",
+          " Why do young people like studying in a cafe instead of at home?",
+          " Do old people like to drink coffee?",
+          " Do Chinese people like to drink coffee?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

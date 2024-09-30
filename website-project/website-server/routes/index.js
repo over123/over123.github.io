@@ -1,19 +1,27 @@
-const router = require('koa-router')()
+/*
+ * @Author: xudan
+ * @Date: 2024-07-04 19:57:46
+ * @LastEditors: xudan
+ * @LastEditTime: 2024-09-27 11:28:48
+ * @Description: 
+ * Contact Information: E-mail: xudan@gmail.com
+ * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
+ */
+const fs = require("fs");
+const Router = require('koa-router');
+const router = new Router();
+router.prefix('');
 
-router.get('/', async (ctx, next) => {
-  await ctx.render('index', {
-    title: 'Hello Koa 2!'
-  })
-})
+console.log(`processing routes ...`)
 
-router.get('/string', async (ctx, next) => {
-  ctx.body = 'koa2 string'
-})
+module.exports = app => {
+  fs.readdirSync(__dirname).forEach(file => {
+    if (file === "index.js") {
+      return;
+    }
+    const router = require(`./${file}`)
+    router[`${file.replace(/\.js/, '')}`] = router
 
-router.get('/json', async (ctx, next) => {
-  ctx.body = {
-    title: 'koa2 json'
-  }
-})
-
-module.exports = router
+    app.use(router.routes()).use(router.allowedMethods());
+  });
+};

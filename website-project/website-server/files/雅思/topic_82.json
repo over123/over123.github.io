@@ -1,0 +1,43 @@
+{
+  "topicId": 82,
+  "summaryTitle": "雅思",
+  "title": "Hometown & know more about",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Please describe your hometown a little",
+          "Do you like your hometown?",
+          "Is that a big City or a small place?",
+          "How long have you been living there?",
+          "Do you think you will continue living there for a long time?",
+          "How has your town changed over the last 20 years?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an interesting person that you have not met in person and would like to know more about",
+          "You should say",
+          "Who this person is",
+          "How you knew him/her",
+          "What interesting things he/she has done",
+          "And explain what you would like to know more about him/her"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Are there any differences in the relationship between you and your friends and between you and other people?",
+          "Do people feel lonely in crowded cities?",
+          "Where and how can people get to know new people?",
+          "Can clothing tell and reveal a person’s personality?",
+          "Why do individuals from same family have different personalities?",
+          "How does society influence a person’s personality?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

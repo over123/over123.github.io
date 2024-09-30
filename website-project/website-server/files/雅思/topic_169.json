@@ -1,0 +1,37 @@
+{
+  "topicId": 169,
+  "summaryTitle": "雅思",
+  "title": "Art & Learn",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "p> Do you like art?",
+          "p> Have you ever visited an art gallery?",
+          "p> Is there any artwork on the wall in your room?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "p> Describe a difficult skill you have learned from an old person.",
+          "p> You should say:",
+          "p> What it is",
+          "p> Why the skill was learned from this old person",
+          "p> How did you learn it",
+          "p> And explain how you felt after you learned the skill"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "p> What can children learn from their parents? What about their grandparents?",
+          "p> From whom can children learn more, parents or grandparents?",
+          "p> What kind of help do you think old people need?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

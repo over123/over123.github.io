@@ -1,0 +1,51 @@
+{
+  "topicId": 80,
+  "summaryTitle": "面试",
+  "title": "Leaders & Leadership",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " What is a leader?",
+          " Who are the first leaders who come to your mind?",
+          " What makes those people great leaders?",
+          " What are the qualities or characteristics that every leader should have?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Are some people natural leaders and other people natural followers? Why?",
+          " What are some of the biggest challenges of leading a country like China?",
+          " Would you like to be a leader in China? Why or why not?",
+          " Why do some people think it's a bad thing to always follow other people?",
+          " What characteristics does a bad leader have?",
+          " If you were the leader of your school, what changes would you make?"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Have you been successful in getting rid of a bad habit?",
+          "Is always coming late a bad habit?",
+          "What bad habits bother you the most?",
+          "What good habits do you most admire?",
+          "What unusual habits do you observe in your family members? Do they bother you?",
+          "How can you develop a good habit?",
+          "If someone makes an annoying sound what do you say?",
+          "How can we get rid of bad habits?",
+          "How can we develop good habits?",
+          "Which bad habit do you think would be the most difficult to get rid of? Why?",
+          "Which good habit do you think would be the most difficult to develop? Why?",
+          "Which habit is the most important for parents to set as an example of for their children?",
+          "Is always coming late a bad habit?",
+          "Is your partner's snoring a bad habit?",
+          "Do you cut people off in the middle of there stories and conversations?",
+          "Are we be born with our bad habits? Or do we acquire them from the environment surrounding us?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

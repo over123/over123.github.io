@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-23 16:09:47
  * @LastEditors: xudan
- * @LastEditTime: 2024-09-19 13:55:53
+ * @LastEditTime: 2024-09-30 18:11:55
  * @Description: routes data
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -83,7 +83,16 @@ const routes = [
                 path: '/daily/topic',
                 component: () => import('@/views/Topic/index.vue'),
                 meta: {
-                    title: '工作经历'
+                    title: '话题'
+                }
+            },
+            {
+                menu: 'topic',
+                name: 'Content',
+                path: '/daily/topic/content',
+                component: () => import('@/views/Topic/topic.vue'),
+                meta: {
+                    title: '话题'
                 }
             }
         ]

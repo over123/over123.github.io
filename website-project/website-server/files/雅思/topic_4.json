@@ -1,0 +1,40 @@
+{
+  "topicId": 4,
+  "summaryTitle": "雅思",
+  "title": "Classmate",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Can students choose their deskmates in your country?",
+          "Is it good for children to play with their classmates?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe something you would like to learn in the future",
+          "You should say:",
+          "What it is",
+          "How you would like to learn it",
+          "Where you would like to learn it",
+          "Why you would like to learn it",
+          "And explain whether it’s difficult to learn it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What's the most popular thing to learn nowadays?",
+          "At what age should children start making their own decisions? Why?",
+          "Which influences young people more when choosing a course, income or interest?",
+          "Do young people take their parents' advice when choosing a major?",
+          "Besides parents, who else would people take advice from?",
+          "Why do some people prefer to study alone?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

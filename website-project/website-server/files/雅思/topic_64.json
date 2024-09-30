@@ -1,0 +1,42 @@
+{
+  "topicId": 64,
+  "summaryTitle": "雅思",
+  "title": "Robots",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "1. Are robots important?",
+          "2. Would robots affect people's lives?",
+          "3. Have you ever watched a movie about robots?",
+          "4. Should we let a robot drive for us for long journeys?",
+          "5. What can robots do for you at home?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you had a problem with using the computer",
+          "You should say:",
+          "When it happened",
+          "Where it happened",
+          "What the problem was",
+          "And explain how you solved the problem at last"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1.What do people use computers for?",
+          "2.Should students be allowed to use computers at school?",
+          "3.What do you think of people who are addicted to playing computers?",
+          "4.Do you think computers make our life simpler or more complex?",
+          "5.Why do people often have problems when using new products?",
+          "6.Does relying on technology prevent children from learning skills?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

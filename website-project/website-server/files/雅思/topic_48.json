@@ -1,0 +1,41 @@
+{
+  "topicId": 48,
+  "summaryTitle": "雅思",
+  "title": "Weekends",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like weekends?",
+          "What do you usually do on weekends? Do you study or work?",
+          "What did you do last weekend?",
+          "Do you make plans for your weekends?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a daily routine that you enjoy",
+          "You should say:",
+          "What it is",
+          "When and why you started to follow this routine",
+          "Whether it is easy to follow this routine",
+          "And explain why you enjoy having this routine in your daily life"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Should children have learning routines?",
+          "What are the advantages of children having a routine at school?",
+          "Does having a routine make kids feel more secure at school?",
+          "How do people's routines differ on weekdays and weekends?",
+          "What daily routines do people have at home?",
+          "What are the differences between people's daily routines now and in the last 15 years?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

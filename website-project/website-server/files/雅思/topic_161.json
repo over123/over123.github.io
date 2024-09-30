@@ -1,0 +1,47 @@
+{
+  "topicId": 161,
+  "summaryTitle": "雅思",
+  "title": "Daily routine & Rule",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "How do you organise you study?",
+          "what is your daily study routine?",
+          "Do you ever change your plans?",
+          "Have you ever change your routine?",
+          "What is your favorite time of the day?",
+          "Do you like to plan what you will do eacg day?",
+          "Do you usually do the same things at the same time each day?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a rule that you do not like.",
+          "You should say:",
+          "what it is",
+          "why you do not like it",
+          "how others feel about the rule",
+          "and explain whether you have followed the rule."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What are the rules students should follow at school?",
+          "Are the rules at school good or bad? Why?",
+          "What can teachers do to make students obey the rules?",
+          "Should students be involved in making school rules?",
+          "What rules are there in the workplace?",
+          "What rules should children follow at home?",
+          "What rules do families usually have?",
+          "Why do some people refuse to follow the rules?",
+          "How are people punished when they park their car in the wrong place?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

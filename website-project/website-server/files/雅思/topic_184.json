@@ -1,0 +1,43 @@
+{
+  "topicId": 184,
+  "summaryTitle": "雅思",
+  "title": "Concentration & Success",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " Is it difficult for you to stay focused on something?",
+          " When is it hard to concentrate?",
+          " What may distract you when you are trying to stay focused?",
+          " In what situations do you need to concentrate?",
+          " When do you need to be focused?",
+          " What do you do to improve concentration?",
+          " What do you do to help you concentrate?",
+          " Is it easy for you to do two things simultaneously?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Describe a time when you tried to do something but was not very successful",
+          " You should say:",
+          " When it was",
+          " What you tried",
+          " Why it was not very successful",
+          " And how you felt about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " What is your definition of success?",
+          " What things do children try to succeed in?",
+          " Which do you think is more important for people to become successful? Hard work and opportunities?",
+          " Do you think people will be happy if they don’t have any goals to achieve?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

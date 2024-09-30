@@ -1,0 +1,38 @@
+{
+  "topicId": 203,
+  "summaryTitle": "雅思",
+  "title": "Sharing Something",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "How long have you been living there?",
+          "Do you think you continue living there for a long time?",
+          "How has your town changed over the last 20 years?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you shared something with others (or another person)",
+          "You should say:",
+          "What you shared",
+          "Who you shared it with",
+          "Why you shared it",
+          "And explain how you felt about sharing it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you like to share?",
+          "What are the consequences if children dont like to share?",
+          "How do you feel about sharing accommodation with others on campus?",
+          "How could parents and teachers teach young children to share?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

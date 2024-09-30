@@ -1,0 +1,120 @@
+{
+  "topicId": 9,
+  "summaryTitle": "托福",
+  "title": "Official 47",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Question",
+          "Do you agree or disagree with the following statement?",
+          "In the future, people will read fewer books than they do today. Use specific examples and details to support your opinion."
+        ],
+        "singleItemTitle": "TASK1对比类比"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Professor Evaluations",
+          "The university requires students to complete written evaluations of their professors at the end of each course taught during the semester. But the current system is private, since only the professors actually read the evaluations once the students submit them. I suggest that the university publish these evaluations online for everyone to read Both professors and students would benefit from having these evaluations published. Professors would feel more motivated to improve their teaching if they knew that their course evaluations were publicly available to all students. In addition, prospective students could read the evaluations and make more informed decisions about which classes they want to take.",
+          "Sincerely,",
+          "Chris Jacobs",
+          "Listening查看文本",
+          "Narrator: Now listen to two students discussing the letter.",
+          "Man: Did you see this?",
+          "Woman: Yeah, but I don't think it'll work.",
+          "Man: Why not?",
+          "Woman: Well, I don't think professors would be too happy to have their teaching style publicly criticized,",
+          "Besides, they might not even bother reading the online evaluations if they think there will be negative criticism in them.",
+          "Man: You really think that will happen?",
+          "Woman: Sure. And so the professor's won't take them seriously or be influenced in any way.",
+          "Nothing's going to change.",
+          "Man: OK, but at least students who might take their courses in the future would read them.",
+          "Woman: That's true.",
+          "But students who write the evaluations usually do it on the last day of class,",
+          "and they're all in a hurry to leave.",
+          "They don't want to bother spending much time on them,",
+          "so they don't say anything specific or helpful about the professor or the course.",
+          "Man: I see what you mean.",
+          "Woman: So this whole idea may not work at all.",
+          "Question",
+          "The woman expresses her opinion about the proposal in the letter. Briefly summarize the proposal. Then state the woman's opinion and explain the reasons she gives for holding that opinion."
+        ],
+        "singleItemTitle": "TASK2学术要求"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Reactance",
+          "People of all ages generally prefer to have as much freedom as possible in determining their own behavior. When individuals feel that their actions are being unfairly limited, they often attempt to restore the freedom by directly contradicting or opposing the rule or regulation that threatened their freedom Both children and adults demonstrate behaviors that are the results of their urge to restore freedom. This reaction, termed \"reactance\" by psychologists, comes from an individual's desire to reestablish freedom and control of a situation.",
+          "Listening查看文本",
+          "Narrator: Now listen to part of a lecture on this topic in a Psychology class.",
+          "Professor: Think about when you were a kid.",
+          "Imagine you like this one playground,",
+          "you play there a lot, have lots of fun, you know, OK.",
+          "Now imagine that one day for no apparent reason,",
+          "your parents decide that they don't want you playing there anymore.",
+          "You are not allowed to go there anymore.",
+          "Of course you're not going to like that one bit,",
+          "it's not fair.",
+          "And now that you're not allowed,",
+          "you want to play there even more than before.",
+          "So you sneak over there anyway.",
+          "You go to this playground despite your parents' rules.",
+          "Here's another example.",
+          "There was a town that passed a law that banned the sale of a certain kind of soap.",
+          "There was an ingredient in the soap that was harmful for the environment,",
+          "so stores weren't allowed to sell the soap anymore.",
+          "Keep in mind that this ingredient had no affect whatsoever on this soap's ability to clean things.",
+          "None. But people found out about the upcoming restriction and got upset.",
+          "They thought they should be able to buy whatever soap they wanted.",
+          "It wasn't right to take this soap away.",
+          "And a week before the law went into effect,",
+          "what happened?",
+          "People went and bought a whole lot of this particular soap,",
+          "way more than they would have in another circumstance.",
+          "Question",
+          "Explain how the examples in the lecture illustrate the concept of reactance."
+        ],
+        "singleItemTitle": "TASK3心理"
+      },
+      {
+        "singleItemContent": [
+          "Listening查看文本",
+          "Narrator: Listen to part of a lecture in a History class.",
+          "Professor: When early humans wanted to eat meat, they hunted wild animals,",
+          "that's how humans got meat for thousands of years.",
+          "But then around ten thousand years ago,",
+          "humans began to domesticate animals,",
+          "that is, they began to control animals, to feed them, to raise them.",
+          "And the domestication of animals had a number of benefits for early humans.",
+          "Let's talk about a couple of these benefits.",
+          "One benefit of animal domestication was that it provided early humans with a more consistent and reliable source of meat.",
+          "When early humans hunted wild animals,",
+          "sometimes they were able to find and catch the animals,",
+          "but other times they weren't.",
+          "So wild animals were not a reliable source of meat,",
+          "but with domesticated animals, meat was always available.",
+          "For example, goats were one of the first animals to be domesticated.",
+          "They were easily controlled and organized into herds led by a person, a shepherd.",
+          "So they could accompany groups of people as they move from place to place.",
+          "And whenever the people needed meat,",
+          "they could eat the goats, they were always available.",
+          "Another benefit of animal domestication was the domesticated animals could supply a variety of foods other than meat.",
+          "When early humans hunted wild animals,",
+          "the only kind of food they got was meat.",
+          "But domesticated animals were able to supply, in addition to meet, other kinds of food products.",
+          "For example, let's take a look again at domesticated goats.",
+          "Live goats produce milk,",
+          "so early humans could collect the milk and drink it,",
+          "and they could also process the milk and turn it into other kinds of food,",
+          "like yogurt and cheese, which could be stored.",
+          "Question",
+          "Using the example of goats from the lecture, explain the two benefits of animal domestication for early humans."
+        ],
+        "singleItemTitle": "TASK4历史与社会"
+      }
+    ]
+  }
+}

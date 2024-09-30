@@ -1,0 +1,44 @@
+{
+  "topicId": 52,
+  "summaryTitle": "雅思",
+  "title": "Chocolate",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like eating chocolate? Why or why not?",
+          "How often do you eat chocolate?",
+          "Did you often eat chocolate when you were a kid?",
+          "Why do you think chocolate is popular around the world?",
+          "What's your favourite flavour of chocolate?",
+          "Do you think it is good to use chocolate as gifts to others?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe another city you would like to stay for a short time",
+          "You should say:",
+          "Where the city is",
+          "Why you want to go there",
+          "Whom you will go there with",
+          "What you will do there",
+          "And explain why you will stay there just for a short time"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Why is the noise pollution worse in tourism cities than in other cities?",
+          "Do most people like planned travelling?",
+          "Do you think tourists may come across bad things in other cities?",
+          "Why do places with historical sites develop tourism industry more actively?",
+          "Why are historical cities popular?",
+          "Why do people sometimes go to other cities or other countries to travel?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

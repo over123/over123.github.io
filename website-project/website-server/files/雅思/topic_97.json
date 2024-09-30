@@ -1,0 +1,39 @@
+{
+  "topicId": 97,
+  "summaryTitle": "雅思",
+  "title": "FISHING & garden in your city",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Is fishing popular in your country?",
+          "Do you like eating fish?",
+          "Have you ever been to place where there are lots of fish around you?",
+          "Have you seen any movies with a lot of fish?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a park or a garden in your city",
+          "You should say:",
+          "When you often go there",
+          "Where it is",
+          "Who you often go there with",
+          "And explain what it is like"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do young people like to go to parks?",
+          "What do old people like to do in parks?",
+          "What are the benefits of going to the park for young people and old people?",
+          "Why do some people like planting flowers?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "topicId": 11,
+  "summaryTitle": "雅思",
+  "title": "Schools and workplaces",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Where is your school?",
+          "Do you like your school?",
+          "Do you think your school is a good place to study?",
+          "What is the environment like at your school?",
+          "What do you think could be improved in your school?",
+          "How important is interest in study?",
+          "Which subject do you find challenging?",
+          "Do you like your job?",
+          "Do you currently have a good work environment?",
+          "What do you think could be improved at your workplace?",
+          "Have you ever thought about changing jobs?",
+          "Is there a place in your company that makes you feel relaxed?",
+          "What are the advantages of a company having a relaxation room?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a film character played by an actor or actress whom you admire",
+          "You should say:",
+          "Who this actor/actress is",
+          "When you saw the film",
+          "What the character was like in this film",
+          "And explain why you admire this actor/actress"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Are actors or actresses very interested in their work? Why?",
+          "Is being a professional actor or actress a good career?",
+          "What can children learn from acting?",
+          "Why do children like special costumes?",
+          "What are the differences between actors or actresses who earn much and those who",
+          "earn little?",
+          "What are the differences between acting in a theatre and that in a film?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

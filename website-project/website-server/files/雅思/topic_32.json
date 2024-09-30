@@ -1,0 +1,42 @@
+{
+  "topicId": 32,
+  "summaryTitle": "雅思",
+  "title": "Pen & Pencil",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you usually use a pen or a pencil?",
+          "Which do you use more often? Pen or pencil?",
+          "When was the last time you bought a pen or pencil?",
+          "What do you think if someone gives you a pen or pencil as a present?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe another city you would like to stay for a short time",
+          "You should say:",
+          "Where the city is",
+          "Why you want to go there",
+          "Whom you will go there with",
+          "What you will do there",
+          "And explain why you will stay there just for a short time"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Why is the noise pollution worse in tourism cities than in other cities?",
+          "Do most people like planned travelling?",
+          "Do you think tourists may come across bad things in other cities?",
+          "Why do places with historical sites develop tourism industry more actively?",
+          "Why are historical cities popular?",
+          "Why do people sometimes go to other cities or other countries to travel?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

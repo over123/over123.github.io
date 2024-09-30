@@ -1,0 +1,39 @@
+{
+  "topicId": 220,
+  "summaryTitle": "雅思",
+  "title": "School & Bored",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What did you like to do most when you were primary school?",
+          "How did you go to your primary school?",
+          "How do you like your primary school?",
+          "What did you do in your leisure time in your primary school?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you felt bored.",
+          "You should say:",
+          "When it was",
+          "Who you were with",
+          "What you were doing",
+          "And explain you felt bored."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "When do people feel bored?",
+          "What can people do when they feel bored?",
+          "Do people get bored about daily routines?",
+          "Is it easier for the young people to feel bored than for the old?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

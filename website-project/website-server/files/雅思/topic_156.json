@@ -1,0 +1,42 @@
+{
+  "topicId": 156,
+  "summaryTitle": "雅思",
+  "title": "Home & accommodation & Stuck in traffic",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What kind of house or flat do you want to live in the future?",
+          "Are the transportation facilities to your home very good?",
+          "Do you prefer to live in a house or a flat?",
+          "Can you describe the place where you live?",
+          "What kind of housing accommodation do you live in?",
+          "What do you like about your flat?",
+          "Which room does your family spend most of the time in?",
+          "What do you dislike about it?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you were stuck in a traffic jam",
+          "You should say :",
+          "Where you were stuck",
+          "What you did while waiting",
+          "And explain how you felt in the traffic jam"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "How can we solve the traffic jam problem?",
+          "Do you think developing public transport can solve traffic jam problems?",
+          "Do you think the high ways will help reduce traffic jams?",
+          "What are good ways to manage traffic?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

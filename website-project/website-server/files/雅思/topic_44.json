@@ -1,0 +1,41 @@
+{
+  "topicId": 44,
+  "summaryTitle": "雅思",
+  "title": "Jewelry",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you often wear jewelry?",
+          "What type of jewelry do you like?",
+          "Do you usually buy jewelry?",
+          "Why do you think some people wear a piece of jewelry for a long time?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you taught a friend/relative something",
+          "You should say:",
+          "Who you taught",
+          "What/how you taught",
+          "What the result was",
+          "And explain how you felt about the experience"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What practical skills can young people teach old people?",
+          "How can young people teach old people skills?",
+          "How can we know what to do when we want to learn something new?",
+          "Do you think ‘showing’ is a better way than ‘telling’ in education?",
+          "Do people in your country like to watch videos to learn something?",
+          "What skills can young people teach old people besides technology?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

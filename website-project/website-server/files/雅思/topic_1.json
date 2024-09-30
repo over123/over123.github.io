@@ -1,0 +1,22 @@
+{
+  "topicId": 1,
+  "summaryTitle": "雅思",
+  "title": "Random Topics",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

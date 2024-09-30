@@ -1,0 +1,38 @@
+{
+  "topicId": 264,
+  "summaryTitle": "雅思",
+  "title": "Food & Cooking",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What is your favourite type of food? What is a common meal in your country?",
+          " Do you like cooking?",
+          "When do you eat your main meal of the day?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a restaurant that you enjoyed going to. You should say:",
+          "where the restaurant was",
+          "why you chose this restaurant",
+          "what type of food you ateand explain why you enjoyed eating in this restaurant."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do many people eat in restaurants in your country?",
+          "Which are more popular, fast food restaurants or traditional restaurants?",
+          "Why do people enjoy eating out?",
+          "What do you think a healthy diet consists of?",
+          "Do you think children should be taught about healthy diets and cooking at school or at home?",
+          "At what age do you think children should be taught to cook?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

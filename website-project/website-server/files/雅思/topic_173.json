@@ -1,0 +1,43 @@
+{
+  "topicId": 173,
+  "summaryTitle": "雅思",
+  "title": "Home & accommodation & Gift",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " What kind of house or flat do you want to live in the future?",
+          " Are the transportation facilities to your home very good?",
+          " Do you prefer to live in a house or a flat?",
+          " Can you describe the place where you live?",
+          " What kind of housing accommodation do you live in?",
+          " What do you like about your flat?",
+          " Which room does your family spend most of the time in?",
+          " What do you dislike about it?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Describe a gift you would like to buy for your friend",
+          " You should say:",
+          " What gift you would like to buy?",
+          " Who you would like to give it to?",
+          " Why do you want to buy this gift for him/her?",
+          " And explain why you would like to choose that gift?"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " When do people send gifts to others?",
+          " Do people give gifts or red pockets on traditional festivals?",
+          "  Is it hard to choose a gift?",
+          " Will people feel happy when receiving an expensive gift"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "topicId": 224,
+  "summaryTitle": "雅思",
+  "title": "Rest & Conversation",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "How often do you take a rest?",
+          "Do you take a nap when you are taking your rest?",
+          "How do you feel after taking a nap?",
+          "Is it important for you to take a rest every day?",
+          "What do you usually do when you are resting?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an interesting conversation",
+          "You should say:",
+          "Who you spoke with",
+          "Where you were",
+          "What the conversation was about",
+          "And explain why you think it was interesting"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do people communicate more when they talk face to face?",
+          "What do young people have conversations about?",
+          "Do people have conversations more or less than they did in the past?",
+          "Do you think we need to be good at communication at work?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

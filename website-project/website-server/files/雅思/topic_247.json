@@ -1,0 +1,41 @@
+{
+  "topicId": 247,
+  "summaryTitle": "雅思",
+  "title": "Hobbies & Leisure",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you prefer relaxing at home or going out in the evening?",
+          "When you do go out for an evening, what do you like to do?",
+          "Who do you like to spend leisure time with?",
+          "If you had more free time, what would you do with it?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an interest or hobby that you enjoy.",
+          "You should say:",
+          "how you became interested in it",
+          "how long you have been doing it",
+          "why you enjoy it",
+          "and explain what benefits you get from this interest or hobby."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "In your country, do people have a good balance between work and leisure time?",
+          "Has the amount of free time people have changed in the last 50 years?",
+          "Do you think people need to have an interest or hobby?",
+          "What are the most popular free-time activities with children today?",
+          "How has this changed from 20 years ago?",
+          "What are the advantages and disadvantage of this change for children?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

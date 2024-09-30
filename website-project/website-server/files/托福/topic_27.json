@@ -1,0 +1,121 @@
+{
+  "topicId": 27,
+  "summaryTitle": "托福",
+  "title": "Official 29",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Question",
+          "Some people like to study in public places where there are other people around. Others prefer to study in places where there are few or no people around. Which kind of place do you prefer? Explain why."
+        ],
+        "singleItemTitle": "TASK1对比类比"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Remove Old Bicycle from Campus Racks",
+          "I noticed that there are bicycles locked to the campus bicycle racks that have not been moved for a long time. I think the university should move these bikes from the racks and dispose of them. I recommend this action because, first of all, they will not be missed by anyone, since they apparently have been forgotten by their owners. More importantly, removing the bikes would help to free up space on the racks, thereby benefitting people who are actually using their bikes and need places to park them.",
+          "Listening查看文本",
+          "Narrator: Now listen to two students discussing the letter.",
+          "Woman: He's totally right about this, you know.",
+          "Man: Well, I agree they should do it,",
+          "but maybe it's not fair.",
+          "Woman: What? Just assuming no one wants them?",
+          "Well, judging from the condition some of them are in，",
+          "I think it's probably a safe assumption.",
+          "I mean some are missing parts like handlebars or wheels,",
+          "and others are really rusty like they've been left outside in the rain for years.",
+          "Man: Yeah, the ones with missing parts sure don't look like they're being used.",
+          "But what if some are?",
+          "Woman: Well, to be sure,",
+          "the university could always attach notes to them, and say,",
+          "give the owners two weeks to remove them or they'd be removed by campus security.",
+          "Man: Yeah, that would probably work.",
+          "Woman: Anyway, it'd be a really big help if they were gone.",
+          "Man: Oh, I know.",
+          "Woman: Because, I mean, especially like in front of the dining hall,",
+          "there are lots of them there, and it can be really hard to find a space.",
+          "All the spaces are always taken there.",
+          "Man: Yeah, it's bad.",
+          "Lots of people ride bikes these days.",
+          "Woman: And since the university doesn't allow us to tie them to sign posts, or fences or anything like that to park them,",
+          "I always have to lock mine up at another building and walk over to the dining hall because there's hardly ever a space.",
+          "Question",
+          "The woman expresses her opinion about the proposal in the letter. Briefly summarize the proposal. Then state her opinion and explain the reasons she gives for holding that opinion."
+        ],
+        "singleItemTitle": "TASK2校园服务与设施"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Scatter Hoarding",
+          "Many animals live in environments where food is plentiful during certain times of the year and scarce during other times of the year. In such environments, some animals collect and prepare food when it is plentiful, then hoard it—store it—for future use. Some types of hoarders engage in scatter hoarding. Unlike other types of hoarders, scatter hoarders do not store the food all in one place; instead, they scatter it—divide it up and hide it in many places. Later, at a time when food is scarce, the hoarders return to these hiding places and recover the food.",
+          "Listening查看文本",
+          "Narrator: Now listen to part of a lecture on this topic in a Biology class.",
+          "Professor: OK, so we sometimes see this with animals that live in parts of the world where it gets very cold in the winter.",
+          "For example, in the Northeastern United States,",
+          "there's a species of squirrel that does this.",
+          "This squirrel, like many species of squirrel, loves to eat nuts.",
+          "Nuts are one of its primary sources of food.",
+          "Now, nuts are very difficult to find in the winter.",
+          "But in the autumn,",
+          "there lying all over the place because that's when they fall from the trees.",
+          "So what this squirrel does is in the autumn,",
+          "it spends a lot of time finding nuts.",
+          "After it finds a nut, it prepares it.",
+          "It takes off the outer shell and cleans it.",
+          "This preparation may in some way help preserve the nut and,",
+          "or may make it easier to eat later on.",
+          "The squirrel then digs a little hole in the ground and buries the nut.",
+          "In one autumn, this squirrel may bury hundreds of nuts.",
+          "But it doesn't just dig a big hole and put all the nuts in it and cover them up.",
+          "No, it digs hundreds of holes all over the place,",
+          "and it puts just one not in each hole.",
+          "Now, why would it do that?",
+          "Well, probably primarily because,",
+          "even if other animals happen to find some of the holes, some of the nuts,",
+          "the squirrel will still have a lot of other holes with nuts in them.",
+          "So it'll still have enough food to survive the winter.",
+          "Question",
+          "Explain how the example from the professor's lecture illustrates the practice of scatter hoarding."
+        ],
+        "singleItemTitle": "TASK3生物"
+      },
+      {
+        "singleItemContent": [
+          "Listening查看文本",
+          "Narrator: Listen to part of a lecture in a Business class.",
+          "Professor: OK. So, of course businesses want to sell as many of their products as possible.",
+          "Often a business sells mostly one type of product.",
+          "But sales of this product may stop increasing because most potential customers have already bought it.",
+          "In this situation, many companies will try to diversify,",
+          "to develop new or diverse products in order to increase sales.",
+          "There are a couple of efficient ways that a company can diversify using some of their existing resources.",
+          "One way a company can diversify is to use an existing technology,",
+          "technology that they already have to develop a new product.",
+          "If a company already has the machines and technology to make a certain product,",
+          "sometimes it can efficiently use that same technology to make a different product.",
+          "For example, a company that makes televisions might start making computer monitors,",
+          "because the technology used to make these two products is very similar.",
+          "So the company can use its existing technological resources to make the monitors.",
+          "But with the monitors, it can reach new customers.",
+          "People that wouldn't buy television screens,",
+          "like businesses that need to buy monitors for their employees' computers.",
+          "Another way a company can diversify is to try to appeal to its existing customers, its customer base, with a new product.",
+          "One of a company's most important resources is its existing customers,",
+          "and these customers might have other needs that the company could fulfill with a different product.",
+          "For example, a company that sells skis might have a large customer base that enjoys winter sports,",
+          "like skiing down snowy mountains, so they might start making ski jackets.",
+          "The same customers that buy skis would also need warm ski jackets to wear while their skiing.",
+          "And since they like the company's skis,",
+          "they might be more likely to buy the jackets with the company's name on them.",
+          "Question",
+          "Using points and examples from the lecture, explain two ways a company can diversify."
+        ],
+        "singleItemTitle": "TASK4商科"
+      }
+    ]
+  }
+}

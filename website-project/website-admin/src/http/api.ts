@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-08-06 12:21:02
  * @LastEditors: xudan
- * @LastEditTime: 2024-09-19 14:02:52
+ * @LastEditTime: 2024-09-30 15:59:23
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -40,3 +40,4 @@ export {
 
 export * from "./experience"
 export * from "./project"
+export * from "./topic"

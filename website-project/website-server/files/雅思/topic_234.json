@@ -1,0 +1,40 @@
+{
+  "topicId": 234,
+  "summaryTitle": "雅思",
+  "title": "International News",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you often get up early in the morning?",
+          "What do you usually do when you get up early?",
+          "Do you get up early on weekends?",
+          "Which morning do you like best in a week?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a piece of international news you recently heard.",
+          "You should say:",
+          "What it was about",
+          "Where and when you heard it",
+          "What you were doing when you heard it",
+          "And explain how you felt about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "How do Chinese people usually get news?",
+          "Which kind of news is more popular?",
+          "Domestic news or International news?",
+          "Do you think children should pay more attention to th e news?",
+          "How is the news media changing recently?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

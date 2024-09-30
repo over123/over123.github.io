@@ -1,0 +1,44 @@
+{
+  "topicId": 179,
+  "summaryTitle": "雅思",
+  "title": "Flowers & Waste Your Time",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " What flowers have special meaning in your country?",
+          " What flowers do you like to know?",
+          " What is your favorite flower?",
+          " Do you like flower?",
+          " When was the last time you gave flowers to someone?",
+          " Have you sent flowers to others?",
+          " Have you planted any flowers?",
+          " Do you like to have flowers in your home?",
+          " Where can people buy flowers?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Describe an activity you usually do that waste your time",
+          " You should say :",
+          " What it is",
+          " When you usually do it",
+          " Why you do it",
+          " And explain why you  think it waste your time"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " How do you balance life and work?",
+          " Will you continue doing something when you are aware that its a waste of time?",
+          " What kinds of things make people feel pressured?",
+          " Why do some people refuse to abide by rules?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

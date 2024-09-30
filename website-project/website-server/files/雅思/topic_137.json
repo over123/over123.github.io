@@ -1,0 +1,36 @@
+{
+  "topicId": 137,
+  "summaryTitle": "雅思",
+  "title": "Social Media & Shared something",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like using social media ?",
+          "Do you think your friends use too much social media?",
+          "Do you want to work in social media?Why?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you shared something with others",
+          "You should say:",
+          "Who you shared it with",
+          "What you usually share with others",
+          "And explain why you shared it withhim/her"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you think kids like to share ? Why?",
+          "How can parents teach their children to share?",
+          "What do you think is the benefit of sharing for children?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "topicId": 134,
+  "summaryTitle": "日常",
+  "title": "Machines",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " What do you think is the most important machine in your life?",
+          " What do you think was the most important invention in history?",
+          " Which machines do you think make our lives easier?",
+          " Which machines do you think make our lives more difficult?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Which are the most useless machines, the machines we could live without?",
+          " If you could invent any machine, what type of machine would you invent?",
+          " How big would it be?",
+          " Would it be for everyone or only the very rich?",
+          " Which machines do you think had one purpose when they were invented, but now have many or different ones?",
+          " What machines do you use everyday in your life?",
+          " What things can you do faster without using a machine?",
+          " Which machines do you use on a daily basis?"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "p>Do people in your country ever decide to remain single and not create a family?",
+          "If so, what does the rest of your society think?",
+          "Is it necessary to get married to have a good life?",
+          "Do people who are not related by blood ever live communally in your country?",
+          "Is polygamy allowed in your culture?",
+          "Is it OK to have more than one spouse?",
+          "Would you like this life style?",
+          "What countries allow this?",
+          "What religions allow it?",
+          "What do you think of people who get married many times?",
+          "Do children in your country ask for their parents' approval before they get married? Why or why not?",
+          "Does the whole family discuss important decisions?",
+          "When do children leave their parents' home in your country?",
+          "When do parents' stop giving financial support to their children?",
+          "Who in your family would you turn to if you had an emotional problem? Why?",
+          "If you had a financial problem, would you expect your family to help?",
+          "What is a perfect family or alternative lifestyle for you?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "topicId": 185,
+  "summaryTitle": "雅思",
+  "title": "Environmental Protection & Place You Visited",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " What can individuals do to protect our environment?",
+          " Do you think you’ve done enough to protect the environment?",
+          " What can people do together to protect the environment?",
+          " Is it important to teach students environmental protection in school?",
+          " Do you think it is necessary to make environmental protection as a subject?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Describe a place you visited on vacation",
+          " You should say:",
+          " Where it is",
+          " When you went there",
+          " What you did there",
+          " And explain why you went there"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " What are some popular attractions that people like to visit in your country?",
+          " Do old people and young people choose different places to go on vacation? Why?",
+          " What do young people and old people think about when making travel plans?",
+          " How do people find out about a new place?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

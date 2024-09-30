@@ -1,0 +1,43 @@
+{
+  "topicId": 60,
+  "summaryTitle": "雅思",
+  "title": "Noise",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "1.Do you like to stay in a place with a lot of noise?",
+          "2.What kinds of noises are there in the area where you live?",
+          "3.Do you want to move to a quieter place?",
+          "4.Do you think there is too much noise in today's world?",
+          "5.ls making noise one of people's rights?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a successful businessperson you know(e.g. running a family",
+          "business)",
+          "You should say:",
+          "Who this person is",
+          "How you knew him/her",
+          "What business he/she does",
+          "And explain why he/she is successful"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1.What factors lead to success?",
+          "2.What do people need to sacrifice for success?",
+          "3.Which is more likely to be successful,family businesses or large corporations?",
+          "4.ls it easy for a business to be successful without affecting the environment?",
+          "5.Can you provide some examples of family businesses in your country?",
+          "6.What qualities should be considered when recruiting employees?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

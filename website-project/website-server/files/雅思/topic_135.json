@@ -1,0 +1,38 @@
+{
+  "topicId": 135,
+  "summaryTitle": "雅思",
+  "title": "Names & Home of someone",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Does your name have special meaning?",
+          "How do eyou choose names for your next generation?",
+          "Are there any differences between how Chinese name their children now and in the past?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe the home of someone you know well and that you often visit",
+          "You should say:",
+          "Whose home it is",
+          "How often you go there",
+          "What it is like",
+          "And explain how you feel about the home"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What are the differences between houses or buildings in the city and in the cuntryside ?",
+          "Do you prefer to live in the city or in the countryside?",
+          "What safety risks are there in residential buildings in cities?",
+          "Is it expensive to decorate a house or an apartment in the place where you live?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

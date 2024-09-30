@@ -1,0 +1,40 @@
+{
+  "topicId": 213,
+  "summaryTitle": "雅思",
+  "title": "Holidays & Sports",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What public holidays do you have in your country?",
+          "Which public holidays do you like the most?",
+          "Can you describe your perfect holiday?",
+          "Which do you prefer, to spend time on a beach or have excursions in a City.",
+          "What was the best holiday in your life?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a live sports match that you have watched.",
+          "You should:",
+          "What it was",
+          "When you watched it",
+          "What it was like",
+          "And how you felt about it."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you prefer to watch live sports or watch it on TV?",
+          "Why do some people like to watch live sports?",
+          "What kinds of sports do Chinese people like to watch?",
+          "Do you think competition is good for students?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

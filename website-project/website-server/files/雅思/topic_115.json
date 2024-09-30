@@ -1,0 +1,38 @@
+{
+  "topicId": 115,
+  "summaryTitle": "雅思",
+  "title": "Technology & Gift you got",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What technology do you often use, computers or mobile phones?",
+          "What electronic devices have you bought lately?",
+          "Are there any technology you want to buy?",
+          "Whats the benefit of technology?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a gift you got",
+          "You should say:",
+          "What it is",
+          "How you got it",
+          "What you did",
+          "And explain how you felt about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Should employee have their own goals?",
+          "how should bosses reward employees?",
+          "What kinds of gifts do young people like to receive as rewards?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

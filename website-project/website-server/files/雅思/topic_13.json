@@ -1,0 +1,44 @@
+{
+  "topicId": 13,
+  "summaryTitle": "雅思",
+  "title": "Doing sports",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What sports do you like?",
+          "Where did you learn how to do it?",
+          "Did you do some sports when you were young?",
+          "Do you think students need more exercise?",
+          "Do you know any people who are good at sports?",
+          "Do you think it is important for people to exercise?",
+          "Should schools encourage young students to take more physical exercise?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe something you own that you want to replace",
+          "You should say:",
+          "What it is",
+          "Where it is",
+          "How you got it",
+          "And explain why you want to replace it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Does consumption have any impact on the environment?",
+          "Why do people always want to buy new things to replace old ones?",
+          "Why do you think some people replace things more often than others?",
+          "Why do young people change things more often than old people?",
+          "Why do some people like to buy expensive things?",
+          "Why do some people prefer to buy things in the supermarket rather than online?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

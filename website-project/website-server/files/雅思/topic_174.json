@@ -1,0 +1,39 @@
+{
+  "topicId": 174,
+  "summaryTitle": "雅思",
+  "title": "Country & Cloth",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " Tell me a little about your hometown.",
+          " Which part of your country  do most people live in?",
+          " Where is your country located?",
+          " Tell me about the main industries in your country.",
+          " What are some of the good things and some of the bad things about living in your country?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Describe a piece of clothing that someone gave to you.",
+          " You should say:",
+          " What it is?",
+          " Who gave it to you?",
+          " When you got it?",
+          " And explain why this person gave you this piece of clothing?"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " Why do people dress casually in daily life and dress formally at work?",
+          "  What are the advantages and disadvantages of wearing a uniform at work and school?",
+          " Why do people from different countries wear different clothes?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

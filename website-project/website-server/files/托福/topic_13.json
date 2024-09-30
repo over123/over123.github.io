@@ -1,0 +1,122 @@
+{
+  "topicId": 13,
+  "summaryTitle": "托福",
+  "title": "Official 43",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Question",
+          "Some students attend college full-time, while others attend college part-time. Which do you think is better? Explain why."
+        ],
+        "singleItemTitle": "TASK1城市社区"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "University Makes Changes to Orientation Program",
+          "Madison University is making a change to the orientation program for first-year students. In the past, as part of orientation, new, incoming students could go on a two-day hiking and camping trip together with other incoming students on the weekend before classes begin. In order to encourage more students to take advantage of the opportunity to get to know one another in an informal setting, the university will now offer a choice of activities: students will be able to either go hiking or participate in organized group games on campus. Additionally, these activities will last one day only, not two, a change many students had requested.",
+          "Listening查看文本",
+          "Narrator: Now listen to two students discussing the article.",
+          "Man: Interesting, isn't it?",
+          "I wish they'd made this change two years ago when we got here.",
+          "This program is gonna be much more attractive this way to lots more people.",
+          "Woman: Why?",
+          "Man: Oh it's a question of choice.",
+          "See, not everyone likes the same things.",
+          "The way it used to be, if like you didn't like sleeping in the tent,",
+          "well, you just didn't participate.",
+          "Lots of people didn't.",
+          "Woman: That's true. I didn't go on the camping trip my first year,",
+          "hiking and camping isn't my thing.",
+          "But you know, I did feel I missed out on something.",
+          "Man: Right. Plus, the other reason this is going to work is that you don't have to give up your whole weekend anymore.",
+          "There are other things people need to do their first few days,",
+          "you know, like buy their books, set up their rooms,",
+          "prepare for the first day of classes, that kind of thing.",
+          "The big time commitment used to get in the way.",
+          "Question",
+          "The man expresses his opinion about the change described in the article. Briefly summarize the change Then state his opinion about the change and explain the reasons he gives for holding that opinion."
+        ],
+        "singleItemTitle": "TASK2学生活动"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Population Changes",
+          "Populations of living beings are constantly changing The number of humans, animals, insects, or plants living in a given area can vary because of two kinds of factors: biotic and abiotic Biotic factors are living factors that can influence the size of populations, such as predators or other species competing for food. Abiotic factors are nonliving things in the surrounding environment that can cause population changes, such as weather or sunlight. Biotic and abiotic factors cause continual changes in the number of individuals that make up a population of organisms.",
+          "Listening查看文本",
+          "Narrator: Now listen to part of a lecture on this topic in a Biology class.",
+          "Professor: Imagine there's a group of mice living in a large field and the owls living nearby.",
+          "Now owls eat mice,",
+          "so the number of mice there are at any given time depends upon the number of owls in the area.",
+          "Because the more owls there are,",
+          "the more mice get eaten, right?",
+          "Now imagine one year,",
+          "there are more owls than usual.",
+          "Since there are more owls in the area to eat the mice,",
+          "what do you think will happen to the number of mice?",
+          "As you can imagine,",
+          "the number would drop, there'd be fewer mice.",
+          "As far as the other factor,",
+          "we can use rabbits to help understand this one.",
+          "Imagine a population of rabbits living in an area.",
+          "These rabbits usually start having their young at the end of winter after the cold winter weather has gone,",
+          "and they keep reproducing until the following winter,",
+          "when they will stop again while the cold winter weather lasts.",
+          "But let's say this year,",
+          "the winter season is very short,",
+          "and you know it starts getting warm much earlier than usual.",
+          "Since winter this year is so short,",
+          "the rabbits can start reproducing much earlier.",
+          "That means the rabbits in that area will have at least one extra reproductive cycle.",
+          "So, of course,",
+          "one extra litter of baby rabbits.",
+          "So the number of rabbits in that area would increase a lot.",
+          "Question",
+          "Using the examples of mice and rabbits from the lecture, describe the two different types of factors that can cause population changes."
+        ],
+        "singleItemTitle": "TASK3生物"
+      },
+      {
+        "singleItemContent": [
+          "Listening查看文本",
+          "Narrator: Listen to part of a lecture in a Biology class.",
+          "Professor: Okay, so we've been talking about what most animals do when they need food,",
+          "they simply go out and look for it.",
+          "But some animals do something entirely different when they need food.",
+          "Surprising as it may sound,",
+          "some animals actually spend a great deal of time taking care of their own food source.",
+          "They cultivate it, sort of the way human farmers would,",
+          "so it will keep growing until it's ready for them to use.",
+          "Let's start with an animal that cultivates plants.",
+          "There's a certain fish,",
+          "it's called a damselfish that likes to eat a special kind of seaweed.",
+          "So wherever a patch of the seaweed grows,",
+          "there will usually be damselfish swimming above and around it.",
+          "Now the fish are there to provide protection from other plants,",
+          "so the seaweed can grow and then regrow as the damselfish eat it.",
+          "For example,",
+          "if other plants start growing over the seaweed blocking sunlight,",
+          "the damselfish remove those plants by biting off the parts that are getting too tall.",
+          "So by protecting the seaweed from being overrun and damaged by other plants,",
+          "the damselfish always have a supply of food ready to use.",
+          "Now some animals don't cultivate plants,",
+          "they take care of other animals as a source of food.",
+          "Take ants for instance,",
+          "there are some species of black ants that care for tiny insects called aphids.",
+          "These aphids produce a sweet liquid that the ants like to eat,",
+          "so ants guard the aphids from being eaten by other animals and help feed the aphids.",
+          "In fact, sometimes the ants even carry aphid eggs back to their own nests,",
+          "and raise the young aphids there.",
+          "Then the aphids grow and produce a sweet liquid that the ants eat,",
+          "so the ants make use of the aphids as a reliable source of food.",
+          "Question",
+          "Using points and examples from the talk, explain two different ways in which animals provide themselves with food."
+        ],
+        "singleItemTitle": "TASK4生物"
+      }
+    ]
+  }
+}

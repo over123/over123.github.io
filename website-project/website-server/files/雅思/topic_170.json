@@ -1,0 +1,37 @@
+{
+  "topicId": 170,
+  "summaryTitle": "雅思",
+  "title": "Cinema & Foreign Language",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "p>  Did you usually go to the cinema when you were a child?",
+          "p>  Do you often go to the cinema with your friends?",
+          "p>  Do you still like the same kind of movie which you liked when you were a child?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "p>  Describe something that helped you learn a foreign language.",
+          "p>  You should say:",
+          "p>  What it was",
+          "p>  What language did you learn?",
+          "p>  Why you chose to learn that language",
+          "p>  And explain how this thing helped you"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "p> What difficulties do people face when learning a language?",
+          "p> Do you think language learning is important?",
+          "p>  Is studying abroad a good way to learn a foreign language?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

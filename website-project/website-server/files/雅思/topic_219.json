@@ -1,0 +1,39 @@
+{
+  "topicId": 219,
+  "summaryTitle": "雅思",
+  "title": "Trip & Bought",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Why do you like traveling by car?",
+          "What us the farthest place you have travelled by car?",
+          "Do you like to sit in front or back when travelling by car?",
+          "When do you travel by car?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a thing that you bought and felt pleased about.",
+          "You should say",
+          "What you bought",
+          "Where you bought it",
+          "What it is for",
+          "And explain why you felt pleased about it."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "How often do people in your country go shopping?",
+          "Why is online shopping popular?",
+          "How should sellers set prices for their products?",
+          "Do you think online shopping will replace shopping in stores?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

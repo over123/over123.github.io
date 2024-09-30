@@ -1,0 +1,43 @@
+{
+  "topicId": 66,
+  "summaryTitle": "雅思",
+  "title": "Helping others",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "1. Do you usually help people around you?",
+          "2. How do you help people around you, such as neighbours, family and friends?",
+          "3. Do your parents teach you how to help others?",
+          "4. Did your parents help you a lot when you were young?",
+          "5. What have you done to help the elderly?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a sportsperson you admire",
+          "You should say:",
+          "Who he/she is",
+          "What you know about him/her",
+          "What he/she is like in real life",
+          "What achievement he/she has made",
+          "And explain why you admire him/her"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1.Should students have physical education and do sports at school?",
+          "2.What qualities make an athlete have?",
+          "3.ls talent important in sports?",
+          "4.ls it easy to identify children's talents?",
+          "5.What is the most popular sport in your country?",
+          "6.Why are there so few top athletes?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

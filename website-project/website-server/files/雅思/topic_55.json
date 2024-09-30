@@ -1,0 +1,41 @@
+{
+  "topicId": 55,
+  "summaryTitle": "雅思",
+  "title": "Small businesses",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you know many small businesses where you live？",
+          "Have you ever worked in small businesses？",
+          "Do you prefer buying things from big companies or small businesses？",
+          "Have you ever thought about starting your own business？"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a website you often visit",
+          "You should say:",
+          "What it is about",
+          "How you found out about it",
+          "How often you visit it",
+          "And explain why you often visit it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What are the differences between old people and young people when they use the internet?",
+          "What kinds of people would still go to the library to read and study?",
+          "ls the library still necessary? Why?",
+          "Why do some people like to read the news on the internet instead of getting it from TV?",
+          "What's the difference between the internet and television?",
+          "What are the most popular and least popular apps in China?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

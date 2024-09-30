@@ -1,0 +1,39 @@
+{
+  "topicId": 192,
+  "summaryTitle": "雅思",
+  "title": "Primary School & Difficult Thing",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " What did you like to do most when you were primary school?",
+          " H ow did you go to your primary school?",
+          " How do you like your primary school?",
+          " What did you do in your leisure time in your primary school?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Describe a difficult thing you did",
+          " You should say:",
+          " What it was",
+          " How you dis/completed it",
+          " Why it was difficult",
+          " And how you felt about doing it?"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " What kinds of jobs require people to be confident?",
+          " On what occasions should children be encouraged? How?",
+          " How do you help children stay focuses?",
+          " What challenges do young people face today?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

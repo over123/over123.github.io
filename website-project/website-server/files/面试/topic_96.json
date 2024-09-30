@@ -1,0 +1,68 @@
+{
+  "topicId": 96,
+  "summaryTitle": "面试",
+  "title": "Poverty",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What is poverty?",
+          "What kind of problems do poor people have?",
+          "Why are people hungry?",
+          "Do you feel sorry for people who live on the street?",
+          "Are people who live on the street necessarily lazy?",
+          "Do you believe that the rich are growing richer, and the poor are growing poorer?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Shouldn't all people work for a living?",
+          "Would you pay more taxes, if this would eliminate poverty by creating jobs for everyone?",
+          "Will there always be poverty in the world?",
+          "Should countries send troops to foreign countries to fight terrorism, or should governments fight poverty around the world instead?",
+          "Are there more important issues than poverty? If so, name them in order of importance.",
+          "Why does every country in the world have poor people?",
+          "Do you consider yourself to be poor, middle-class, or rich?",
+          "What country do you think has the best record for helping its poor?",
+          "What country do you think has the worst record for helping its poor?",
+          "Does poverty cause crime?",
+          "Food Programs",
+          "Have you ever donated to the food bank?",
+          "Have you ever thought about going to the food bank?",
+          "Do you know anyone who has gone to church for food?",
+          "What programs does your city have for feeding the needy?",
+          "What food programs does your country have?",
+          "Have you ever used a food program after a natural disaster?"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What do you think about people receiving welfare?",
+          "Should the government fund the welfare system?",
+          "What do you think of countries that do not have a welfare system?",
+          "What do you think about people who work for cash and receive welfare as well?",
+          "Should governments invest money in space missions or welfare?",
+          "Would you eliminate the welfare system?",
+          "Do you think it's okay for the government to keep decreasing the welfare amount?",
+          "How long should someone receive welfare? Forever?",
+          "What is a good reason for someone to receive welfare?",
+          "What punishment would you give someone who is on welfare illegally, but has lots of money?",
+          "Would you report welfare fraud to the police, even if it were a close friend?",
+          "Should welfare recipients receive free housing?",
+          "Have you ever talked to a homeless person?",
+          "Are there homeless people in your country?",
+          "Have you ever helped a homeless person? How?",
+          "How does the government in your country support the homeless?",
+          "What do you think of governments who put the homeless in jails or even torture or kill them?",
+          "Do you think the government should create jobs for the homeless, instead of just giving them money?",
+          "Why do people end up being homeless?",
+          "Have you ever visited a homeless shelter?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

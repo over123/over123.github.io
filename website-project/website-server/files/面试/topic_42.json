@@ -1,0 +1,64 @@
+{
+  "topicId": 42,
+  "summaryTitle": "面试",
+  "title": "Neighbor Complaints",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " What are the most common neighbor complaints?",
+          " Do you get on well with your neighbors?",
+          " What kind of neighbor are you?",
+          " Loud?",
+          " Dirty?",
+          "Nagging?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Understanding?",
+          " Have you ever had problems with your neighbors? Explain.",
+          " What is it that neighbors do that peeves you the most?",
+          " Have you ever considered suing your neighbor? Why?",
+          " Do you treat others as you'd like to be treated?",
+          " What are the most common neighbor complaints?",
+          " Do you get on well with your neighbors?",
+          " How do you keep your neighbors from complaining?"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "p>Do all the cities in your country or the U.S. have the same educational system?",
+          "Can you suggest some good tourist sites to visit in your city?",
+          "Does your city have a professional or semi-professional sports team?",
+          "How many teams are there?",
+          "What are sports?",
+          "What are the team's names?",
+          "Do you go and watch some of these sports? How much does it cost?",
+          " Do some of these teams win championships?",
+          "What are you doing to reduce the amount of pollution in your city?",
+          "What are the major problems in your city?",
+          "What are some long term problems?",
+          "What are some recent problems?",
+          "What is your city doing to solve these problems?",
+          "What do you think should be done to solve them ?",
+          "What are you doing to help solve these problems?",
+          "Where's the trendiest area in your city? Do you enjoy going there?",
+          "who are some famous personalities from your city?",
+          "What would you do to improve some aspects of your city?",
+          "Which city's sports team do you cheer for?",
+          "Is your city very cosmopolitan?",
+          "What are some cosmopolitan cities around the world",
+          "What is the most important part of a city?",
+          "Who is the local government head in your city?",
+          "Which cities would you like to visit in your home country?",
+          "Which cities would you like to visit around the world?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

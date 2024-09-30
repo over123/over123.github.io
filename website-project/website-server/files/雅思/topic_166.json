@@ -1,0 +1,43 @@
+{
+  "topicId": 166,
+  "summaryTitle": "雅思",
+  "title": "Street Market & Remember",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "p>Are there many street markets in your country?",
+          "p>What do street market sells?",
+          "p>What is the difference between street markets and supermarkets?",
+          "p>Do you prefer shopping in a shopping mall or at a street market?",
+          "p>Do many people go to street markets in your country?",
+          "p> Do you like goint to street markets?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "p>Describe a lesson that impressed you a lot.",
+          "p>You should say:",
+          "p>What the lesson was about?",
+          "p>Where you took the lesson?",
+          "p>What you did in the lesson?",
+          "p>And explain why it impressed you a lot?"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "p>Describe a lesson that impressed you a lot.",
+          "p>You should say:",
+          "p>What the lesson was about?",
+          "p>Where you took the lesson?",
+          "p>What you did in the lesson?",
+          "p>And explain why it impressed you a lot?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

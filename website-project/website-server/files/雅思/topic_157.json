@@ -1,0 +1,40 @@
+{
+  "topicId": 157,
+  "summaryTitle": "雅思",
+  "title": "Country & Friend you like to talk with",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Tell me a little about your hometown.",
+          "Which part of your country  do most people live in?",
+          "Where is your country located?",
+          "Tell me about the main industries in your country.",
+          "What are some of the good things and some of the bad things about living in your country?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a friend you like to talk with",
+          "You should say :",
+          "Who he/she is",
+          "What you like to talk about",
+          "Why you like to talk with him/her",
+          "And explain how you feel about him/her"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Where do young people like to meet?",
+          "What do young people talk about when they meet up?",
+          "Do you think people should be honest when talking with friends?",
+          "On what occasions do people talk with strangers?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

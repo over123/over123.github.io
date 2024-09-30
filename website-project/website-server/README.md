@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-04 19:58:05
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-18 16:43:32
+ * @LastEditTime: 2024-09-25 10:43:04
  * @Description: readme.md
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -35,7 +35,7 @@ module.exports = () => {
         useNewUrlParser: true, // 创建一个新的集合时，若不存在则自动创建
     }) */
     mongoose.connect('mongodb://127.0.0.1:27017/website').then(() => {
-        console.log('数据库连接成功')
+        console.info('数据库连接成功')
     }).catch(err => {
         console.error('数据库连接失败:' + err)
     })

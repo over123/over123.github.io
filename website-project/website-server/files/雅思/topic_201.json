@@ -1,0 +1,42 @@
+{
+  "topicId": 201,
+  "summaryTitle": "雅思",
+  "title": "Job & Sea",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like your job ?",
+          "Is there anything you dislike about your job?",
+          "What was your dream job when you were young?",
+          "Have you changed your mind on your dream job?",
+          "What do you like about your studies?",
+          "What do you dislike about your studies?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a part of a city or town you enjoy spending time in.",
+          "You should say:",
+          "Where it is",
+          "What it is like",
+          "What you do there",
+          "And explain why you enjoy spending time there"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Is it popular to go to the sea side in your country?",
+          "What are the advantages and disadvantages of spending time near the sea?",
+          "What job are connected with the sea?",
+          "Why do people like to spend time by the sea?",
+          "What is the difference between the activities that young people choose to do near or in the sea?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

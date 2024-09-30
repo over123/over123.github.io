@@ -1,0 +1,40 @@
+{
+  "topicId": 165,
+  "summaryTitle": "雅思",
+  "title": "Taking Photos & Visit Place",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "p>Do you like to take photographs?",
+          "p>What do you like to photograph?",
+          "p>How did you become imterested in photography?",
+          "p>How do you keep your photos?",
+          "p>Do you eve delete or, if on paper, throw away any of your photos?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "p>Describe a time you visited a new place.",
+          "p>You should say:",
+          "p>Where it is?",
+          "p>When you went there?",
+          "p>Why you went there?",
+          "p>And explain how did you feel about the place?"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "p>Which one do you prefer, living in a city or only visiting it as a tourist?",
+          "p> How do children react when they go to a new school for the first time?",
+          "p>How do young and old people react differently to new things?",
+          "p>Why do some people want to go to colleges that are far away from home?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

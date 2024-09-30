@@ -1,0 +1,39 @@
+{
+  "topicId": 227,
+  "summaryTitle": "雅思",
+  "title": "Maths & Polite",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do students learn maths in secondary schools in China?",
+          "DO you think math is difficult?",
+          "What can people do with Math in their daily life?",
+          "Do you learn Math now? Why or why not?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a polite person you know",
+          "You should say:",
+          "Who he/she is",
+          "How you knew him/her",
+          "What he/she is like",
+          "And explain why you think he/she is polite"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What’s the standard of being polite?",
+          "What behavior will be regarded as impolite?",
+          "Who are more polite? People from cities or those from the countryside?",
+          "What do you think make people polite?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

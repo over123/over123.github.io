@@ -1,0 +1,38 @@
+{
+  "topicId": 122,
+  "summaryTitle": "雅思",
+  "title": "Art & Something I did with someone/group of people",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like art?",
+          "Do you like visiting art galleries?",
+          "Do you want to be an artist?",
+          "Do you like modern art or traditional art?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe something that you did with someone/a group of people",
+          "You should say:",
+          "What it was",
+          "Who you did it with",
+          "How long it took you to do this",
+          "And explain why you did it together"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "How do you get along with your neighbors?",
+          "How do neighbors help each others?",
+          "How do children learn to cooperate with each other?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

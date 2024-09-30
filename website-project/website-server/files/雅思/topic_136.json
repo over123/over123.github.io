@@ -1,0 +1,39 @@
+{
+  "topicId": 136,
+  "summaryTitle": "雅思",
+  "title": "Puzzles & Information",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Did you do puzzles in your childhood?",
+          "When do you do puzzles, during your trip or when you feel bored?",
+          "Do you like doing word puzzles or number puzzles? which is more difficult for you?",
+          "Do you think it is good for old people to do puzzles?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe when you neded to search for information",
+          "You should say:",
+          "What information you needed to search for",
+          "When you searched for it",
+          "Where you searched for it",
+          "And explain why you needed to search for it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "How can people search for information now?",
+          "What information can people get from television?",
+          "With the development of the internet, is the library still important?",
+          "Does the development of the internet have any impact on some disadvantaged people?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

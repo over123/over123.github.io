@@ -1,0 +1,42 @@
+{
+  "topicId": 74,
+  "summaryTitle": "雅思",
+  "title": "Losing things",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " 1. Do you often lose things?",
+          " 2. What can we do to avoid losing things?",
+          " 3. Why do some people tend to lose things more often than others?",
+          " 4. What will you do if you find something lost by others?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Describe a park or a garden in your city",
+          " You should say:",
+          " How often you go there",
+          " Where it is",
+          " Who you often go there with",
+          " What it is like",
+          " And explain why you like to visit it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " 1.Do young people like to go to parks?",
+          " 2.What do old people like to do in parks?",
+          " 3.What benefits can parks bring to a city?",
+          " 4.What are the benefits of going to the park for young people and old people?",
+          " 5.Why do some people like planting flowers?",
+          " 6.Would you say people should help maintain public parks and gardens?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

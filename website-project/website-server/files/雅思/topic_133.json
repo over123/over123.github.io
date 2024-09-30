@@ -1,0 +1,38 @@
+{
+  "topicId": 133,
+  "summaryTitle": "雅思",
+  "title": "Snacks & Outdoor Activity",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What snacks did you eat when you were young?",
+          "When do you usually eat snacks now?",
+          "Do you think it is healthy for you to eat snacks?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe outdoor activity you did in a new lace recently/p >",
+          "You should say ;/p >",
+          "What the activity is /p >",
+          "Whoinvited you to participate in it/p >",
+          "Ehether you asked to help in the activity/p >",
+          "And explain what change you had in the activity /p >"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What outdoor activities are popular in China?/p >",
+          "What are the differences between adter-class activities done by middle and older children? /p >",
+          "Do you rhink its better for people to change jobs where there are new chances?/p >",
+          "Should young people try as many new activities as possible?/p >"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

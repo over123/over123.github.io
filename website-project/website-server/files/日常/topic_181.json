@@ -1,0 +1,63 @@
+{
+  "topicId": 181,
+  "summaryTitle": "日常",
+  "title": "Planning a Party",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " Where would you like to have the party?",
+          " Who is the party for?",
+          " Why are you throwing this party?",
+          " What kind of people go to parties? Obligatory guests? Guests of honor?",
+          " What are some ways of describing guests at a party?",
+          " What are some parties that you are expected to bring gifts?",
+          " Who will you invite?",
+          " Will you send out invitations?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " What do you need to think about if you are having a BBQ party outside?",
+          " What time do you like for parties to start or to end?",
+          " Do you like going to parties with a date or by yourself?",
+          " What kind of decisions do you need to make when you plan a party?",
+          " Do you enjoy hosting parties at your house?",
+          " What are the characteristics of a good host?"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you think sunblock is important?",
+          "Have you ever been to a famous beach?",
+          "What do you wear to the beach?",
+          "How do you keep your wallet safe while you are swimming?",
+          "Is erosion a problem at your local beach?",
+          "Is pollution a problem at your local beach?",
+          "Should people be able to own a beach or part of a beach?",
+          "Why is beachfront land so expensive?",
+          "Why do so many people want to live there?",
+          "Would you like to live there?",
+          "What are some dangers of living on beachfront property",
+          "Do you prefer a calm sea or do you prefer big waves?",
+          "Should dogs be allowed on the beach?",
+          "Should dogs have to be kept on leashes at the beach?",
+          "Should cars be allowed on the beach?",
+          "What do you think of people who swim in the nude?",
+          "Is there a nude beach near where you live?",
+          "What do you think about nude beaches?",
+          "Would you ever want to swim in the nude?",
+          "Have you ever gone to a nude beach?",
+          "What do you think of topless swimming?",
+          "Which is your favorite beach?",
+          "Are there life guards at the beaches in your country?",
+          "Do you think that people should be allowed to drink beer or other drinks with alcohol on the beach?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

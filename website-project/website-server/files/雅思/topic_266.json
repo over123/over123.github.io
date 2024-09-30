@@ -1,0 +1,40 @@
+{
+  "topicId": 266,
+  "summaryTitle": "雅思",
+  "title": "Animals",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you have a pet?",
+          "What types of animals do you think make the best pets?",
+          "Why do people have pets?",
+          "Are there any types of animals that you think should not be kept as a pet?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a wild animal that lives in your country. You should say:",
+          "what animal it is",
+          "where it lives",
+          "how people feel about this animal",
+          "And explain if you think there will be more or fewer of this animal in the wild in the future and why."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What is the purpose of having zoos?",
+          "What is your opinion about animals being kept in zoos?",
+          "How do you think zoos could be improved?",
+          "Do you think is it important to conserve the world’s - animal species?",
+          "What is your opinion on poaching?",
+          "Do you think money should be spent on protecting wild animals?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

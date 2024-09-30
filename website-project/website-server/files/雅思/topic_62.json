@@ -1,0 +1,43 @@
+{
+  "topicId": 62,
+  "summaryTitle": "雅思",
+  "title": "Films",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "1. What films do you like?",
+          "2. Did you often watch films when you were a child?",
+          "3. Did you ever go to the cinema alone as a child?",
+          "4.Do you often go to the cinema with your friends?",
+          "5. Do you think going to the cinema is a good way to spend time with friends?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a piece of good advice that you gave to someone",
+          "You should say:",
+          "Who you gave the advice to",
+          "What the advice was",
+          "Why you gave the advice",
+          "And explain how he/she followed your advice"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1.Do you think parents should give their children advice?",
+          "2.Should teachers give students advice?",
+          "3.Do you think it is necessary for us to listen to friends' advice?",
+          "4.How do people give young people and old people advice?",
+          "5.Who are more willing to listen to advice? And who are less willing?",
+          "6.Have you ever received any advice from professional people, like a doctor, a",
+          "lawyer or a teacher?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

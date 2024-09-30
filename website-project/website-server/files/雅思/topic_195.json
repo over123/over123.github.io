@@ -1,0 +1,39 @@
+{
+  "topicId": 195,
+  "summaryTitle": "雅思",
+  "title": "Science & Exciting Book",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like science?",
+          "Do you like science classes when you were young?",
+          "Do you think school children should have both science classes and art classes?",
+          "Do you think science is important to our society?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an exciting book that you enjoy reading",
+          "You should say:",
+          "When you read it",
+          "What kind of book it is",
+          "What it is about",
+          "And explain why it is exciting"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you prefer books or movies?",
+          "Do you think it is very important to read the book before watching the movie version of it?",
+          "Do boys and girls like the same kinds of books?",
+          "What kinds of books do Chinese people like reading?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

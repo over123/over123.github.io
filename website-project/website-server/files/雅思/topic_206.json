@@ -1,0 +1,39 @@
+{
+  "topicId": 206,
+  "summaryTitle": "雅思",
+  "title": "Home & Handicrafts",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What can you see from the windows where you live?",
+          "Do you prefer living in a house or a flat?",
+          "What  would you like to change in your flat?",
+          "What do you dislike about it?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an art or craft tiyityt(e.g,painting. woodwork, etc.) that you had (at school)",
+          "You should say:",
+          "What you made",
+          "How you made it",
+          "What it looked like",
+          "And how you felt about the activity"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What traditional handcrafts are popular in China?",
+          "What do young people think of traditional handcrafts?",
+          "Do people in your country send hondcrafts as gifts?",
+          "What are the benefits of making handcrafts?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

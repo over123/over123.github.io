@@ -1,0 +1,43 @@
+{
+  "topicId": 2,
+  "summaryTitle": "雅思",
+  "title": "Weather",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What's the weather like where you live?",
+          "Do you prefer cold or hot weather?",
+          "Do you prefer dry or wet weather?",
+          "Are you in the habit of checking the weather forecast? When/How often?",
+          "What do you think are the effects of climate change in recent years?",
+          "Would you like to visit other cities that have different climates from where you live?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an interesting old person you have met",
+          "You should say:",
+          "Who this person is",
+          "When/where you met this person",
+          "What you did with this person",
+          "And explain why you think this person is interesting"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you think old people and young people can share interests?",
+          "What can old people teach young people?",
+          "Is it easy for young people and old people to make friends with each other?",
+          "Are there benefits when one person is interested in another person? Why?",
+          "Do you think people are more selfish or self-centered now than in the past?",
+          "What benefits can people get if they are self-centered?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

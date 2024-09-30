@@ -1,0 +1,78 @@
+{
+  "topicId": 129,
+  "summaryTitle": "日常",
+  "title": "Learning a Foreign Language",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What is your mother tongue?",
+          "How many languages do you speak?",
+          "How did you learn your second language?",
+          "What's the best way to learn a foreign language?",
+          "What methods do you use to remember vocabulary better?",
+          "Is it necessary to write words down?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Is it possible to understand and write well but not be able to have a conversation?",
+          "What is value of learning languages?",
+          "Why do some people have more difficulty than others when learning a language?",
+          "To what extent do you agree that it's better to learn language as a child? Why or why not?",
+          "To speak its language well, how important is it to know something about the culture of a country?",
+          "Are there some words that are similar in different languages?",
+          "As a beginner, what are the first things that you need to be able to say?",
+          "What are the problem areas that an intermediate learner may have?",
+          "What are the problem areas that an advanced learner may have?",
+          "When you travel to a foreign country, is it always easy to use your foreign language?",
+          "How can the Internet be a helpful tool when learning a foreign language?",
+          "Some people say that if you can teach something about your foreign language, then it you to understand it better. Do you agree?",
+          "Have you ever tried learning a new language from a textbook with audio tapes?",
+          "Is it good to sit an exam that shows your level in English?"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What do you know about IELTS and TOEFL?",
+          "Can you learn a language by watching television?",
+          "Do you use free language-learning exercises on the Internet?",
+          "Have you ever paid for 1:1 lessons?",
+          "Would you like to be a translator? Why? / Why not?",
+          "Is the classroom the best place to learn?",
+          "Can a good teacher influence how well you enjoy learning a language?",
+          "Is it possible to teach yourself a language?",
+          "What careers are possible if you speak a foreign language?",
+          "What languages would you like to learn in future?",
+          "What different techniques do you have for learning vocabulary?",
+          "Do you need to write in a foreign language?",
+          "Do you need to use your foreign languages at work?",
+          "Do you think that knowing a foreign language might encourage you to live abroad in future?",
+          "Is it a good idea to learn a language from a non-native speaker of that language?",
+          "Are there any disadvantages?",
+          "Do you know how large your vocabulary is in your foreign language?",
+          "Could you teach your mother tongue to someone else?",
+          "What personal qualities do you need to be an effective language learner?",
+          "What tools can help you learn a foreign language?",
+          "Have you ever made a telephone call in a foreign language?",
+          "If yes, how did it go?",
+          "Do you ever read websites in a foreign language?",
+          "Is it possible to learn a language without studying grammar?",
+          "Is knowing grammar more important than knowing vocabulary?",
+          "Have teaching methods for language learning changed over the last 50 years?",
+          "To speak a language well, why is it important to have an understanding of idioms?",
+          "How did your best language teacher help you?",
+          "Have you had any particularly poor language learning experiences?",
+          "How old should a child be when a school introduces the first foreign language?",
+          "Are teenage language exchange programs useful? Why? / Why not?",
+          "Some people say \"I'm no good at learning languages\".",
+          "Is this just a question of attitude (because of a previous bad experience) or were some people born lacking the ability to learn a new language?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

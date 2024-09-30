@@ -1,0 +1,44 @@
+{
+  "topicId": 99,
+  "summaryTitle": "雅思",
+  "title": "WILD ANIMALS & brought positive influence",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Are there wild animals In your country?",
+          "Have you ever been to a zoo or a safari park?",
+          "What Is the animal you would like to see in the wild?",
+          "Are there TV programs about wild animals in your country?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a someone who moved to our community and brought positive influence.",
+          "You should say:",
+          "Who this person is",
+          "When this person moved to your community",
+          "What this person did"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Is it positive for young people to live by themselves?",
+          "Besides cooking are there any other skills that people need to learn if they live on their own?",
+          "What kinds of people tend to live by themselves?",
+          "How can parents and teachers help young people to live independently?",
+          "Describe a popular person",
+          "You should say:",
+          "Who this person is",
+          "What he or she is like",
+          "When you see him/her normally",
+          "Explain Why you think this person is popular"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

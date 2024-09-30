@@ -1,0 +1,39 @@
+{
+  "topicId": 21,
+  "summaryTitle": "雅思",
+  "title": "Jewelry",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you often wear jewelry?",
+          "What type of jewelry do you like?",
+          "Do you usually buy jewelry?",
+          "Why do you think some people wear a piece of jewelry for a long time?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an occasion you wore the best clothes",
+          "You should say:",
+          "When it was",
+          "What you wore",
+          "Why you wore it",
+          "And how you felt about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you think people need to wear formally in the workplace?",
+          "Why do some people like to wear traditional clothes?",
+          "Will traditional clothes disappear in the future?",
+          "Do old people change their style of dressing?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

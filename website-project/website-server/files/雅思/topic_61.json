@@ -1,0 +1,43 @@
+{
+  "topicId": 61,
+  "summaryTitle": "雅思",
+  "title": "Tea and coffee",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "1. Do people like tea and coffee nowadays?",
+          "2. Do you prefer to use tea or coffee to serve your guests?",
+          "3. When was the last time you had a cup of coffee or tea?",
+          "4.Do you usually buy your coffee in a coffee shop"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a beautiful city",
+          "You should say:",
+          "Where the city is",
+          "How you knew about the city",
+          "What buildings the city has",
+          "What it is famous for",
+          "And explain why you think this city is beautiful"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1.What are the differences between modern towns and modern cities?",
+          "2.Why do some people like to visit historical sites?",
+          "3.How can people preserve historic cities and historic buildings?",
+          "4 .ls it the government's responsibility to preserve historic cities and historic",
+          "buildings?",
+          "5.Does historic preservation contradict economic development?",
+          "6.What do you think will happen to historic places or buildings in the future?Why?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

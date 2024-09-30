@@ -1,0 +1,41 @@
+{
+  "topicId": 261,
+  "summaryTitle": "雅思",
+  "title": "Art",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like art?",
+          "Do you think that art should be taught in schools?",
+          "How does learning art helps children to develop?",
+          "If you were a famous painter, what sort of pictures would you paint?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a work of art that you really like.",
+          "You should say:",
+          "what it is",
+          "who created it",
+          "where you saw it",
+          "and explain why you like it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "In your opinion, is art an important part of culture?",
+          "What would life be like without art?",
+          "Why do you think people like to have paintings in their homes?",
+          "Do you agree with this statement? “Graffiti is a form of art and should be respected.”",
+          "Why do you think people create graffiti?",
+          "Who do you think should pay for public works of art?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

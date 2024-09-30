@@ -1,0 +1,41 @@
+{
+  "topicId": 223,
+  "summaryTitle": "雅思",
+  "title": "Farming & Weather",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Have you visited a farm?",
+          "What can you do in a farm?",
+          "Do you think farming is important?",
+          "Are there any farms in your hometown?",
+          "What kind of farm do you like?",
+          "Did you do farm work when you were young?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a kind of weather you like.",
+          "You should say:",
+          "What it is",
+          "Where you go in this weather?",
+          "What you do in this weather?",
+          "And explain why you like it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What do people wear in different weather?",
+          "How does weather influence people’s life?",
+          "What are people’s opinion on weather forecast?",
+          "Are there any festivals about seasons?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

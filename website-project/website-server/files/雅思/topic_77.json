@@ -1,0 +1,43 @@
+{
+  "topicId": 77,
+  "summaryTitle": "雅思",
+  "title": "Colors",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " 1. What is your favorite color?",
+          " 2. Do you usually wear clothes in your favorite color?",
+          " 3. Are there any colors that have a special meaning in your country?",
+          " 4. Do you think different types of people like different colors?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Describe an interesting person who you have never met, but would like",
+          "to know more about",
+          " You should say:",
+          " Who this person is",
+          " How you heard about this person",
+          " What interesting things he/she has done",
+          " And explain why you'd like to know more about this person"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " 1.Are there any differences in the relationship between you and your friends and",
+          "between you and other people?",
+          " 2.Do people feel lonely in crowded cities?",
+          " 3.Where and how can people get to know new people?",
+          " 4.Can clothing tell and reveal a person's personality?",
+          " 5.Why do individuals from the same family have different personalities?",
+          " 6.How does society influence a person's personality?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

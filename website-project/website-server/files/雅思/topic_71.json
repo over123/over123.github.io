@@ -1,0 +1,43 @@
+{
+  "topicId": 71,
+  "summaryTitle": "雅思",
+  "title": "Advertisement",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "1.ls there an advertisement that made an impression on you when you were a child?",
+          "2.Do you see a lot of advertising on trains or other transport?",
+          "3.Do you like advertisements?",
+          "4. What kind of advertising do you like?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when something happened that changed your life in a",
+          "good way",
+          "You should say:",
+          "When and where it happened",
+          "What happened",
+          "How you felt about it",
+          "And explain how this changed your life in a good way"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1.Do you like new things or changes in life?",
+          "2.Why do some people quit and change jobs?",
+          "3.How do you adapt to changes in life?",
+          "4.Who can adapt better to changes, children or adults?",
+          "5.When things like getting married or moving home happen, what kinds of things",
+          "would you consider?",
+          "6.What are the disadvantages when people keep making changes?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

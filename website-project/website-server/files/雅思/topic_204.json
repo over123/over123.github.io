@@ -1,0 +1,39 @@
+{
+  "topicId": 204,
+  "summaryTitle": "雅思",
+  "title": "Article on health",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Please describe your hometown a little",
+          "What is your hometown well-known for?",
+          "Do you like your hometown?",
+          "Is that a big City or a small place?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an article on health yçg read on magazine or the Internet",
+          "You should say:",
+          "Who ti twas",
+          "Where you read it",
+          "Why you read it",
+          "And how you felt about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " Do you think people are healthier now than in the past?",
+          " How can you tell whether a website is reliable or not?",
+          " What activities can school organize for children to keep fit?",
+          " What can governments do to improve peopl's health?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

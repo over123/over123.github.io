@@ -1,0 +1,42 @@
+{
+  "topicId": 167,
+  "summaryTitle": "雅思",
+  "title": "Sweets & Cakes & City",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "p>Do you like to eat sweets?",
+          "p>Do you like sweets more or less now compared with when you were child?",
+          "p>Have you ever tried to make sweets or cakes?",
+          "p>Why do people like sweets?",
+          "p>Do you like cakes?",
+          "p>Do you eat cakes or sweets after the meal?",
+          "p>Is there any sweet food in your country?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "p>Describe a city that you think is interesting.",
+          "p>You should say:",
+          "p>Where it is",
+          "p>What the city is famous for?",
+          "p>Why it is interesting?",
+          "p>And explain how you feel about it?"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "p>What advantages can tourism bring to a city?",
+          "p>Why do some young people like to live in cities?",
+          "p>Do most elderly people live in the city or in the countryside?",
+          "p>Do you think well-developed tourism will have negative effects on local people?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

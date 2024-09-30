@@ -1,0 +1,39 @@
+{
+  "topicId": 146,
+  "summaryTitle": "雅思",
+  "title": "Watch & Special day that cost you little money",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you wear a watch?",
+          "Have you ever got a watch as a gift?",
+          "Why  do some people wear expensive watches?",
+          "Do you think it is important to wear a watch? Why?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a special day out that cost you little money/didn’t cost you much",
+          "You should say:",
+          "When the day was",
+          "Where do you went",
+          "How much you spent",
+          "And explain how you feel about the day"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do people like to spend their leisure time out in your country?",
+          "How do people spend their leisure time in your coutry?",
+          "How do people spend their leisure time in your country?",
+          "Do you think only old people have time for leisure"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

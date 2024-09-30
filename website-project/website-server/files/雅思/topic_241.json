@@ -1,0 +1,40 @@
+{
+  "topicId": 241,
+  "summaryTitle": "雅思",
+  "title": "Holidays Travel & Tourism",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do a lot of tourists visit your country?",
+          "What are the most popular places to visit?",
+          "How important is tourism to the economy of your region?",
+          "What attractions in your area would you recommend tourists to visit?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a holiday you enjoyed. You should say",
+          "when and where you went",
+          "who you went with",
+          "what you did on the holiday",
+          "and explain why you enjoyed this holiday"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Why do people go on holiday?",
+          "What are the most popular types of holiday today?",
+          "How important is it for families to go on holiday together?",
+          "Do you think it is good for children to experience life in a foreign country?",
+          "In your opinion, what kind of holidays will be popular in the future?",
+          "Do you think it is safer to travel abroad now than in the past?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

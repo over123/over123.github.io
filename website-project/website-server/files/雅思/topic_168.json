@@ -1,0 +1,37 @@
+{
+  "topicId": 168,
+  "summaryTitle": "雅思",
+  "title": "Emails & Countryside",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " Do you often send emails?",
+          " Does sending emails popular in China?",
+          " Do you think sending emails will be more or less popular in the future?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Describe a place in the countryside that you visited",
+          " You should say:",
+          " Where it is",
+          " When you visited this place",
+          " What you did there",
+          " And explain how you feel about this place"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " Is there anything special about the countryside in China?",
+          " What do people usually do when going to the countryside?",
+          " Do you think more people will live in the countryside in the future?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

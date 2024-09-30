@@ -1,0 +1,39 @@
+{
+  "topicId": 149,
+  "summaryTitle": "雅思",
+  "title": "Old buildings & Traditional product",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Have you ever seen some old buildings in the City?",
+          "Do you prefer living in an od building or a modern house?",
+          "Do you prefer living in an old building or modern house?",
+          "Are there any old buildings you want to see in the future? Why?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a traditional product  in your country",
+          "Wou should say:",
+          "What it is",
+          "When you tried this product for the first time",
+          "What it is made of",
+          "And explain how you feel about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Why are traditional products inportant?",
+          "Do you think tradition is important for a country? Why?",
+          "What are the traditional Chinese products?",
+          "Why is it important for children to learn about traditional products?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

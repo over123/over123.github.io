@@ -1,0 +1,43 @@
+{
+  "topicId": 186,
+  "summaryTitle": "雅思",
+  "title": "Festival & Creative Person",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " What is the most popular festival in your country?",
+          " What is your favorite festival?",
+          " Is it important to celebrate traditional festivals?",
+          " Whats the difference between your traditional festivals and western festivals?",
+          " How do people celebrate public holidays in your country?",
+          " What special food and activities do you have for festivals?",
+          " How do people in your country celebrate new year?",
+          " Do young people in your country like celebrate foreign festivals?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Describe a creative person whose work you admire",
+          " You should say:",
+          " Who he/she is",
+          " How you knew him/her",
+          " What creative things he/she has done",
+          " And explai why you think he/she is creative"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " Do you think you are creative person?",
+          " Ist it good for children to learn arts?",
+          " What kinds of jobs require people to be creative?",
+          " Do you think leaders need to have creative ability?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

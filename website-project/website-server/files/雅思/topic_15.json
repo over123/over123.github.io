@@ -1,0 +1,42 @@
+{
+  "topicId": 15,
+  "summaryTitle": "雅思",
+  "title": "E-books and paper books",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Which do you prefer, e-books or paper books?",
+          "When do you usually read online?",
+          "Will you read more online in the future?",
+          "Do you think paper books will disappear in the future?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a place you have been to where things are expensive",
+          "You should say:",
+          "Where the place is",
+          "What the place is like",
+          "Why you went there",
+          "What you bought there",
+          "And explain why you think things are expensive there"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Why do some people still use cash?",
+          "Will the payment be paperless in the future?",
+          "What do you think of the view that time is as important as money?",
+          "Is it more important to choose a job with a high salary or with more time off?",
+          "How important is it to have a variety of payment option?",
+          "Why are things more expensive in some places than in others?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

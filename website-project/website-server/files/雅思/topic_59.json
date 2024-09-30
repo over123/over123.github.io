@@ -1,0 +1,41 @@
+{
+  "topicId": 59,
+  "summaryTitle": "雅思",
+  "title": "Musical instruments",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "1. Have you ever learned to play a musical instrument?",
+          "2.What musical instruments do you enjoy listening to the most?",
+          "3.Do you think children should learn to play an instrument at school?",
+          "4.Do you think music education is important to children?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a person who always has interesting ideas or opinions",
+          "You should say:",
+          "Who this person is",
+          "What this person does",
+          "How you knew him/her",
+          "And explain why you think his/her ideas or opinions are interesting"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1.When do you think children start to have their own opinions?",
+          "2.Are children's opinions influenced by their parents?",
+          "3.Who are smart children likely to be influenced by?",
+          "4.How do inventors or philosophers come up with new ideas?",
+          "5.Are there only old ideas from books or previous writers?",
+          "6.What kind of people have lots of great ideas in your country?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

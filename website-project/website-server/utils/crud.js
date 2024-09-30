@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-12 11:51:54
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-12 12:19:31
+ * @LastEditTime: 2024-09-30 17:37:46
  * @Description: crud module
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -13,19 +13,31 @@
  * @description: find module
  * @return {*}
  */
-const find = (model, where, ctx) => {
-    return model.find(where).then((res)=>{
-        console.log(res)
+const find = (model, where, ctx, { needHandle, exclusion = [], inclusion = [] }) => {
+    let exclusionStr = ''
+    let inclusionStr = ''
+
+    if (exclusion.length > 0) {
+        exclusionStr = exclusion.map(item => `-${item}`).join(' ');
+    }
+    if (inclusion.length > 0) {
+        inclusionStr = inclusion.join(' ');
+    }
+    return model.find(where).select(`${inclusionStr} ${exclusionStr}`).lean().then((res) => {
+        if (needHandle) {
+            return res
+        }
         ctx.body = {
             code: 200,
             msg: '查找成功',
             res
         }
-    }).catch (error => {
+    }).catch(error => {
+        console.log(error)
         ctx.body = {
             code: 400,
             msg: '查找异常',
-        } 
+        }
     })
 }
 
@@ -36,19 +48,32 @@ const find = (model, where, ctx) => {
 * @param {*} ctx - 上下文对象
 * @return {*}
 */
-const findOne = (model, where, ctx) => {
-return model.findOne(where).then((res)=>{
-    ctx.body = {
-        code: 200,
-        msg: '查找成功',
-        res
+const findOne = (model, where, ctx, { needHandle, exclusion = [], inclusion = [] }) => {
+    let exclusionStr = ''
+    let inclusionStr = ''
+
+    if (exclusion.length > 0) {
+        exclusionStr = exclusion.map(item => `-${item}`).join(' ');
     }
-}).catch (error => {
-    ctx.body = {
-        code: 400,
-        msg: '查找异常',
-    } 
-})
+    if (inclusion.length > 0) {
+        inclusionStr = inclusion.join(' ');
+    }
+    return model.findOne(where).select(`${inclusionStr} ${exclusionStr}`).then((res) => {
+        if (needHandle) {
+            return res
+        }
+        ctx.body = {
+            code: 200,
+            msg: '查找成功33',
+            res
+        }
+    }).catch(error => {
+        console.log(error)
+        ctx.body = {
+            code: 400,
+            msg: '查找异常',
+        }
+    })
 }
 
 /**
@@ -60,19 +85,22 @@ return model.findOne(where).then((res)=>{
 * @param {*} res
 * @return {*}
 */
-const add = async (model, where, ctx) => {
-return model.create(where).then((res)=>{
-    ctx.body = {
-        code: 200,
-        msg: '添加成功',
-        res
-    }
-}).catch (error => {
-    ctx.body = {
-        code: 400,
-        msg: '添加异常',
-    } 
-})
+const add = async (model, where, ctx, needHandle) => {
+    return model.create(where).then((res) => {
+        if (needHandle) {
+            return res
+        }
+        ctx.body = {
+            code: 200,
+            msg: '添加成功',
+            res
+        }
+    }).catch(error => {
+        ctx.body = {
+            code: 400,
+            msg: '添加异常',
+        }
+    })
 }
 
 /**
@@ -83,19 +111,19 @@ return model.create(where).then((res)=>{
 * @param {*} ctx
 * @return {*}
 */
-const update =  (model, where, params, ctx) => {
-return model.updateOne(where,params).then((res)=>{
-    ctx.body = {
-        code: 200,
-        msg: '修改成功',
-        res
-    }
-}).catch (error => {
-    ctx.body = {
-        code: 400,
-        msg: '修改异常',
-    } 
-})
+const update = (model, where, params, ctx) => {
+    return model.updateOne(where, params).then((res) => {
+        ctx.body = {
+            code: 200,
+            msg: '修改成功',
+            res
+        }
+    }).catch(error => {
+        ctx.body = {
+            code: 400,
+            msg: '修改异常',
+        }
+    })
 }
 
 /**
@@ -105,19 +133,19 @@ return model.updateOne(where,params).then((res)=>{
 * @param {*} ctx
 * @return {*}
 */
-const del =  (model, where, ctx) => {
-return model.findOneAndDelete(where).then((res)=>{
-    ctx.body = {
-        code: 200,
-        msg: '删除成功',
-        res
-    }
-}).catch (error => {
-    ctx.body = {
-        code: 400,
-        msg: '删除异常',
-    } 
-})
+const del = (model, where, ctx) => {
+    return model.findOneAndDelete(where).then((res) => {
+        ctx.body = {
+            code: 200,
+            msg: '删除成功',
+            res
+        }
+    }).catch(error => {
+        ctx.body = {
+            code: 400,
+            msg: '删除异常',
+        }
+    })
 
 }
 

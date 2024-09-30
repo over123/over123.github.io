@@ -1,0 +1,44 @@
+{
+  "topicId": 81,
+  "summaryTitle": "雅思",
+  "title": "Work/study & school or at work",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you work or are you student?",
+          "What work do you do?",
+          "Why did you choose this job?",
+          "Why did you choose to study that subject?",
+          "Do you like your job?",
+          "Is there anything you dislike about your job?",
+          "What was your dream job when you were young?",
+          "Have you changed your mind on your dream job?",
+          "What do you like about your studies?",
+          "What do you dislike about your studies?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a rule that is important in your school or at work",
+          "You should say:",
+          "What the rule Is about",
+          "What happens when people break the rules",
+          "Why you think it is an important rule",
+          "And explain how you feel about the rule"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What rules should children follow at home in your country?",
+          "On what occasions can children be forgiven if they don’t follow some rules?",
+          "What rules should people follow when using public transport?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

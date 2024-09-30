@@ -1,0 +1,39 @@
+{
+  "topicId": 177,
+  "summaryTitle": "雅思",
+  "title": "Barbecue & Item & Mone",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " Do people in your country like barbecues?",
+          " What kind of food do you like to eat for barbecue?",
+          " Do you like to eat barbecue with your family or with your friends?",
+          " Did you have barbecue when you were a child?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Describe an item on which you spent more than expected",
+          " You should say:",
+          " What it is",
+          " How much you spent on it",
+          " Why you bought it",
+          " And explain why you think you spent more than expected"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " Do you often buy more than you expected?",
+          " What do you think young people spend most of their money on?",
+          " Do you think it is important to save money>\\? Why?",
+          " Do people buy things they don’t need?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

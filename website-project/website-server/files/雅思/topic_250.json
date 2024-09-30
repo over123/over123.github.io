@@ -1,0 +1,40 @@
+{
+  "topicId": 250,
+  "summaryTitle": "雅思",
+  "title": "Sport",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like sport?",
+          "Is there a lot of sport on television in your country?",
+          "What sports do children normally do at school?",
+          "Are there many sporting facilities near where you live?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a sporting event you have attended. You should say:",
+          "what kind of sport it was",
+          "where and when the event took place",
+          "why you decided to go to this event",
+          "and explain how it compared to other sporting events you have been to."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What types of sports are most popular in your country?",
+          "What are the benefits of playing a sport?",
+          "Do you think that new sports will be created in the future?",
+          "Why do some people enjoy doing dangerous sports?",
+          "Which extreme sports are popular in your country?",
+          "Should some dangerous sports be banned?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

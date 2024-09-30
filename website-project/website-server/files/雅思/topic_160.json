@@ -1,0 +1,39 @@
+{
+  "topicId": 160,
+  "summaryTitle": "雅思",
+  "title": "Cars & People things",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Why do you liek to travel by car?",
+          "What is the farthest place you have travelled to by car?",
+          "Do you like to sit in front or back when travelling by car?",
+          "When do you travel by car ?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe something that was broken in your home and then repaired.",
+          "You should say:",
+          "what it is",
+          "how it was broken",
+          "how you got it repaired",
+          "and explain how you felt about it."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Are IT-related jobs valued more by society?",
+          "Is the quality of products worse than before?",
+          "What kinds of things do people like to repair by themselves?",
+          "Why do people like to get their mobile phones repaired in specialized stores?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

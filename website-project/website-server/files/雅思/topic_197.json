@@ -1,0 +1,39 @@
+{
+  "topicId": 197,
+  "summaryTitle": "雅思",
+  "title": "Handwriting & Got Up Early",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like handwriting?",
+          "Do you think handwriting is important?",
+          "Which do you prefer, handwriting or typing?",
+          "Whats the difference between handwriting and typing?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you got up early",
+          "You should say:",
+          "When it was",
+          "What you did",
+          "Why you got up early",
+          "And how you felt about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you know anyone who like to get up early?",
+          "Why do people get up early?",
+          "What kinds of ocasions need people to arrive early?",
+          "Why do some people like to stay up late"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "topicId": 37,
+  "summaryTitle": "雅思",
+  "title": "Daily routine",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What is your daily study routine?",
+          "Have you ever changed your routine?",
+          "Do you think it is important to have a daily routine for your study?",
+          "What part of your day do you like best?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you missed or were late for an important meeting/event",
+          "You should say:",
+          "When it happened",
+          "What happened",
+          "Why you missed/were late for it",
+          "And explain how you felt about this experience"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Are you a punctual person?",
+          "Do you think it is important to be on time?",
+          "Do you always avoid being late?",
+          "Why are people often late for meetings or appointments?",
+          "Are people in your country often late for meetings?",
+          "Do you think people are born with time management skills or they can develop them?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

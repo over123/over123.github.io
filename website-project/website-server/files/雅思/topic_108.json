@@ -1,0 +1,41 @@
+{
+  "topicId": 108,
+  "summaryTitle": "雅思",
+  "title": "Friends & Incorrect information",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " How important are friends to you?",
+          " Do you often go out with your friends?",
+          " Where do you often meet each other?",
+          " What do you usually do with your friends?",
+          " Do you have a friend you have known for a long time?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Describe an occasion when you got incorrect information",
+          " You should say:",
+          " When you got it",
+          " How you got it",
+          " How you found It was incorrect",
+          " And how you felt about it?"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " Why do some people not trust information on the internet?",
+          " What jobs provide information to others?",
+          " Which do you think is the better way to provide information, by phone or by email?",
+          " How do people determine the accurate information?",
+          " How do people make sure they are getting the right information?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "topicId": 150,
+  "summaryTitle": "雅思",
+  "title": "Old buildings & Time when you helped a child",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Have you ever seen some old buildings in the City?",
+          "Do you prefer living in an od building or a modern house?",
+          "Do you prefer living in an old building or modern house?",
+          "Are there any old buildings you want to see in the future? Why?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you helped a child",
+          "You should say:",
+          "When it was",
+          "How you helped him/her",
+          "Why you helped him/her",
+          "And how you felt about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you ofteb help kids? How?",
+          "Why is it necessary to do volunteer services?",
+          "What can sschools do to develop students awareness of volunteering?",
+          "Who benefit more from the volunteer services, the volunteers or the people helped?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

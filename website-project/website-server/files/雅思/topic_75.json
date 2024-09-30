@@ -1,0 +1,41 @@
+{
+  "topicId": 75,
+  "summaryTitle": "雅思",
+  "title": "Memory",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "   1. Why do some people have good memory while others just don' t?",
+          "   2. Why do more people rely on cellphones to memorize things?",
+          "   3. Are you good at memorizing things?",
+          "   4. Have you ever forgotten something that was important?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "   Describe a drawing/painting that you like",
+          "   You should say:",
+          "   When you first saw this painting",
+          "   What the painting is about",
+          "   Who drew/painted it",
+          "   And explain why you like this drawing/painting"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "   1.What are the differences between painting and drawing?",
+          "   2.Why do some people keep a painting for a long time?",
+          "   3.How does building style affect people's lives?",
+          "   4.Should children learn to draw and paint?Why?",
+          "   5.How do young people share arts with others?",
+          "   6.Do you think the objects we use in our daily lives should be beautifully designed?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

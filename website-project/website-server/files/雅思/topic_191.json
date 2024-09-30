@@ -1,0 +1,40 @@
+{
+  "topicId": 191,
+  "summaryTitle": "雅思",
+  "title": "Car Trip & Family",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " Why do you like traveling by car?",
+          " What is the farthest place you have travelled by car?",
+          " Do you like to sit in front or back when travelling by car?",
+          " When do you travel by car?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Describe a time when you felt",
+          " proud of a family member",
+          " You should say:",
+          " When it happened",
+          " Who the person is",
+          " What the person did",
+          " And explain why you felt proud of him/her"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " When would parents feel proud of their children?",
+          " Should parents reward children? Why and how?",
+          " Is it good to reward children too often? Wy?",
+          " On what occasions would adults be proud of themselves?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

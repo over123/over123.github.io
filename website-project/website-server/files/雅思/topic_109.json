@@ -1,0 +1,41 @@
+{
+  "topicId": 109,
+  "summaryTitle": "雅思",
+  "title": "FIXING THINGS & a young child",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Can you fix thing?",
+          "Did anybody teach you two fix things when you were a child?",
+          "Do you think it is necessary for people to learn to fix things?",
+          "What do you do when a thing is broken and cannot be fixed?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an occasion when you spent time with a young child",
+          "You should say:",
+          "Who this child was",
+          "When you spent time with this child",
+          "What you did together",
+          "And how you felt about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you think children should have a lot of toys?",
+          "Where do children usually play?",
+          "Do you think there are too many rules for children to follow, whether at school or at home?",
+          "Do you think children should follow all the rules?",
+          "Do you think its necessary for parents to make decisions for their children?",
+          "Do you think its is good for parents to help their children choose friends?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

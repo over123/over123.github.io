@@ -1,0 +1,40 @@
+{
+  "topicId": 211,
+  "summaryTitle": "雅思",
+  "title": "Costumes & Social Media",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like to wear special costumes?",
+          "Did you try special costumes when you were young?",
+          "When was your last time to wear special costumes?",
+          "Do you ever buy special costumes?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time you saw something",
+          "interesting on social media",
+          "You should say:",
+          "When it was",
+          "Where you saw it",
+          "What you saw",
+          "And explain why you think it was interesting"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Why do people like to use social media?",
+          "What kinds of things are popular on social media?",
+          "What are the advantages and disadvantages of using social media?",
+          "What do you think of making friends on social network?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

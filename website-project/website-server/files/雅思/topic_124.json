@@ -1,0 +1,38 @@
+{
+  "topicId": 124,
+  "summaryTitle": "雅思",
+  "title": "Weekends & Person you met at a party",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like weekends?",
+          "What do you usually do on weekends? Do you study or work?",
+          "What did you do last weekends?",
+          "Do you make plans for your weekends?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a person you met at a party who you enjoyed talking with",
+          "You should say:",
+          "What party it was",
+          "How you met this person",
+          "What you talked about",
+          "And explain why you enjoyed talking with him/her"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " What types of party do people have, and why are parties important?",
+          " Why do you think some people like parties but others hate them?",
+          " Do you think parties will become more popular in the future?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "topicId": 28,
+  "summaryTitle": "雅思",
+  "title": "T-shirt",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like wearing T-shirts?",
+          "How often do you wear T-shirts?",
+          "Do you like T-shirts with pictures or prints?",
+          "Do you think older people who wear T-shirts are fashionable?",
+          "Would you buy T-shirts as souvenirs on vacation?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a difficult thing you did and succeeded",
+          "You should say:",
+          "What it was",
+          "How you overcame the difficulties",
+          "Whether you got help",
+          "And explain how you felt after you succeeded"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Should people set goals for themselves?",
+          "How would you define success?",
+          "How can we judge whether young people are successful nowadays?",
+          "Are successful people often lonely?",
+          "What kinds of success can students achieve at school?",
+          "Should students be proud of their success?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

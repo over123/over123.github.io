@@ -1,0 +1,39 @@
+{
+  "topicId": 214,
+  "summaryTitle": "雅思",
+  "title": "Festival & Promise",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "How do people celebrate public holidays in your country?",
+          "What special food and activities do you have for festivals?",
+          "How do people in your country celebrate new year?",
+          "Do young people in your country like celebrate foreign festivals?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time you made a promise to someone.",
+          "You should say:",
+          "What the promise was",
+          "To whom you made it",
+          "Whether it was easy or difficult to keep",
+          "And explain why you made it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What kinds of promises of people often make?",
+          "Do parents in China make promise to their children?",
+          "Do children keep their promises?",
+          "Why do some people fail to keep their promises?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

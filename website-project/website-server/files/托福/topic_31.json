@@ -1,0 +1,123 @@
+{
+  "topicId": 31,
+  "summaryTitle": "托福",
+  "title": "Official 25",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Question",
+          "Some people do not enjoy shopping and shop only when they have a specific purchase to make. Others like to go shopping for pleasure whether or not they have something to buy. Which do you prefer and why?"
+        ],
+        "singleItemTitle": "TASK1对比类比"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Split Graduation",
+          "Traditionally, the university holds one ceremony for all graduating students, during which students are awarded their diplomas. Beginning this year, however, the university will hold two graduation ceremonies. Under the new arrangement, half the graduating students will participate in the first ceremony, and the other will participate in a second ceremony to be held the following day. Administrators cite two reasons for the change. First, the number of students has increased in recent years, and since diplomas are awarded individually, the single ceremony has become uncomfortably long. Also, the hall where the ceremony is held is too small to accommodate the growing audience of friends and family members.",
+          "Listening查看文本",
+          "Narrator: Now listen to two students discussing the article.",
+          "Woman: You know, I wish they wouldn't do this.",
+          "Man: Why?",
+          "Woman: Well, I think it's unnecessary.",
+          "I mean, as far as the first reason goes.",
+          "Yeah, sure, it takes a long time to have everyone receive their diploma individually,",
+          "especially now that there are more students,",
+          "but there's an easy way to make it shorter.",
+          "Man: What's that?",
+          "Woman: Reduce the number of speeches. I mean, a lot of people give speeches,",
+          "students, professors, administrators, the president of the university,",
+          "Do we really need that many speeches?",
+          "Man: Probably not,",
+          "and a lot of the speeches are pretty boring anyway.",
+          "So, yeah, we probably could cut out a few.",
+          "Woman: Yeah, and I don't think their second reason is very good either, about the space.",
+          "Man: How's that?",
+          "Woman: The problem isn't the size of the hall.",
+          "It's that they allow students to invite to many people to come and watch.",
+          "All they need to do is reduce the number of guests each graduating student gets to invite.",
+          "Man: Yeah, I guess that could solve the problem.",
+          "Woman: Yeah, I mean right now,",
+          "each graduating student can invite up to ten people.",
+          "That's too many.",
+          "At most schools, students only get to invite like four or five people.",
+          "If we just say, \"Okay, you can only invite six people.\"",
+          "That it still be more than most other schools,",
+          "and the ceremony could stay the way it is.",
+          "Question",
+          "The woman expresses her opinion about the university’s plan. Briefly summarize the plan. Then state her opinion and explain the reasons she gives for holding that opinion."
+        ],
+        "singleItemTitle": "TASK2学生活动"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Cultural Lag",
+          "Technological change occurs very rapidly in modern society-sometimes more rapidly than many people are prepared for. As a result, when new technology emerges, people may struggle for a time to adapt to it. This period of transition, when people are adjusting to technological change, is known as cultural lag. At first, people are not accustomed to the new technology and may not understand it, they may therefore have a negative attitude toward it. Over time, however, their attitudes change, and they successfully incorporate the new technology into their daily lives.",
+          "Listening查看文本",
+          "Narrator: Now listen to part of a lecture from a Sociology class.",
+          "Professor: Now the invention of the telephone was revolutionary.",
+          "It was a much easier and faster way of communicating than anything else available at the time.",
+          "However,",
+          "when the telephone first became widely available towards the end of the nineteenth century,",
+          "only businesses use telephones because businesses realized how the telephone could benefit them,",
+          "how it could help them be more productive.",
+          "But a lot of people in the general public didn't think the phone should be used for a personal communication.",
+          "Some people didn't like to listen to someone's voice without being able to see them.",
+          "Also, a lot of people thought that it was rude to call someone on the telephone instead of visiting them in person.",
+          "They missed the sense of personal connection they got from meeting someone.",
+          "However, as we all know,",
+          "people gradually changed their minds about the telephone.",
+          "It took about thirty years,",
+          "but eventually most homes came to have telephones and everyone came to depend on them.",
+          "Talking to someone you couldn't see began to seem more and more normal.",
+          "Friends began to call each other just to chat and just for fun.",
+          "And after everyone agreed on certain rules of politeness,",
+          "uh, such as not calling someone late at night,",
+          "no one considered it rude anymore to make personal phone calls.",
+          "Question",
+          "Using the example of the telephone, explain the concept of cultural lag."
+        ],
+        "singleItemTitle": "TASK3历史与社会"
+      },
+      {
+        "singleItemContent": [
+          "Listening查看文本",
+          "Narrator: Listen to part of a lecture in a Geology class.",
+          "Professor: Rocks near the earth's surface are directly exposed to the elements in the environment, such as air and water,",
+          "and also to conditions such as temperature change, as well as to living organisms.",
+          "And this exposure to the environment can actually cause even huge rocks to break into smaller pieces.",
+          "This process is called weathering.",
+          "Let's talk about a couple of ways weathering occurs.",
+          "First of all, rocks are often exposed to water.",
+          "In cold, wet environments, rocks can break due to water freezing inside of them.",
+          "How does this happen?",
+          "Well, 'cause I'm sure you know, when water freezes, it expands.",
+          "And over time, this can lead to weathering.",
+          "Imagine a rock with a small opening or crack in it.",
+          "It rains, and water gets into the crack and stays there.",
+          "Then, at night the temperature drops and the water inside the crack freezes.",
+          "This growing, expanding ice pushes outward on either side of the crack, causing it to get slightly bigger.",
+          "When this happens again and again,",
+          "the crack becomes larger, and eventually pieces of the rock break off.",
+          "OK. Weathering can also be caused by plants, by plant growth.",
+          "If a plant seed gets blown into the crack of a rock,",
+          "it may take root and its roots will grow down into the rock.",
+          "The plant's roots can cause the rock to break down, uh, fracture.",
+          "You may have seen this with large trees growing on top of a rock.",
+          "A great example of this.",
+          "Usually there's enough dirt in the crack of a rock or on top of rock to allow a tree to start growing there.",
+          "As the tree grows over the years,",
+          "the tree's roots extend downward into the cracks and crevices of the rock in search of water and nutrients.",
+          "Over time, the roots get bigger and grow deeper,",
+          "widening and enlarging the cracks, causing the rock to break apart.",
+          "Question",
+          "Using points and examples from the lecture, explain two ways weathering occurs."
+        ],
+        "singleItemTitle": "TASK4自然科学"
+      }
+    ]
+  }
+}

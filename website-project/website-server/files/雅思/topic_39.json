@@ -1,0 +1,43 @@
+{
+  "topicId": 39,
+  "summaryTitle": "雅思",
+  "title": "Science",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like science?",
+          "When did you start to learn about science?",
+          "Which science subject is interesting to you?",
+          "What kinds of interesting things have you done with science?",
+          "Do you like watching science TV programs?",
+          "Do Chinese people often visit science museums?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe your favorite place in your house where you can relax",
+          "You should say:",
+          "Where it is",
+          "What it is like",
+          "What you enjoy doing there",
+          "And explain why you feel relaxed at this place"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Why is it difficult for some people to relax?",
+          "What are the benefits of doing exercise?",
+          "Do people in your country exercise after work?",
+          "What is the place where people spend most of their time at home?",
+          "Do you think there should be classes for training young people and children how to relax?",
+          "Which is more important, mental relaxation or physical relaxation?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

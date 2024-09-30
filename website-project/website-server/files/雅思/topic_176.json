@@ -1,0 +1,45 @@
+{
+  "topicId": 176,
+  "summaryTitle": "雅思",
+  "title": "Work & Study & Person",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " Do you work or are you student?",
+          " What work do you do?",
+          " Why did you choose this job?",
+          " Why did you choose to study  that subject?",
+          " Do you like your job ?",
+          " Is there anything you dislike about your job?",
+          " What was your dream job when you were young?",
+          " Have you changed your mind on your dream job?",
+          " What do you like about your studies?",
+          " What do you dislike about your studies?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Describe a person you follow on social media",
+          " You should say:",
+          " Who he/she is?",
+          " How do you know him/her?",
+          " What he/she posts on social media?",
+          " And explain why you follow him/her on social media?"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "  Do you think old people and young people use the same kind of social media app?",
+          " Do old people spend much time on social media?",
+          " What can people do on social media?",
+          "  Are television and newspaper still useful?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

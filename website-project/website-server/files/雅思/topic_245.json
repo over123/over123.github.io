@@ -1,0 +1,40 @@
+{
+  "topicId": 245,
+  "summaryTitle": "雅思",
+  "title": "Friends",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Which is more important to you, friends or family?",
+          "Do you have a small or large circle of friends?",
+          "Who was your best friend at school?",
+          "What sorts of things did you like to do together?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe one of your friends.",
+          "You should say:",
+          "how you met",
+          "how long you have known each other",
+          "how you spend time together and explain why you like this friend."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What makes a good friend?",
+          "What do you think causes friendships to break up?",
+          "In what different ways can people keep in touch with each other?",
+          "Do you think it’s important to keep in contact with friends you knew as a child ?",
+          "How valuable are long-term friendships compared with new relationships?",
+          "Can you be close friends with someone you only have a relationship with on the internet?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

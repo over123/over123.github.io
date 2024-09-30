@@ -1,0 +1,43 @@
+{
+  "topicId": 100,
+  "summaryTitle": "雅思",
+  "title": "WEEK & lots of people",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What is you favorite day of the week?",
+          "What is your least favorite day?",
+          "What is the busiest day of the week for you?",
+          "Is there anything that you do every day?",
+          "What do you usually do on weekends?",
+          "Are weekends and weekdays they same for you?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a place you have been to where there were lots of people",
+          "You should say:",
+          "Where it is",
+          "Who you were with",
+          "What people were doing there",
+          "And explain why there were lots of people"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Where do young people like to go?",
+          "Are people happy living in crowded apartment?",
+          "Which scenic sports will have queues of people?",
+          "What are the advantages of living on a higher floor?",
+          "What are the disadvantages of living on a lower floor/",
+          "What do you think of the phenomenon of  people queuing in restaurants for more than an hour?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

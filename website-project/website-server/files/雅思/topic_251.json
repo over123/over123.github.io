@@ -1,0 +1,40 @@
+{
+  "topicId": 251,
+  "summaryTitle": "雅思",
+  "title": "Plants",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like plants?",
+          "What sort of plants have you grown?",
+          "Why do people like plants in their homes?",
+          "Would you ever give a plant as a gift?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a plant, flower or tree that you like.",
+          "You should say",
+          "what type of plant, flower or tree it is",
+          "what it looks like",
+          "where it grows or is usually seen and explain why you like it."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Is it common for people to have gardens where you live?",
+          "Do you think it is important to have gardens or parks in our cities?",
+          "What are the benefits of spending time in gardens or parks?",
+          "What plants are important to the economy of your country?",
+          "How can people be encouraged to grow their own food?",
+          "Why is it important to conserve the world’s plant species?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

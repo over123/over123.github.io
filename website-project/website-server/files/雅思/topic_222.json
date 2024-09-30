@@ -1,0 +1,39 @@
+{
+  "topicId": 222,
+  "summaryTitle": "雅思",
+  "title": "City Or Town",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "How often do you read?",
+          "Do you have many books at home?",
+          "DO Chinese people do enough reading?",
+          "What kind of people like reading and what kind of people don’t?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a part of a city or town you enjoy spending time in.",
+          "You should say:",
+          "Where it is",
+          "What it is like",
+          "What you do there",
+          "And explain why you enjoy spending time there"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "How do public places change in towns or cities?",
+          "What public places do old people usually go?",
+          "Why do young people like to go to public places?",
+          "Will more people move to cities in the future?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

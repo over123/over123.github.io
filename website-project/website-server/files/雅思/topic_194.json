@@ -1,0 +1,39 @@
+{
+  "topicId": 194,
+  "summaryTitle": "雅思",
+  "title": "Headphones & Problem & Smart Person",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you use headphones?",
+          "What type of headphones do you use?",
+          "When do you use headphones?",
+          "In what conditions, you wont use headphones"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a person who solved a problem in a smart way",
+          "You should say:",
+          "Who this person is",
+          "What the problem was",
+          "How he/she solved it",
+          "And explain why you think he/she did it in a smart way"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you think children are born smart or they learn to become smart?",
+          "How do children become a smart at school?",
+          "Why are some people well-rounded and others only good at one thing?",
+          "Why does modern society need talents of all kinds?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

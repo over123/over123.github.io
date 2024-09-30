@@ -1,0 +1,42 @@
+{
+  "topicId": 3,
+  "summaryTitle": "雅思",
+  "title": "Shopping",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like shopping?",
+          "Do you compare prices when you shop? Why?",
+          "Is it difficult for you to make choices when you shop?",
+          "Do you think expensive products are always better than cheaper ones?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an interesting place you have been to with a friend",
+          "You should say:",
+          "What and where the place is",
+          "Who you went with",
+          "When you went there",
+          "What you did there",
+          "And explain why you think it is interesting"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Why do people need friends?",
+          "How do you communicate with friends?",
+          "Why don’t some people like to socialise?",
+          "Can talking with people improve social skills?",
+          "Does technology help people communicate better with others?",
+          "Do you prefer to go out with a group of friends or just with a few close friends?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

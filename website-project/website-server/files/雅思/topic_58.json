@@ -1,0 +1,42 @@
+{
+  "topicId": 58,
+  "summaryTitle": "雅思",
+  "title": "Chatting",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "1. Do you like chatting with friends?",
+          "2. What do you usually chat about with friends?",
+          "3. Do you prefer to chat with a group of people or with only one friend?",
+          "4. Do you prefer to communicate face-to-face or via social media?",
+          "5. Do you argue with friends?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a period in history which you are interested in",
+          "You should say:",
+          "When it was",
+          "What happened",
+          "How you first heard about it",
+          "And explain why you are interested in this period of history."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1.Should everyone know history?",
+          "2.In what ways can children learn history?",
+          "3.What are the differences between learning history from books and from videos?",
+          "4. ls it difficult to protect and preserve historic buildings?",
+          "5.Why is it important for people to remember personal events from the past?",
+          "6.Why do some people think it's wrong to let the past influence their decisions?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

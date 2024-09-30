@@ -1,0 +1,40 @@
+{
+  "topicId": 87,
+  "summaryTitle": "雅思",
+  "title": "Musical instruments & A beautiful City",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Have you ever learned to play a musical instrument?",
+          "Is music an important subject at school in your country?",
+          "What musical instruments do you enjoy listening to the most?",
+          "Do you think children should learn to play an instrument at school?",
+          "Do you think music education is important to children?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a beautiful City",
+          "You should say:",
+          "Where the City is",
+          "How you knew the City",
+          "What buildings the City  has",
+          "What  it is famous for",
+          "And explain why do you think this City is beautiful?"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What are the differences between modern towns and modern cities?",
+          "Why do some people like to visit historical sites?",
+          "How can people preserve historical buildings."
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

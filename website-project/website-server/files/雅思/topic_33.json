@@ -1,0 +1,42 @@
+{
+  "topicId": 33,
+  "summaryTitle": "雅思",
+  "title": "Language",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What languages can you speak?",
+          "What languages would you like to learn in the future?",
+          "How do you learn a foreign language?",
+          "How are languages taught and learned in your school?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a piece of technology you own that you feel is difficult to use",
+          "You should say:",
+          "When you got it",
+          "What you got it for",
+          "How often you use it",
+          "And explain how you feel about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Does the development of technology affect the way we study? How?",
+          "What changes has the development of technology brought about in our lives?",
+          "Why do technology companies keep upgrading their products?",
+          "Why are people so keen on buying iPhones even though they haven't changed much",
+          "from one iPhone to the next?",
+          "Why do big companies introduce new products frequently?",
+          "What technology do people currently use?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

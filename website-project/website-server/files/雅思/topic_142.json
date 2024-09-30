@@ -1,0 +1,44 @@
+{
+  "topicId": 142,
+  "summaryTitle": "雅思",
+  "title": "Work & study & your country",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you work or are you student?",
+          "What work do you do?",
+          "Why did you choose this job?",
+          "Why did you choose to study  that subject?",
+          "Do you like your job ?",
+          "Is there anything you dislike about your job?",
+          "What was your dream job when you were young?",
+          "Have you changed your mind on your dream job?",
+          "What do you like about your studies?",
+          "What do you dislike about your studies?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Describe a place in your country that you would like to recommend to visitors/travelers",
+          " You should say: ",
+          " What it is ",
+          " Where it is ",
+          " What people can do there",
+          " And explain why you would like to recommend it to visitors/travelers"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " Is it important to take photos while travelling?",
+          " Can you trust other people’s travel ournals on the internet?",
+          " What factors affect how people feel about travel?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

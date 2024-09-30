@@ -1,0 +1,44 @@
+{
+  "topicId": 189,
+  "summaryTitle": "雅思",
+  "title": "Colours & Waiting For Something",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What is your favourite colour?",
+          "What is the most popular colour in your country?",
+          "What colour  would you never use in your home?",
+          "Do you think colours influence you?",
+          "Do you think  coulours are important?",
+          "Were colours important to yoy when you were a child?",
+          "What colour clothes do you like to wear?",
+          "Do people in your country like to wear bright colours?",
+          "What are the differences  between men and womens preference in colour?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you waited for something special that would happen",
+          "You should say:",
+          "What you waited for",
+          "Where you waited",
+          "Why it was special",
+          "And explain how you felt while you were waiting"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "On what occasions do people usually need to wait?",
+          "Who behave better when waiting, children or adults?",
+          "Compared to the past, are people less patient now, why?",
+          "What are the positive and negative effects of waiting on society?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

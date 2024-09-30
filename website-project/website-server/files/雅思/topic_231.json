@@ -1,0 +1,39 @@
+{
+  "topicId": 231,
+  "summaryTitle": "雅思",
+  "title": "Use Your Imagination",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like reading?",
+          "DO you like to read at home or in other places?",
+          "In what place do you think it is difficult to read?",
+          "Do you like to read by yourself or with other people?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time you needed to use your imagination",
+          "You should say:",
+          "When it was",
+          "Why you needed to use imagination",
+          "How difficult or easy it was",
+          "And explain how you felt about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you think adults can have lots of imagination?",
+          "Do you think imagination is essential for scientists?",
+          "What kinds of jobs need imagination?",
+          "What subjects are helpful for children’s imagination?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

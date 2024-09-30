@@ -1,0 +1,42 @@
+{
+  "topicId": 158,
+  "summaryTitle": "雅思",
+  "title": "Hometown & Helps you save a lot of time",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Please describe your hometown a little",
+          "What is your hometown well-known for?",
+          "Do you like your hometown?",
+          "Is that a big City or a small place?",
+          "How long have you been living there?",
+          "Do you think you will continue living there for a long time?",
+          "How has your town changed over the last 20 years?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a way/change that helps you save a lot of time",
+          "You should say:",
+          "What it is",
+          "How you empliment it",
+          "How difficult it is",
+          "And explain how you feel about th way/change"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What can people do to save time?",
+          "Does technology help people save time? How and why?",
+          "Do you think parents should be responsible for teaching children to save time?",
+          "Do people who can manage time well become successful more easily?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

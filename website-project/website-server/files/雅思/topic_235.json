@@ -1,0 +1,39 @@
+{
+  "topicId": 235,
+  "summaryTitle": "雅思",
+  "title": "TV & Advice",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you often watch programs on the television or on your cellphone?",
+          "What kind of TV programs do you like?",
+          "Do you like watching the same kind of program all the time?",
+          "Do you talk with your friends about the programs you watched?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you gave an advice to others.",
+          "You should say:",
+          "When it was",
+          "To whom you gave the advice",
+          "What the advice was",
+          "And explain why you gave the advice"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Should people prepare before giving advice?",
+          "Is it good to ask advice from strangers online?",
+          "What are the personalities of people whose job is to give advice to others?",
+          "What are the problems if you ask too many people for advice?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

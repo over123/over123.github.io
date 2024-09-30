@@ -1,0 +1,40 @@
+{
+  "topicId": 257,
+  "summaryTitle": "雅思",
+  "title": "Technology",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What seasons do you have in your country?",
+          "Which is your favourite season?",
+          "What do you like to do in this season?",
+          "Is your country popular with tourists in every season?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a piece of equipment in your home that is important to you.",
+          "You should say:",
+          "what it is",
+          "how long you have had it",
+          "why you chose this particular model or brand and explain why it is important to you."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What are the most popular electronic devices in your country at the moment?",
+          "Which sort of devices do you think will become popular in the future?",
+          "Do you think electronic devices make life easier or more difficult?",
+          "Do you think all information on the internet is true?",
+          "How can people find reliable information on the internet?",
+          "Do you think the internet is safe for children to use unsupervised?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

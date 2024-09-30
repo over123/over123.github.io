@@ -1,0 +1,41 @@
+{
+  "topicId": 128,
+  "summaryTitle": "雅思",
+  "title": "Hometown & Technology",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Please describe your hometown a little",
+          "What is your hometown well-known for?",
+          "Do you like your hometown?",
+          "Is that a big City or a small place?",
+          "How long have you been living there?",
+          "Do you think you will continue living there for a long time?",
+          "How has your town changed over the last 20 years?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a piece of technology that you feel difficult to use",
+          "You should say:",
+          "When you got it",
+          "What you got it for",
+          "How often you use it",
+          "And explain how you feel about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1. What technology do people currently use?",
+          "2. Why do big companies introduce new products frequently?",
+          "3. Why are people so keen on buying iPhone even though they havent changed much from one to the next?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

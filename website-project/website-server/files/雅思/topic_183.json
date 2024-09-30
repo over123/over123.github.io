@@ -1,0 +1,39 @@
+{
+  "topicId": 183,
+  "summaryTitle": "雅思",
+  "title": "Holidays & Trip By Bike",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " What public holidays do you have in your country?",
+          " Which public holidays do you like the most?",
+          " Can you describe your perfect holiday?",
+          " Which do you prefer, to spend time on a beach or have excursions in a City."
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          " Describe a bicycle/motorcycle/car trip you would like to go",
+          " You should say:",
+          " Who you would like to go with",
+          " Where you would like to go",
+          " When you would like to go",
+          " And explain why you would like to go by bicycle/motorcycle/car"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " Which form of vehicle is more popular in your country, bikes, cars or motorcycle?",
+          " Do you think air pollution comes mostly from mobile vehicles?",
+          " Do you think people need to change the way of transportation drastically to protect the environment?",
+          " How are the transportation systems in urban areas and rural areas different?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

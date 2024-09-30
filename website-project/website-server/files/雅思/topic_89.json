@@ -1,0 +1,43 @@
+{
+  "topicId": 89,
+  "summaryTitle": "雅思",
+  "title": "Chatting & felt proud of",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What do you like to talk about with your friends?",
+          "Have your discussion topics changed since you were a child?",
+          "Do you like chatting with friends?",
+          "What do you usually chat about with friends?",
+          "Do you prefer to communicate face to face or via social media?",
+          "Do you argue with friends?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a difficult task that you completes at work /study that you felt proud of",
+          "You should say :",
+          "What the task was",
+          "How do you completed it",
+          "Why the task was difficult",
+          "Why you were proud of the completion of the task"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What  are the things that make people feel proud of?",
+          "Do people often feel proud of themselves when they  complete a difficult task?",
+          "What challenges do young people face today?",
+          "How do young people handle difficult or challenging task",
+          "What kinds of rewards do people receive from work?",
+          "What are the most difficult jobs that people do?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

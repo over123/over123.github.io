@@ -1,0 +1,41 @@
+{
+  "topicId": 57,
+  "summaryTitle": "雅思",
+  "title": "Map",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "1.Do you often use a map on your phone? How often?",
+          "2.Have you ever used a paper map?",
+          "3.Would you ever put a map on the wall in your home when you were a child?",
+          "4.Do you find it easy to read maps?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you did an exciting activity with other people",
+          "You should say:",
+          "What the activity was",
+          "Where you did this activity",
+          "Why you did this activity",
+          "And explain how you felt about it."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " 1.What kinds of exciting activities that young people like to do in your country?",
+          "2.Why do people choose to do exciting activities, such as extreme sports?",
+          "3.How do people benefit from trying new things?",
+          "4.Why are some people reluctant to try new things?",
+          "5.Are people less willing to try new things as they get older?",
+          "6.Should people engage in dangerous stimulating activities?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

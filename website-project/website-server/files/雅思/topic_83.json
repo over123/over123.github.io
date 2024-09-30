@@ -1,0 +1,38 @@
+{
+  "topicId": 83,
+  "summaryTitle": "雅思",
+  "title": "Country & cook for others",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Tell me a little about your hometown.",
+          "Which part of your country do most people live in?",
+          "Where is your country located?",
+          "Tell me about the main industries in your country.",
+          "What are some of the good things and some of the bad things about living in your country?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a person who likes to cook for others",
+          "You should say:",
+          "Who this person is",
+          "What he/she likes to cook"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Have you ever cooked for others?",
+          "What do we need to prepare when we need to cook?",
+          "Do you agree that food is an important part of Chinese festivals?",
+          "Which dishes are a must at festivals?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

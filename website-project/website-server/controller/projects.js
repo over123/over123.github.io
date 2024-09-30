@@ -8,16 +8,17 @@
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
  */
 let Projects = require('../model/projects')
+const { logger } = require('../middlewares/logger');
 // Import the necessary modules
 const crud = require('../utils/crud');
 
 // Create a Koa middleware function to handle the request
 const projectFind = async (ctx) => {
-    let token = ctx.header.authorization; 
-    token = token.replace('Bearer ','');
+    let token = ctx.header.authorization;
+    token = token.replace('Bearer ', '');
     try {
         // Set the response body with the user's work project
-        const projects = await crud.find(Projects, null ,ctx);
+        const projects = await crud.find(Projects, null, ctx);
         ctx.body = {
             msg: 'Projects',
             data: projects
@@ -29,14 +30,14 @@ const projectFind = async (ctx) => {
     }
 };
 
-const projectFindOne = async (ctx) => { 
-    const res = await crud.findOne(Projects, {_id: ctx.params.id}, ctx);
-    console.log(res)
+const projectFindOne = async (ctx) => {
+    const res = await crud.findOne(Projects, { _id: ctx.params.id }, ctx);
+    logger.info(res)
 }
 
 const projectUpdate = async (ctx) => {
-    let {_id, ...rest } = ctx.request.body
-    await crud.update(Projects, {_id: _id}, { ...rest }, ctx)
+    let { _id, ...rest } = ctx.request.body
+    await crud.update(Projects, { _id: _id }, { ...rest }, ctx)
 }
 
 const projectAdd = async (ctx) => {

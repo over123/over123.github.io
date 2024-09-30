@@ -1,0 +1,39 @@
+{
+  "topicId": 155,
+  "summaryTitle": "雅思",
+  "title": "Evening Time & Positive advice",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like the morning or evening?",
+          "What do you usually do in the evening?",
+          "What do you do in the evening when you wee little? Why?",
+          "Are there any differences between what you do in the evening now and what you did in the past?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an occasion when someone gave you positive advice or suggestion aboutyour work",
+          "You should say:",
+          "Who the person is",
+          "What he/she  said",
+          "How the advice/suggestion affected you",
+          "And explain how you felt about the advice/suggestions"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "When should parents encourage their children?",
+          "Should parents always encourage their children?",
+          "Do you think negative feedbacks are more important than positive feedbacks?why?",
+          "Why are negative feedbacks as important as positive feedbacks at work?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

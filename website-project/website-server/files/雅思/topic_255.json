@@ -1,0 +1,41 @@
+{
+  "topicId": 255,
+  "summaryTitle": "雅思",
+  "title": "Architecture & Buildings",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Are you interested in architecture?",
+          "Do you live in an old building or a modern one?",
+          "What sort of building would your dream home be?",
+          "If you were an architect, what sort of buildings would you design?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a building you have seen that impressed you.",
+          "You should say:",
+          "where it was",
+          "what it looked like",
+          "when you saw it",
+          "and explain why it impressed you."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do many people in your country visit historic buildings?",
+          "What types of historic buildings are most popular to visit?",
+          "Why do people visit these historic buildings?",
+          "What do people learn from visiting such buildings?",
+          "Do you think people should have to pay to visit them?",
+          "Do you think it’s important that historic buildings are preserved?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

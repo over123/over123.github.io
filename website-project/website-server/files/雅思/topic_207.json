@@ -1,0 +1,39 @@
+{
+  "topicId": 207,
+  "summaryTitle": "雅思",
+  "title": "Barbecue & Older Person",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do people in your country like barbecues?",
+          "What kind of food do you like to eat for barbecue?",
+          "Do you like to eat barbecue with your family or with your friends?",
+          "Did you have barbecue when you were a child?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe someone who is older than you that  you admire",
+          "You should say:",
+          "Who this person is",
+          "How you knew this person",
+          "What kinds of things you like to do together",
+          "and explain how you feel about this person"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What can young and old people learn from each other?",
+          "Has old people’s life quality improved when compared to the post?",
+          "Why Is there generation gap between the young and the old?",
+          "What do old people usually do in their daily life?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topicId": 209,
+  "summaryTitle": "雅思",
+  "title": "Film you like",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What flowers have special meaning in your country?",
+          "What flowers do you like to know?",
+          "What is your favorite flower?",
+          "Do you like flower?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a movie that You like",
+          "You should say :",
+          "When you watched it",
+          "Where you watched it",
+          "What it was about And explain why you Iike it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Are films 0 waste of monev ?",
+          "Are movie stars importont to a movie ?",
+          "Are foreign movles popular in China ?",
+          "Is  it important that a country has its own movieS ?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

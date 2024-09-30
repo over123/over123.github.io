@@ -1,0 +1,40 @@
+{
+  "topicId": 212,
+  "summaryTitle": "雅思",
+  "title": "Environmental law",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Have you ever seen wild animals?",
+          "Where can we see wild animals?",
+          "Whats your favorite wild animal?",
+          "Do you like watching wild animals in the zoo?",
+          "Is it important to let children know about animals?",
+          "Is it important to protect wild animals?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a law on environmental protection You should say:",
+          "What it Is",
+          "How you first learned about it",
+          "Who benefits from it",
+          "And explain how you feel about this law"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Are there laws about education in China?",
+          "What kinds of rules do schools in China hove?",
+          "What can teachers do to make students obey rules?",
+          "What should parents do to educate children about laws?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

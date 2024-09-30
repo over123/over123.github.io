@@ -1,0 +1,39 @@
+{
+  "topicId": 230,
+  "summaryTitle": "雅思",
+  "title": "Country & Trip",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Which part of your country do you want to live in?",
+          "What makes you feel proud of your country?",
+          "Do you know the history of your country?",
+          "Will you stay in China in the future?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a short trip you often take but do not like.",
+          "You should say:",
+          "Where you go",
+          "When you go there",
+          "Why you go there",
+          "And explain why you do not like the trip"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do Chinese people like travelling abroad?",
+          "Who prefer travelling abroad? The young or the old?",
+          "How much time do you think people should spend on a trip abroad?",
+          "Which is better for knowing more about a country? Travelling or reading books about it?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

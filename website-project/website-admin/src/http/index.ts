@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-15 12:06:27
  * @LastEditors: xudan
- * @LastEditTime: 2024-08-07 19:15:47
+ * @LastEditTime: 2024-09-30 16:03:09
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -11,6 +11,8 @@ import axios, { InternalAxiosRequestConfig } from 'axios'
 import { apiServer, debugMode } from '@/common/config'
 import { useAuthStore } from '@/stores';
 const auth_store = useAuthStore()
+import Storage, { storageName } from "@/utils/storage";
+const tokenStorage = new Storage(storageName.TOKEN);
 
 // console.log(apiServer)
 let instance = axios.create({
@@ -42,7 +44,14 @@ instance.interceptors.request.use((config: InternalAxiosRequestConfig) => {
 instance.interceptors.response.use((response) => {
     // 响应拦截需处理的内容
     // ...
-    return response
+    if(response.status == 200 && response.data.code == 200) {
+        return response
+    }  else {
+        tokenStorage.deleteToken();
+        auth_store.update('');
+    }
+
+    
 }, (error) => {
     debugMode && console.log('响应失败，' + error)
     return Promise.reject(error)

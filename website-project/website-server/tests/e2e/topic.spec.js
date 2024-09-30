@@ -71,7 +71,7 @@ const fs = require('fs');
       const matchingTopic = topics.find(t => {
         return t.idx === index
       });
-      console.log(topicListItems)
+      logger.info(topicListItems)
       if (matchingTopic) {
         matchingTopic.topicBoxId = topicBoxId;
         matchingTopic.topicListItems = topicListItems;
@@ -85,10 +85,10 @@ const fs = require('fs');
 
     // Save topics to a JSON file
     fs.writeFileSync(`./files/topic_${formattedDate}.json`, JSON.stringify(topics, null, 2));
-    console.log(`Successfully fetched ${topics.length} topics and saved to ./files/topic_${formattedDate}.json`);
+    logger.info(`Successfully fetched ${topics.length} topics and saved to ./files/topic_${formattedDate}.json`);
 
   } catch (error) {
-    console.error("Error fetching topics:", error);
+    logger.error("Error fetching topics:", error);
   } finally {
     await driver.quit();
   }

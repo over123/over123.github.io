@@ -1,0 +1,40 @@
+{
+  "topicId": 107,
+  "summaryTitle": "雅思",
+  "title": "HEALTH & want to live",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "How do you keep healthy?",
+          "What is your favorite sport/",
+          "Are there health classes in your school?",
+          "What sports help people stay health?",
+          "Is it easy for people to exercise in your country?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an ideal house or apartment where you want to live",
+          "You should say:",
+          "What it is like",
+          "Where it would be",
+          "What special features it would have",
+          "And explain why you want to live in this house/apartment?"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What are the most common architectural styles in Chinese cities?",
+          "What’s the difference between an apartment and a house?",
+          "What are the advantages of the facilities of the apartment and the facilities of the house?",
+          "What difficulties do people have living in the city?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

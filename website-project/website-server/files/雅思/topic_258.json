@@ -1,0 +1,41 @@
+{
+  "topicId": 258,
+  "summaryTitle": "雅思",
+  "title": "Weather & Seasons",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What seasons do you have in your country?",
+          "Which is your favourite season?",
+          "What do you like to do in that season?",
+          "Is your country popular with tourists in every season?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a type of weather that you really dislike.",
+          "You should say:",
+          "what type of weather it is",
+          "how often it happens",
+          "why you dislike it",
+          "and explain what you do when the weather is like this"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you think the weather affects how people feel?",
+          "What are some examples of bad weather in the world?",
+          "In your opinion, is anything we can do to prevent bad weather?",
+          "What is the best way to get accurate information about the weather?",
+          "How easy or difficult is it to predict the weather in your country?",
+          "How important do you think it is to check what the weather will be?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

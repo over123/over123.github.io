@@ -1,0 +1,45 @@
+{
+  "topicId": 159,
+  "summaryTitle": "雅思",
+  "title": "Work & study & Phone",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you work or are you student?",
+          "What work do you do?",
+          "Why did you choose this job?",
+          "Why did you choose to study  that subject?",
+          "Do you like your job ?",
+          "Is there anything you dislike about your job?",
+          "What was your dream job when you were young?",
+          "Have you changed your mind on your dream job?",
+          "What do you like about your studies?",
+          "What do you dislike about your studies?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time you used your cellphone/smart phone to do something important",
+          "You should say:",
+          "What happened",
+          "When it happened",
+          "How important the cellphone/smart phone was",
+          "And explain how you feel about the experience"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What  do you usually do with cellphone?",
+          "What are the differences between young people and old people when using a cellphone?",
+          "Which one is more important, using a cellphone to make phone calls or to read messages?",
+          "Do you think there should be a law to stop people from making phone calls in public?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

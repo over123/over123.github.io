@@ -1,0 +1,41 @@
+{
+  "topicId": 112,
+  "summaryTitle": "雅思",
+  "title": "CONCENTRATION & traditional festival",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Did you stay focused in class when you were a child?",
+          "Are you a focused person?",
+          "How do you stay focused?",
+          "Is it easy to stay focused in a noisy environment?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a traditional festival in your country that you enjoy",
+          "You should say:",
+          "What Is it",
+          "What you do to celebrate it",
+          "Who you celebrate it with",
+          "And explain why you enjoy it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Is it important for children to learn traditional festivals at school?",
+          "Do children like to learn about traditional festivals?",
+          "Why do people hold event s to celebrate?",
+          "Are traditional festivals disappearing?",
+          "Is music important in traditional festivals?",
+          "Do you think good food and drinks are important for celebrations?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

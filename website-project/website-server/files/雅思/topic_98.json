@@ -1,0 +1,41 @@
+{
+  "topicId": 98,
+  "summaryTitle": "雅思",
+  "title": "FILMS & a family business",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What films do you like?",
+          "Did you often watch films when you were a child?",
+          "Did you ever go to the cinema alone as a child?",
+          "Do you often go to the cinema with your friends?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a successful business person you know {e.g. running a family business)",
+          "You should say:",
+          "Who this person is",
+          "How you knew him/her",
+          "What business he/she does",
+          "And explain why he/she is successful"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What factors lead to success?",
+          "What do people need to sacrifice for success?",
+          "Which is more likely to be successful, family business or large corporations?",
+          "Is it easy for business to be successful without affecting the environment?",
+          "Can you provide some examples of family business in your country?",
+          "What qualities should be considered when recruiting employees?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "topicId": 240,
+  "summaryTitle": "雅思",
+  "title": "People & Relationships",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "How well do you know the people who live next door to you?",
+          "How often do you see each other?",
+          "What kind of relationship do you have?",
+          "Have you ever had a problem with a neighbour?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a person you know who is kind. You should say:",
+          "who it is",
+          "how you know this person",
+          "what sort of person they are",
+          "and explain why you think they are kind."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What types of relationships, other than with friends or family, are important in people’s lives?",
+          "Do you think it is important for people to spend time alone?",
+          "What is the attitude towards marriage in your country?",
+          "How have attitudes towards marriage changed in the past 50 years?",
+          "Do most young people in your country plan on getting married?",
+          "In your opinion, should couples be allowed to get divorced?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

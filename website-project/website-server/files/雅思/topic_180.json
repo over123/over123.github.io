@@ -1,0 +1,40 @@
+{
+  "topicId": 180,
+  "summaryTitle": "雅思",
+  "title": "Advertising & Famous Athlete",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Is there advertising in your country?",
+          "Where can we see advertisements?",
+          "What advertisement do you have in your country?",
+          "How do you feel about advertisement?",
+          "What do you think is the purpose of advertisement?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe  a famous athlete you know",
+          "You should say:",
+          "Who he/she is",
+          "How you knew him/her",
+          "What he/she has achieved",
+          "And explain why he/she is famous"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What kinds of exercises do Chinese people like?",
+          "What characteristics do you think an athlete should have?",
+          "Why are there so few top athletes?",
+          "What’s the best way to become a top athlete?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

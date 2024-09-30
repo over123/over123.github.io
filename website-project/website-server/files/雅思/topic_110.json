@@ -1,0 +1,41 @@
+{
+  "topicId": 110,
+  "summaryTitle": "雅思",
+  "title": "DREAM AND AMBITION",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What was your childhood dream?",
+          "Are you the kind of person who sticks to dreams?",
+          "What is your dream job?",
+          "Do you think you are an ambitious person?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a famous person you are interested in",
+          "You should say:",
+          "Who he/she is",
+          "How you knew about him/her",
+          "What he/she was like before he/she became famous",
+          "And explain why you are interested In him/her"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you think media is putting too much attention on famous people?",
+          "Do you think famous people are necessarily good in their fields?",
+          "What are the differences between famous people today and those in the past?",
+          "What kinds of famous people are there in your country?",
+          "Why are some kids popular at school?",
+          "Why do some people become famous but not successful?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

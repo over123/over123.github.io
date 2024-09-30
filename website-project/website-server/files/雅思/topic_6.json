@@ -1,0 +1,41 @@
+{
+  "topicId": 6,
+  "summaryTitle": "雅思",
+  "title": "Morning routines",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What do you do in the mornings?",
+          "Is breakfast important?",
+          "What is your morning routine?",
+          "Do you like to get up early in the morning?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when someone gave you something that you really wanted",
+          "You should say:",
+          "What it was",
+          "When you received it",
+          "Who gave it to you",
+          "And explain why you wanted it so much"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Should employees have their own goals?",
+          "How should bosses reward employees?",
+          "What kinds of gifts do young people like to receive as rewards?",
+          "How should children spend their allowance money?",
+          "Why do people like shopping more now than in the past?",
+          "Do you think shopping is good for a country's economy?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

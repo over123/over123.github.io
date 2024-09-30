@@ -1,0 +1,42 @@
+{
+  "topicId": 92,
+  "summaryTitle": "雅思",
+  "title": "Robots & felt proud",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Are robots important?",
+          "Would robots affect people’s lives?",
+          "Have you ever watched a movie about robots?",
+          "Should we let a robot drive for us for long journeys?",
+          "What can robots do for you at home?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a difficult task that you completed at work/study that you felt proud",
+          "You should  say:",
+          "What the task was",
+          "How you completed it",
+          "Why  the task was difficult",
+          "Why you were proud of the completion of the task"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What are the things that make people feel proud of?",
+          "Do people often feel proud of themselves when they complete a difficult task?",
+          "What challenges do young people face today?",
+          "How do young people handle difficult or challenging tasks?",
+          "What kinds of rewards do people receive from work?",
+          "What are the most difficult jobs that people do?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "topicId": 163,
+  "summaryTitle": "雅思",
+  "title": "Management & Gift",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "How do you usually organize plan your time?",
+          "Is it easy to manage time for you?",
+          "What is the hardest part about making plans?",
+          "What is the latest plan that you made?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe something you received for free.",
+          "You should say:",
+          "what it was",
+          "who you received it from",
+          "where you received it",
+          "and explain how you felt about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you think people should pay for higher education? Why?",
+          "Is it good or bad for people to have a free education in the future?",
+          "What gifts/free things do companies usually give to their customers?",
+          "Why do companies give free things?",
+          "Why do customers like to receive gifts from companies?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

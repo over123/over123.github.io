@@ -1,0 +1,114 @@
+{
+  "topicId": 35,
+  "summaryTitle": "托福",
+  "title": "Official 21",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Question",
+          "Do you agree or disagree with the following statement: Your friends are the most important influence in your life. Use details and examples to explain your opinion."
+        ],
+        "singleItemTitle": "TASK1家人朋友"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Daily E-mail with campus activities",
+          "The university will now send all students a daily email containing information about campus events and activities. Rather than get information about campus events once a week in the campus newspaper, students will get the information every day, thus ensuring that it is always up-to-date. According to the university spokesman who announced the plan, “For all of us now, e-mail is part of our daily lives”. Students in particular have become used to relying on email and the Internet for most communication, so it is a logical change that will benefit everyone.",
+          "Listening查看文本",
+          "Narrator: Now listen to two students discussing the announcement.",
+          "Woman: Did you read about the new plan?",
+          "Man: Yeah. What do you think?",
+          "Woman: I think it's a great idea.",
+          "Man: Really? Why?",
+          "Woman: Well, I just don't think the newspaper gives the most up-to-date information about activities.",
+          "Man: Well, the paper comes out weekly and what's the problem?",
+          "Woman: The fact that it comes out just once a week is the problem.",
+          "I read the paper every Monday,",
+          "but then I forget that they're having a concert or showing a film or whatever, like on Thursday or Friday.",
+          "and this will always give me a reminder on the day of the event.",
+          "Man: Yeah, that way you wouldn't forget.",
+          "Woman: And like if something gets cancelled at the last minute,",
+          "well, that way you'd know and you wouldn't waste time showing up and no one's there.",
+          "Man: I haven't thought of that.",
+          "That would be really helpful，",
+          "but do you think students are actually going to read the email？",
+          "Woman: Are you kidding?",
+          "Everyone checks their email at least once a day.",
+          "And if maybe they also include the cafeteria menu for the day in the email,",
+          "well, then people are definitely gonna read it.",
+          "Man: You are so right!",
+          "I can't wait until they start.",
+          "Question",
+          "The woman expresses her opinion about the university’s plan. Briefly summarize the plan. Then state her opinion of the plan and explain the reasons she gives for holding that opinion."
+        ],
+        "singleItemTitle": "TASK2校园服务与设施"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Questioning Awareness of Effect",
+          "When a student engages in disruptive behavior in the classroom, it negatively impacts both the teacher's ability to teach and other students' ability to learn. One way a teacher can correct disruptive behavior is by questioning awareness of effect. With this technique, when a student disrupts the class, the teacher asks the student a question that draws attention to the negative effect of the student's behavior. The teacher then does not wait for an answer, but immediately continues teaching. By thus simply drawing attention to the effect of the student's behavior, the teacher can often lead the student to discontinue the behavior.",
+          "Listening查看文本",
+          "Narrator: Now listen to part of a lecture in an Education class.",
+          "Professor: So I used to teach a class of eight-year-olds,",
+          "and one problem I sometimes had was getting the kids to raise their hands when they wanted to answer a question.",
+          "Like lots of teachers,",
+          "I had the rule that if a student wanted to answer a question,",
+          "they needed to raise their hand in the air and wait till I call their name before speaking.",
+          "That gave all the students a chance to participate,",
+          "which helped everyone get more out of the discussion.",
+          "But some kids had trouble following the rule.",
+          "I remember there was one girl, Sarah,",
+          "who didn't raise her hand when she wanted to answer a question,",
+          "she would just call out the answer.",
+          "And this was frustrating for the other children who were waiting patiently with their hands raised.",
+          "So one day, when Sarah called out,",
+          "I asked her if she knew that calling out was unfair to the other students.",
+          "I said to her, Sarah,",
+          "do you realize that when you call out answers without raising your hand,",
+          "you're not being fair to the other students.",
+          "You're not giving them a chance to answer questions too.",
+          "And I didn't wait for her to answer, I just continued teaching the class.",
+          "And after that, any time I asked the class a question, Sarah didn't call out the answer.",
+          "She raised her hand along with everyone else.",
+          "Question",
+          "Explain how the example from the lecture illustrates the technique of questioning awareness of effect."
+        ],
+        "singleItemTitle": "TASK3心理"
+      },
+      {
+        "singleItemContent": [
+          "Listening查看文本",
+          "Narrator: Listen to a part of a lecture from a History class.",
+          "The professor is talking about the Industrial Revolution.",
+          "Professor: Back in the 18th century, in a time known as the Industrial Revolution,",
+          "some countries, well, England, in particular, started using new technology,",
+          "like steam-powered machines to produce goods.",
+          "And the use of these machines brought about some significant changes.",
+          "Let's go over two main changes that occurred.",
+          "One change was that the center of production moved from homes to factories.",
+          "Let's take fabric or cloth as an example.",
+          "Historically, for a very long time, people had made cloth by hand in their homes,",
+          "earning a little money from their home-based cloth production.",
+          "But then these new steam-powered machines for weaving cloth were invented and placed in factories,",
+          "and these machines could weave cloth much more quickly and efficiently.",
+          "So there wasn't any reason to keep making cloth slowly in homes when it could be made faster on factory machines.",
+          "Thus, the majority of cloth production shifted from home-based businesses to factory production.",
+          "Another result of the new technology is that cities started forming around factories.",
+          "Like let's say there was a cloth factory that was built in a certain small village.",
+          "Now, of course, the factory needed workers to operate the machines used in cloth production.",
+          "So the factory would hire a lot of rural workers who would then move from the countryside to the village.",
+          "So instead of being spread out all over the countryside,",
+          "the workers started to congregate in the village with the factory.",
+          "As a result, the village got bigger and bigger and eventually grew into a city.",
+          "Question",
+          "Using points and examples from the talk, describe the two changes that occurred after machines began to be used for manufacturing goods."
+        ],
+        "singleItemTitle": "TASK4历史与社会"
+      }
+    ]
+  }
+}

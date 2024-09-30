@@ -1,0 +1,40 @@
+{
+  "topicId": 248,
+  "summaryTitle": "雅思",
+  "title": "Homes & Accommodation",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you live in a house or a flat?",
+          "How long have you lived there?",
+          "Do you like your home?",
+          "Which is your favourite room?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you moved to a new house.",
+          "You should say:",
+          "when it happened",
+          "why you moved",
+          "what kind of new home you moved into and explain how you felt about moving home"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "How easy is it to find a place to live in your country?",
+          "Do you think it is better to rent or to buy your home?",
+          "At what age do you think young adults should stop living with their parents?",
+          "How do people like to decorate their homes in your country?",
+          "Can the colour of a room affect the way people feel?",
+          "Is it more important for a room to look nice or to be comfortable?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

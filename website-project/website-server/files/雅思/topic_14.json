@@ -1,0 +1,41 @@
+{
+  "topicId": 14,
+  "summaryTitle": "雅思",
+  "title": "Daily routine",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What is your daily study routine?",
+          "Have you ever changed your routine?",
+          "Do you think it is important to have a daily routine for your study?",
+          "What part of your day do you like best?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a special meal that someone made for you",
+          "You should say:",
+          "Who did it",
+          "When and how he/she cooked",
+          "What and why he/she cooked for you",
+          "And explain how you felt about the meal"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Should students learn to cook at school?",
+          "Do you think people’s eating habits would change as they get older?",
+          "Do people in your country like to learn to cook from TV programmes?",
+          "What kinds of fast food are popular in China?",
+          "Are there any people who wouldn’t eat meat for their whole lives?",
+          "What do you think about vegetarians?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

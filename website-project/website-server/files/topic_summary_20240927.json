@@ -1,0 +1,32 @@
+[
+  {
+    "index": 0,
+    "url": "http://speak8.com/plugin.php?id=strong_yyzl&mobile=2",
+    "title": "雅思"
+  },
+  {
+    "index": 1,
+    "url": "http://speak8.com/plugin.php?id=strong_tuofu&mobile=2",
+    "title": "托福"
+  },
+  {
+    "index": 2,
+    "url": "http://speak8.com/plugin.php?id=strong_yyzlk&mobile=2",
+    "title": "日常"
+  },
+  {
+    "index": 3,
+    "url": "http://speak8.com/plugin.php?id=strong_shangwu&mobile=2",
+    "title": "商务"
+  },
+  {
+    "index": 4,
+    "url": "http://speak8.com/plugin.php?id=strong_mianshi&mobile=2",
+    "title": "面试"
+  },
+  {
+    "index": 5,
+    "url": "http://speak8.com/plugin.php?id=strong_shaoer&mobile=2",
+    "title": "少儿"
+  }
+]

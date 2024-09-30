@@ -1,0 +1,121 @@
+{
+  "topicId": 43,
+  "summaryTitle": "托福",
+  "title": "Official 13",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Question",
+          "When looking for information for a research project, some students prefer to get their information mainly from the Internet. Others prefer to mainly use printed materials such as books and academic journals. Which do you prefer, and why?"
+        ],
+        "singleItemTitle": "TASK1教育学习"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "New Stadium",
+          "A university official announced plans to spend $2 million to build a new athletic stadium, commenting that a new stadium would help the university achieve its goal of attracting more top students. The official also said that, additionally, building a new stadium would allow the university to strengthen its relationship with the town since a new and larger stadium would have the space to seat not only students, parents, and alumni, but members of the local community as well.",
+          "Listening查看文本",
+          "Narrator: Now listen to two students discussing the article.",
+          "Man: So what do you think of the university's new plan?",
+          "Woman: Oh, I don't know,",
+          "I don't think it's gonna work.",
+          "Man: No?",
+          "Woman: I mean I can't imagine top students being too thrilled about some of the conditions on this campus.",
+          "Man: What do you mean?",
+          "Woman: Like the science laboratories having such old, outdated equipment,",
+          "and the library needing more books and the student center being so small.",
+          "I think that the two million could be spent in better places if the university is really serious about achieving its goal.",
+          "Man: OK, but what about the other reason for building the stadium?",
+          "I mean right now we have so little contact with the town.",
+          "Woman: Yeah, but this won't help relations.",
+          "Look, people from town hardly ever come to games because our teams always lose and they are not suddenly going to improve overnight.",
+          "Besides, adding seats won't make a difference.",
+          "I mean if people from town didn't come before, they won't come now just because the place is bigger.",
+          "Question",
+          "The woman expresses her opinion about the university’s plan. State her opinion and explain the reasons she gives for holding that opinion."
+        ],
+        "singleItemTitle": "TASK2校园服务与设施"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Perceptual Constancy",
+          "How an object affects our senses depends in part on external conditions, and these conditions are always changing. An object viewed from one angle presents a different shape to our eye than when viewed from another angle; similarly, as the distance from which we view an object changes, the object will appear larger or smaller. In spite of this, even as conditions change and we see objects differently, we still recognize that they remain the same. This is what is known as perceptual constancy. If not for perceptual constancy, we might have difficulty recognizing familiar objects if we viewed them in a new and different context.",
+          "Listening查看文本",
+          "Narrator: Now listen to part of a lecture on this topic in a Psychology class.",
+          "Professor: Let's take an everyday example -- an ordinary round plate like you'd find in a kitchen.",
+          "If you hold the plate directly in front of your face and look at it,",
+          "what shape do you see?",
+          "A perfect circle, right?",
+          "Suppose you tilt the plate to a different angle, to a horizontal position, like you're planning to put food on it.",
+          "Still a perfect circle?",
+          "No,",
+          "the circle is now stretched out,",
+          "flattened into an oval.",
+          "Do you conclude the plate has actually changed shape,",
+          "or that it's a different object,",
+          "not the same plate?",
+          "Of course not.",
+          "It looks different,",
+          "but we perceive it as still being the same.",
+          "Here's a different example.",
+          "This classroom we're in its fairly large, right?",
+          "Now from up close, from the front row,",
+          "I appear to be relatively big,",
+          "bigger than if you were in the last roll, right?",
+          "But let's say you're sitting in the front row today,",
+          "but tomorrow you're sitting in the back row.",
+          "From back there, I'm going to look smaller,",
+          "but you don't think I've actually gotten smaller.",
+          "You don't think you're seeing a different professor,",
+          "a guy who looks like me except he is smaller.",
+          "No matter where you are, up close or far away,",
+          "you understand without even thinking about it that I'm the same size, the same person.",
+          "Question",
+          "Explain what is meant by perceptual constancy using the examples provided by the professor."
+        ],
+        "singleItemTitle": "TASK3心理"
+      },
+      {
+        "singleItemContent": [
+          "Listening查看文本",
+          "Narrator: Now listen to part of a lecture in a Biology class.",
+          "Professor: Now many sea animals, in order to hide from predators, have over time develop different kinds of camouflage to help them blend in with their environment and avoid detection by predators.",
+          "Picture the surface of the sea floor.",
+          "It's as varied as the land we live on.",
+          "It's got peaks and valleys,",
+          "vegetation,",
+          "rocky areas,",
+          "and some sea animals have developed permanent colors or shapes to resemble these environmental features.",
+          "This camouflage helps disguise them from predators by enabling them to blend into a specific part of the sea.",
+          "For instance, take a kind of fish like the leafy seadragon.",
+          "Well, the name says it all.",
+          "It resembles a small, green dragon with leaflike protrusions sticking out like arms.",
+          "And because of its color and shape,",
+          "it blends in extremely well with green sea plants.",
+          "So when the leafy seadragon is swimming through these plants,",
+          "predators have trouble seeing it.",
+          "But when it enters other environments without these green plants,",
+          "its camouflage doesn't work anymore.",
+          "Now other sea animals are difficult to spot anywhere in the sea, because their type of camouflage enables them to change color.",
+          "Take the cuttlefish, a fish that is closely related to the squid and octopus.",
+          "Unlike leafy seadragons,",
+          "cuttlefish have not developed any particular shape to hide from predators.",
+          "But they have a lot more mobility because their camouflage allows them to blend into any environment,",
+          "because cuttlefish have shifting pigments that allow them to change color in a matter of seconds,",
+          "and so they can almost instantaneously match the color of their surroundings.",
+          "If they're swimming by green sea plants,",
+          "they'll turn green,",
+          "and if they're swimming over the brown sea floor,",
+          "they'll turn brown.",
+          "Question",
+          "Using the examples of the leafy sea dragon and the cuttlefish, describe two kinds of camouflage and the benefits they provide."
+        ],
+        "singleItemTitle": "TASK4生物"
+      }
+    ]
+  }
+}

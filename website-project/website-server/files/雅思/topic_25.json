@@ -1,0 +1,40 @@
+{
+  "topicId": 25,
+  "summaryTitle": "雅思",
+  "title": "Weekends",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like weekends?",
+          "What do you usually do on weekends? Do you study or work?",
+          "What did you do last weekend?",
+          "Do you make plans for your weekends?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a historical building you have been to",
+          "You should say:",
+          "Where it is",
+          "What it looks like",
+          "What it is used for now",
+          "what you learned there",
+          "And how you felt about this historical building"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Why do people visit historical buildings?",
+          "Do Chinese people like to visit historical buildings?",
+          "Do most people agree to the government’s funding to protect historical buildings?",
+          "Is it necessary to protect historical buildings?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

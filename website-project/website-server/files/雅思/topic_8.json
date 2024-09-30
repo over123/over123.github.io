@@ -1,0 +1,42 @@
+{
+  "topicId": 8,
+  "summaryTitle": "雅思",
+  "title": "Asking for help",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you ask for help when you have a problem?",
+          "Why are teachers always willing to help students?",
+          "What kinds of help do you often ask for?",
+          "When was the last time you asked for help?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a sport that you only have watched before but have not played yourself",
+          "You should say:",
+          "What it is",
+          "When you watched it",
+          "Where you watched it",
+          "Who you watched it with",
+          "And explain how you felt about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What kinds of sports would you like to play in the future?",
+          "Why are there many athletes in advertisements?",
+          "What are the features of people who watch sports games online, such as gender or age?",
+          "What's the most popular sport in your country?",
+          "What kinds of sports are popular now but not popular 50 years ago?",
+          "Do you think there are too many sorts of sports games on TV?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "topicId": 64,
+  "summaryTitle": "面试",
+  "title": "Telepathy",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Have you ever had telepathic communication with someone?",
+          "Did you ever dream about something before it happened?",
+          "Do you believe the inner voice of intuition may actually be a form of telepathic communication?",
+          "Do you think it's possible to communicate telepathically with people who have died? Your ancestors?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Do animals communicate telepathically?",
+          "Can people train in sending and receiving telepathic messages?",
+          "How can you tell the difference between a telepathic message and just talking to yourself?",
+          "Are you telepathic?"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Are you interested in telepathy and the possible uses of developing this ability?",
+          "If everyone were able to communicate telepathically, what would be different?",
+          "Do you know anyone who is telepathic?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

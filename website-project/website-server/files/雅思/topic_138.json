@@ -1,0 +1,38 @@
+{
+  "topicId": 138,
+  "summaryTitle": "雅思",
+  "title": "Geography & English lesson",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Have you ever studied geography at school?",
+          "Do you ever want to travel to a country because of geography?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an impressive English lesson you had and enjoyed",
+          "You should say:",
+          "What it was about",
+          "When you had it",
+          "What the teacher did",
+          "And why you enjoyed the lesson"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Why do people learn foreign languages?",
+          "What makes a good foreign language teacher?",
+          "Do you think grammar is important when learning foreign languages?",
+          "Is it interesting to be a foreign language teacher?",
+          "Why?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

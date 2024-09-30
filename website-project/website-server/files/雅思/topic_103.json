@@ -1,0 +1,39 @@
+{
+  "topicId": 103,
+  "summaryTitle": "雅思",
+  "title": "RIDING A BIKE & felt disappointed about",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Did you have a bike when you were young?",
+          "Did you ride a bike to school?",
+          "Do you ride a bike when you go out now?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a movie you watched recently that you felt disappointed about",
+          "You should say:",
+          "Why you didn’t like it",
+          "Why you decide to watch it",
+          "And explain why you felt disappointed about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you believe movie review?",
+          "What are the different types of films in our country?",
+          "Are historical films popular in your country? Why?",
+          "Do you think films with famous actors or actresses would be more popular?",
+          "Why are Japanese animated films so popular?",
+          "Should the director pay a lot of money to famous actors?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

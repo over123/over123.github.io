@@ -1,0 +1,39 @@
+{
+  "topicId": 153,
+  "summaryTitle": "雅思",
+  "title": "Meeting places & Well know person",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Where is your favorite place to meet with your friends?",
+          "Do you think there are some places more suitable for meeting with others?",
+          "Are there any differences between your favorite meeting places in the present and in your childhood?",
+          "Why are some meeting places better than others?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a popular/well-known person in your country",
+          "You should say :",
+          "Who this person is",
+          "What he or she has done",
+          "Why he/she is popular",
+          "And explain how you feel about the person"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What kinds of people are popular at work?",
+          "Are bosses more popular than employees at work?",
+          "Woico one is more important keeping a good relationship  with colleagues or doing well at work?",
+          "What benefits are there when a child is popular at school?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "topicId": 225,
+  "summaryTitle": "雅思",
+  "title": "Name & Wait A Line",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Is it easy for you to remember people’s names?",
+          "How do you remember people’s names?",
+          "How do you feel when people cant remember your name?",
+          "Do you often forget people’s names?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time you had to wait in line (queue up) for a long time.",
+          "You should say:",
+          "When it was",
+          "Where you were",
+          "Why you were there",
+          "And how you felt about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do Chinese people often wait in line?",
+          "Do you think the development of technology has reduced the time people spend on waiting?",
+          "What do you think of those who cut in line or jump the queue?",
+          "How can companies Improve their customer service?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

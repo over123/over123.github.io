@@ -1,0 +1,42 @@
+{
+  "topicId": 68,
+  "summaryTitle": "雅思",
+  "title": "Geography",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          ". How do you like geography?",
+          "2. Do you think geography is useful?",
+          "3. Have you ever learned geography?",
+          "4. Do you want to be a geography teacher?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an occasion when you waited a long time for a nice thing",
+          "You should say:",
+          "When it happened",
+          "What the nice thing was",
+          "How long you waited",
+          "Why you waited for a long time",
+          "And explain how you felt about the experience"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1.On what occasions do people have to wait for a long time?",
+          "2.What do people do while waiting?",
+          "3.Are most people patient while waiting?",
+          "4.Do you like to wait for a long time? Why?",
+          "5.Why do most children have difficulties waiting for a long time?",
+          "6.Do people queue consciously while waiting for the subway train?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

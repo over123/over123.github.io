@@ -1,0 +1,39 @@
+{
+  "topicId": 24,
+  "summaryTitle": "雅思",
+  "title": "Relax",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What would you do to relax?",
+          "Do you think doing sports is a good way to relax?",
+          "Do you think vacation is a good time to relax?",
+          "Do you think students need more relaxing time?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a person you know who is talented",
+          "You should say:",
+          "Who this person is",
+          "How and where you knew this person",
+          "Why you think he/she is talented",
+          "And explain how you found out that he/she is talented"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "How do you think schools should help children develop their talents?",
+          "What do you think of talented people and AI?",
+          "Have you ever had any experience with things related to AI?",
+          "Do you think AI will replace human beings?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

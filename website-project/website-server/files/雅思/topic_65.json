@@ -1,0 +1,41 @@
+{
+  "topicId": 65,
+  "summaryTitle": "雅思",
+  "title": "Gifts",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "1.Have you ever sent handmade gifts to others?",
+          "2.Have you ever received a great gift?",
+          "3.What do you consider when choosing a gift?",
+          "4.Do you think you are good at choosing gifts?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a good advertisement that you think is useful",
+          "You should say:",
+          "Where you can see it",
+          "What it shows",
+          "Why you think it is useful",
+          "And explain how you feel about it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1.What do you think of online advertising?",
+          "2.Are there any great online advertisements?",
+          "3.What do people usually buy?",
+          "4.Why does buying new things make people happy?",
+          "5.Do people watch useless advertisements in this day and age?",
+          "6.Do you think there is too much advertising in our daily lives?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "topicId": 236,
+  "summaryTitle": "雅思",
+  "title": "Tree & Wild Animals",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What kind of trees do people usually plant in your country?",
+          "How about your hometown?",
+          "Have you ever planted trees?",
+          "What kinds of trees do you plant?",
+          "Do you like planting trees? Why?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you got close to wild animals.",
+          "You should say:",
+          "Where you were",
+          "What the animals were doing",
+          "Who you were with",
+          "And what your reaction was"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What are the differences between animals in zoos and those in the wild?",
+          "Why should the staff in the zoos teach the public about animals?",
+          "Why are people keen on keeping pets?",
+          "How can the increase of human population influence wild animals?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

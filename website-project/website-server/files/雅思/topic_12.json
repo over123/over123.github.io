@@ -1,0 +1,41 @@
+{
+  "topicId": 12,
+  "summaryTitle": "雅思",
+  "title": "Exciting activities",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Have you ever tried any exciting activities?",
+          "What do you think were exciting activities when you were a child?",
+          "Has anything exciting happened to you recently?",
+          "Would you like to try scuba diving and bungee jumping?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a complaint that you made and you were satisfied with the result",
+          "You should say:",
+          "When it happened",
+          "Who you complained to",
+          "What you complained about",
+          "And explain why you were satisfied with the result"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "When are people more likely to make complaints?",
+          "What do people often complain about?",
+          "Which one is better when making a complaint, by talking or by writing?",
+          "Who are more likely to make complaints, older people or younger people?",
+          "How would you react if you received a poor service at a restaurant?",
+          "How do people often respond to poor customer service?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

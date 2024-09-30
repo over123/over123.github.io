@@ -1,0 +1,41 @@
+{
+  "topicId": 105,
+  "summaryTitle": "雅思",
+  "title": "LANGUAGE & you lost your way",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What languages can you speak?",
+          "What languages would you like to learn in the future?",
+          "How do you learn a foreign language?",
+          "How are languages taught and learned in your school?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an occasion when you lost your way",
+          "You should say:",
+          "Where you were",
+          "What happened",
+          "How you felt",
+          "And explain how you found your way"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "How can people find their way when they are lost?",
+          "Do you think it is important to do some preparation before you travel to new places?",
+          "Do you think it is important to be able to read a map?",
+          "Is a paper map still necessary?",
+          "Why do some people get lost more easily than others?",
+          "How do people react when they get lost?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "topicId": 10,
+  "summaryTitle": "雅思",
+  "title": "Holidays",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Where did you go for your last holiday?",
+          "Do you like holidays? Why?",
+          "Which public holiday do you like best?",
+          "What do you do on holidays?",
+          "Do you like to spend your day at home?",
+          "Do you prefer a leisurely or a busy holiday?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a new law you would like to introduce in your country",
+          "You should say:",
+          "What law it is",
+          "What changes this law brings",
+          "Whether this new law will be popular",
+          "How you came up with the new law",
+          "And explain how you feel about this new law"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What rules should students follow at school?",
+          "Do people in your country usually obey the law?",
+          "What kinds of behavior are considered as good behavior?",
+          "Do you think children can learn about the law outside of school?",
+          "What are the benefits for people to obey rules?",
+          "How can parents teach children to obey rules?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

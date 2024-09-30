@@ -9,16 +9,17 @@
 -->
 
 <script setup lang="ts">
-import { onMounted } from 'vue'
-onMounted(()=>{})
+import { onMounted } from "vue";
+onMounted(() => {});
 </script>
 
 <template>
-    <router-view></router-view>
+  <router-view></router-view>
 </template>
 
 <style scoped lang="less" >
-html, body {
+html,
+body {
   height: 100%;
 }
 </style>

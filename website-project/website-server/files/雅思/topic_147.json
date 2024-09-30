@@ -1,0 +1,39 @@
+{
+  "topicId": 147,
+  "summaryTitle": "雅思",
+  "title": "Collecting Things & Competition",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you collect things?",
+          "Are there any things you keep from childhood?",
+          "Would you keep old things for a long time? Why?",
+          "Where do you usually keepthings you need?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe  a contest/competition you would like to participate in",
+          "You should say:",
+          "What the contest/ competition is about",
+          "Where the contest /competition will take place",
+          "Whn it will be held",
+          "And explain why you would like to participate in it"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What are the contest commonly seen on TV programs?",
+          "Why are competition shows popular?",
+          "Wiat kinds of industries need competition? Why?",
+          "Do you think it is necessary to encourage people, to compete with others in companies?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

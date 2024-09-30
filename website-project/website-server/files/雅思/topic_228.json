@@ -1,0 +1,39 @@
+{
+  "topicId": 228,
+  "summaryTitle": "雅思",
+  "title": "Decoration & Clothes",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What’s the decoration like in your home?",
+          "What kind of decoration do you prefer?",
+          "Do Chinese people like redecorating their homes?",
+          "What’s your favorite color when decorating your home?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a person who you think wear unusual clothes",
+          "You should say:",
+          "Who this person is",
+          "How you knew this person",
+          "What his/her clothes are like",
+          "And explain why you think his/her clothes are unusual."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you think what people wear can influence their mood?",
+          "Do you think it is a good idea to buy clothes on line?",
+          "What kind of clothes do people wear in the workplace?",
+          "What are the differences between clothes worn by old people and that by young people?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "topicId": 95,
+  "summaryTitle": "雅思",
+  "title": "Gifts & using the computer",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Have you ever sent handmade gifts to other?",
+          "Have you ever received a great gift?",
+          "How to choose a gift?",
+          "Do you think you are good at choosing gifts?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you had a problem with using the computer",
+          "You should say: When it happened",
+          "Where it happened",
+          "What the  problem was",
+          "And explain how you solve the problem at last."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What do people use computer for",
+          "Should students be allowed to use computers at school?",
+          "What do you think of people who are addicted to playing computers?",
+          "Do you think computer s make our life simpler or more complex?",
+          "Why do people often have problems when using new products?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

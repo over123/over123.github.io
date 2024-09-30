@@ -1,0 +1,40 @@
+{
+  "topicId": 262,
+  "summaryTitle": "雅思",
+  "title": "Books",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you prefer to read books or magazines?",
+          "What is your favourite subject to read about?",
+          "Did your parents read to you when you were a child?",
+          "Would you give a book as a gift?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a book that you enjoyed reading. You should say:",
+          "what the book was",
+          "what it was about",
+          "why you read it",
+          "and explain what effect the book had on you."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do people in your country like to read books?",
+          "What are the most popular types of books?",
+          "Do you think it is important for people to read books?",
+          "In your opinion, do people read as much nowadays as they did in the past?",
+          "How do most people read books today, in hard copy or on a tablet?",
+          "Do you think that traditional books will be replaced by tablet reading in the future?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

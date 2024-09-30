@@ -1,0 +1,40 @@
+{
+  "topicId": 243,
+  "summaryTitle": "雅思",
+  "title": "Family",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you have a large or a small family?",
+          "Who are you most similar to in your family?",
+          "Do you prefer to go out with family or friends?",
+          "When did you last celebrate a special event with your family?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe someone in your family who you really admire. You should say:",
+          "who they are",
+          "what relation they are to you",
+          "how often you see them",
+          "and explain why you admire this person."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "In what ways have families in your country changed in the past 20 years?",
+          "Should husbands and wives have different roles within the family?",
+          "What conflicts can arise within a family?",
+          "What role do grandparents play in the family in your country?",
+          "In what ways might the lives of elderly people be different in the future?",
+          "Who do you think should be responsible for the care of the elderly, the family or the government?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

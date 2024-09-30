@@ -1,0 +1,42 @@
+{
+  "topicId": 175,
+  "summaryTitle": "雅思",
+  "title": "Hometown & Cake & Food",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "  Please describe your hometown a little",
+          "  What is your hometown well-known for?",
+          "  Do you like your hometown?",
+          "  Is that a big City or a small place?",
+          "  How long have you been living there?",
+          "  Do you think you will continue living there for a long time?",
+          "  How has your town changed over the last 20 years?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "  Describe a special cake you have ever had.",
+          "  You should say:",
+          "  When this happened?",
+          "  Where this happened?",
+          "  Who gave you the cake?",
+          "  And explain why it is a special cake."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "  What's the difference between special food in China and foreign countries?",
+          "  .Do Chinese people usually cook special food in traditional festivals?",
+          "  Do Chinese families like to eat together during traditional holidays",
+          "  Why do people spend more on special food on special occasions?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

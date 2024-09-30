@@ -1,0 +1,40 @@
+{
+  "topicId": 265,
+  "summaryTitle": "雅思",
+  "title": "Clothing & Fashion",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like shoes?",
+          "How often do you buy shoes?",
+          "Do you prefer comfortable or good-looking shoes?",
+          "Have you ever bought shoes online?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a dress/shirt you wore for a special occasion.",
+          "You should say:",
+          "what it is like",
+          "when and where you bought it",
+          "what special occasion you wore it for and explain how it made you feel wearing it."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What do you think the clothes we wear say about us?",
+          "Do you think that brand name is very important for clothes sales?",
+          "Why do some people like to go clothes shopping with friends?",
+          "How have clothes fashions changed in your country over the past few decades?",
+          "What kind of things determine what is in fashion?",
+          "How do you think fashion will change in the future?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

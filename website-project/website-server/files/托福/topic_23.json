@@ -1,0 +1,118 @@
+{
+  "topicId": 23,
+  "summaryTitle": "托福",
+  "title": "Official 33",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Question",
+          "Do you think that eating healthy food is easier or more difficult today than it was 40 or 50 years ago? Use examples and details to support your answer."
+        ],
+        "singleItemTitle": "TASK1健康生活"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Bicycle Borrowing Program",
+          "It's great that the university has a program where students can borrow bicycles from the gym. However, two changes would make the program more convenient. First, the borrowing period should be shortened to four hours maximum so that more bikes would be available when students want to borrow them. Second, currently, students who borrow bikes have to leave a cash deposit, which is returned to them when they return the bikes, but I think students should be required to leave their student identification cards instead, so they don't have to remember to bring cash.",
+          "Sincerely,",
+          "Susan Lee",
+          "Listening查看文本",
+          "Narrator: Now listen to two students discussing the letter.",
+          "Woman: Hey, did you read that letter? What do you think?",
+          "Man: Yeah, I read it.",
+          "I understand what she's saying, but I really don't agree with their suggestions.",
+          "Woman: How come?",
+          "Man: Well, students often need to borrow the bikes for longer periods of time,",
+          "sometimes a whole day.",
+          "Woman: What for?",
+          "Man: Well, like to do stuff off campus,",
+          "for instance, my friends and I on the weekends,",
+          "sometimes we like to ride bikes to the state park outside of town and do some hiking there.",
+          "And it basically takes the whole day.",
+          "It's night time by the time we get back.",
+          "Woman: So if you had less time, you wouldn't be able to do that.",
+          "Man: Right. And also her other suggestion doesn't seem practical to me.",
+          "Woman: The card thing?",
+          "Man: Yeah, that's not going to work.",
+          "What if you wanna enter a campus building?",
+          "Even though you can get into most of the classroom buildings without a card,",
+          "there are certain buildings on campus where you need to show your card to get in,",
+          "like the library and dining hall.",
+          "Woman: Yeah, that's true.",
+          "So students wouldn't be able to go to any of those places till they got their cards back.",
+          "Question",
+          "The man expresses his opinion about the proposal described in the letter. Briefly summarize the proposal then state his opinion about the proposal and explain the reasons he gives for holding that opinion."
+        ],
+        "singleItemTitle": "TASK2校园服务与设施"
+      },
+      {
+        "singleItemContent": [
+          "Reading",
+          "Carrying Capacity",
+          "An animal species needs to have enough resources, like food and water, to survive in any given environment. However, because resources are limited, only a certain number of animals of a particular species are able to survive in a given habitat. The greatest number a habitat can support is known as the carrying capacity. If nothing happens to disrupt or unbalance the relationship between the animal and its habitat, the carrying capacity will remain stable. However, a carrying capacity is not fixed. If there is a significant disruption, such as an environmental event that alters the amount of available resources in the habitat, the carrying capacity will change.",
+          "Listening查看文本",
+          "Narrator: Now listen to part of a lecture in a Biology class.",
+          "Professor: Okay, so let's talk about what happened to a certain type of insect,",
+          "a moth, a red and black moth that lives in Europe.",
+          "These moths eat a plant called Ragwort,",
+          "and they live in fields where the Ragwort plants grow.",
+          "Now there was a group of moth that lived in one of these fields,",
+          "and for many years there was a lot of Ragwort growing there.",
+          "So the moths had plenty to eat,",
+          "and the total number of moths in the field stayed pretty much the same.",
+          "But then one year it rained a lot less than usual and the Ragwort didn't grow as well.",
+          "The result was that the moths didn't get enough to eat and many didn't survive.",
+          "But even the ones that did survive didn't lay as many eggs as before.",
+          "So that year, the moth population in the field was quite a bit smaller.",
+          "The next year, though,",
+          "the amount of rainfall returned to normal again.",
+          "Many more Ragwort plants grew and once again there was a lot available for the moths to eat.",
+          "So that year the moth population increased,",
+          "and the female moths laid many more eggs than the year before.",
+          "And now, after all that rainfall and plant growth,",
+          "there were just as many moths in the Ragwort field as there were before.",
+          "Question",
+          "Explain the concept of carrying capacity using the example of the moth and Ragwort."
+        ],
+        "singleItemTitle": "TASK3生物"
+      },
+      {
+        "singleItemContent": [
+          "Listening查看文本",
+          "Narrator: Listen to part of a talk in a Business class.",
+          "Professor: OK, so last time we were talking about the process of starting up a business on your own,",
+          "and how new business owners often encounter a lot of obstacles.",
+          "But one way to get an easier start is through franchising.",
+          "That's when there's already a well-known, established company,",
+          "and you open up a new branch of that company in a new location.",
+          "Your new business will be a part of the larger established company with the same name,",
+          "and it'll be run just like the other branches of that company.",
+          "Let's discuss some advantages of franchising.",
+          "Now, one great advantage of franchising is that the company provides training to you and all of your employees.",
+          "They teach you about all the aspects of the business and you're given a plan to follow for success.",
+          "So you don't have to do the training yourself or come up with your own business plan.",
+          "For example, if you're opening a new division of a restaurant that sells pizza, say,",
+          "somebody from the company will come to the restaurant that you're opening,",
+          "and they'll train you and your employees in how to prepare the pizzas, how to take food orders,",
+          "plus everything about how to operate the restaurant so it will be run exactly like all the other restaurants in the company.",
+          "Another advantage of franchising is the established customer base.",
+          "Because your business will have the same name as the company that's already well-known.",
+          "It'll already have loyal customers following.",
+          "So when you open a new division,",
+          "people will want to come because they'll be confident of its quality.",
+          "So again, let's say you're opening a new restaurant, a pizza place.",
+          "The restaurant is already well-known because it has such good pizza.",
+          "So when you open your own restaurant with the same name in a new location,",
+          "people know your pizza is going to be really good too.",
+          "They'll go to your restaurant because they already trust that they'll have a good experience there.",
+          "Question",
+          "Using the professor's example of the pizza restaurant, explain two advantages of franchising."
+        ],
+        "singleItemTitle": "TASK4商科"
+      }
+    ]
+  }
+}

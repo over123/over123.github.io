@@ -1,0 +1,43 @@
+{
+  "topicId": 16,
+  "summaryTitle": "雅思",
+  "title": "Science",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like science?",
+          "When did you start to learn about science?",
+          "Which science subject is interesting to you?",
+          "What kinds of interesting things have you done with science?",
+          "Do you like watching science TV programs?",
+          "Do Chinese people often visit science museums?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a person you met at a party who you enjoyed talking with",
+          "You should say:",
+          "What party it was",
+          "Who this person is",
+          "What you talked about",
+          "And explain why you enjoyed talking with him/her"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "In what situations would people be willing to get to know new people?",
+          "Where do people go to meet new people?",
+          "How do people start a conversation?",
+          "Is it difficult for Chinese people to communicate with people from other countries?",
+          "Why are some people unwilling to have conversations with others?",
+          "Is it difficult for adults to talk with children?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "topicId": 172,
+  "summaryTitle": "雅思",
+  "title": "Mirrors & Rule",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "p> Do you like looking at yourself in the mirror?",
+          "p> Have you ever bought mirrors?",
+          "p> Do you usually take a mirror with you?",
+          "p> Would you use mirrors to decorate your room?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "p> Describe a rule you don't like.",
+          "p> You should say:",
+          "p> What it is",
+          "p> Why you don't like it",
+          "p> How others feel about the rule",
+          "p> And explain whether you have followed the rule"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "p> What kinds of rules that students should follow at school?",
+          "p> Do people often violate the rules in China?",
+          "p>  What rules should children follow at home?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

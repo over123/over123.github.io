@@ -1,0 +1,43 @@
+{
+  "topicId": 101,
+  "summaryTitle": "雅思",
+  "title": "THE CITY YOU LIVE IN & like to watch",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "What city do you live in?",
+          "Do you like this city? Why?",
+          "How long have you lived in this city?",
+          "Are there big changes in this city/",
+          "Is this city your permanent residence?",
+          "Are there people of different ages living in this city?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a sports program you like to watch",
+          "You should say:",
+          "What it is",
+          "Who you like to watch this program with",
+          "And explain why you like to watch this program"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Which sport do you think most people like to do?",
+          "And why?",
+          "Do children need exercise?",
+          "What are the benefits of exercise?",
+          "What can be done to get children into sport?",
+          "What sports programs do people like to watch in your country?",
+          "What’s the difference between watching sports on TV and watching it live?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

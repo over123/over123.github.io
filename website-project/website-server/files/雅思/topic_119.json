@@ -1,0 +1,39 @@
+{
+  "topicId": 119,
+  "summaryTitle": "雅思",
+  "title": "Puzzles & Time you taught a friend/relatives",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Did you do puzzles in your childhood?",
+          "When do you do puzzles, during your trip or when you feel bored?",
+          "Do you like doing word puzzles or number puzzles? which is more difficult for you?",
+          "Do you think it is good for old people to do puzzles?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you taught a friend/relative something",
+          "You should say:",
+          "Who you taught",
+          "What you taught",
+          "How te result was",
+          "And explain how you felt about the experience"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What practical skills can young people teach old people?",
+          "What skills can young people teach old people besides technology?",
+          "How can young people teach old people skills?",
+          "How can we know what to do when we want to learn something new?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

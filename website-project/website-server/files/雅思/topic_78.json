@@ -1,0 +1,40 @@
+{
+  "topicId": 78,
+  "summaryTitle": "雅思",
+  "title": "Video game",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "1. Do you play video games?",
+          "2. What kinds of video games do you like to play?",
+          "3. Is it good for young people to play video games?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a person who enioys cooking for others",
+          "You should say:",
+          "Who he/she is",
+          "How you knew this person",
+          "Who he/she usually cooks for",
+          "And explain why you think he/she enjoys cooking for other people"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1.What do we need to prepare when we need to cook?",
+          "2.Do you agree that food is an important part of Chinese festivals and ceremonies?",
+          "3.Which dishes are a must at festivals?",
+          "4.Should students learn to cook at school?",
+          "5.Do you think cooking should be a compulsory or an elective course? Why?",
+          "6.Are there any differences between cooking today and in the past?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "topicId": 80,
+  "summaryTitle": "雅思",
+  "title": "Sunglasses",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "1. Do you often wear sunglasses?",
+          "2. Do you spend a lot of money on sunglasses?",
+          "3. Do you give sunglasses as a gift?",
+          "4. Why do you wear sunglasses?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a photo that makes you feel happy",
+          "You should say:",
+          "When and where you took the photo",
+          "What the photo is like",
+          "How often you look at the photo",
+          "And explain why it makes you feel happy"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1.Do you think people are taking too many photos these days?",
+          "2.What kinds of photos do people like to take?",
+          "3.Do you think people take more photos now than in the past?",
+          "4.Do you think equipment is important for photography?",
+          "5.Do you think being a professional photographer is a good job? Why?",
+          "6.Why do some people like to post their photos on social media?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

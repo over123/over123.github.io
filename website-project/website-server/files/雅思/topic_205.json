@@ -1,0 +1,40 @@
+{
+  "topicId": 205,
+  "summaryTitle": "雅思",
+  "title": "Country & Helping People",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Tell me a little about your hometown.",
+          "Which part of your country  do most people live in?",
+          "Where is your country located?",
+          "Tell me about the main industries in your country.",
+          "What are some of the good things and some of the bad things about living in your country?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you encouraged someone to do something that he/she didn’t wont to do",
+          "You should say:",
+          "Who he or she is",
+          "What you encouraged him/her to do",
+          "How he/she reacted",
+          "And explain why you encouraged him/her to do"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "How can leaders encourage their employees?",
+          "When should parents encourage their children?",
+          "What kind of encouragement should parents give?",
+          "Do you think some people are better than others at persuading?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

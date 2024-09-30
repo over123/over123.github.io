@@ -1,0 +1,43 @@
+{
+  "topicId": 73,
+  "summaryTitle": "雅思",
+  "title": "Music",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "   1. Do a lot of people like music?",
+          "   2. What kind of music do you listen to?",
+          "   3. ls it easy to learn music?",
+          "   4. Do you have music lessons at school?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "   Describe a party that you enjoyed",
+          "   You should say:",
+          "   When and where the party was held",
+          "   Who attended the party",
+          "   What kind of party it was",
+          "   What you did in the party",
+          "   And explain why you enjoyed this party"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "   1.Why do people like parties?",
+          "   2.Why do some people not like going to parties?",
+          "   3.Do you think those who tend to stay at home are less healthy than those who",
+          "often attend parties?",
+          "   4.Do you think music and dancing are a must at a party?",
+          "   5.What would you do if you were disturbed by a neighbour's party?",
+          "   6.What are the differences between holding a party at home and in a public place?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

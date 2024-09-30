@@ -1,0 +1,40 @@
+{
+  "topicId": 126,
+  "summaryTitle": "雅思",
+  "title": "accommodation & Unusual meal",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          " What kind of house or flat do you want to live in the future?",
+          " Are the transportation facilities to your home very good?",
+          " Do you prefer to live in a house or a flat?",
+          " Can you describe the place where you live?",
+          " What kind of housing accommodation do you live in?",
+          " What do you like about your flat?",
+          " Which room does your family spend most of the time in?",
+          "What do you dislike about it?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an unusual meal you had",
+          "You should say:",
+          "When you had it",
+          "Where you had it",
+          "Whom you had it with",
+          "And explain why it was unusual"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          " 1. What are the advantages and disadvantages of eating in restaurants?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

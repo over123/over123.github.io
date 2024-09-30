@@ -1,0 +1,39 @@
+{
+  "topicId": 233,
+  "summaryTitle": "雅思",
+  "title": "Singing & Important Truth",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do you like singing?",
+          "When do you sing?",
+          "Will you take singing lessons in the future?",
+          "Did you enjoy singing when you were younger?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a time when you told your friend an important truth.",
+          "You should say:",
+          "Who your friend is",
+          "What the truth was",
+          "What your friend’s reaction was",
+          "And explain why you think it was important to tell your friend the truth"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Do you think we should tell the truth at all times?",
+          "How do you know when others are telling lies?",
+          "Do you think it’s more important to win a game or follow the rules in sports?",
+          "Sometimes people should tell lies. Do you agree?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

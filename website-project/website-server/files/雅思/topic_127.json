@@ -1,0 +1,40 @@
+{
+  "topicId": 127,
+  "summaryTitle": "雅思",
+  "title": "Country & City you would like to stay for a short time",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Tell me a little about your hometown.",
+          "Which part of your country  do most people live in?",
+          "Where is your country located?",
+          "Tell me about the main industries in your country.",
+          "What are some of the good things and some of the bad things about",
+          "living in your country?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe another City you would like to stay for a short time",
+          "You should say:",
+          "Where the City is",
+          "Whom you will go there with",
+          "What you will do there",
+          "And explain why you will stay there just for a short time"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "1.Why do people sometimes go to other cities?",
+          "2.Why are historical cities popular?",
+          "3.Do you think tourist may come across bad things in other cities?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "topicId": 90,
+  "summaryTitle": "雅思",
+  "title": "Tea and coffee & that you enjoyed",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "Do people like tea and coffee nowadays?",
+          "Do you prefer to use tea or coffee to serve your guests?",
+          "When was the last time you had a cup of coffee?",
+          "Do you usually buy your coffee in a coffee shop?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe a party that you enjoyed",
+          "You should say:",
+          "When you went to the party",
+          "Where the party was held",
+          "What kind of party it was",
+          "And explain why you enjoyed this party"
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "Why do people like parties?",
+          "Why do some people not like going to parties?",
+          "Do you think music and dancing are a must at party?",
+          "What would you do if you are disturbed by a neighbor’s party?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}

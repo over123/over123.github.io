@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-08-06 11:54:56
  * @LastEditors: xudan
- * @LastEditTime: 2024-08-06 12:13:51
+ * @LastEditTime: 2024-09-30 15:45:21
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -26,6 +26,8 @@ export let apiServer = ""
 export let srcServer = ""
 /** debug模式 */
 export let debugMode = import.meta.env.MODE === "development"
+
+
 
 /**
  * 重置服务器配置

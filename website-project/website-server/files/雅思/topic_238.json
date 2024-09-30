@@ -1,0 +1,41 @@
+{
+  "topicId": 238,
+  "summaryTitle": "雅思",
+  "title": "Communication",
+  "content": {
+    "panelTitle": "Question list",
+    "panelItemsList": [
+      {
+        "singleItemContent": [
+          "How do you usually contact your friends?",
+          "Do you often make phone calls?",
+          "In what ways do you use social media to communicate?",
+          "Do you ever write letters?"
+        ],
+        "singleItemTitle": "PART1"
+      },
+      {
+        "singleItemContent": [
+          "Describe an interesting conversation you had with a stranger.",
+          "You should say:",
+          "where you met them",
+          "what kind of person they were",
+          "what you talked about",
+          "and explain why the conversation was interesting."
+        ],
+        "singleItemTitle": "PART2"
+      },
+      {
+        "singleItemContent": [
+          "What age group do you think has the best communication skills?",
+          "In your opinion, has technology improved the way we communicate with each other?",
+          "Do you think we have lost any communication skills because of technology?",
+          "How popular is letter writing in your culture today?",
+          "Do you think it is still important for children to learn handwriting? Why?/Why not?",
+          "How do you think people will communicate in 20 years time?"
+        ],
+        "singleItemTitle": "PART3"
+      }
+    ]
+  }
+}
