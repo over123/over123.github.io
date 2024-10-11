@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-11 11:00:10
  * @LastEditors: xudan
- * @LastEditTime: 2024-09-25 14:05:23
+ * @LastEditTime: 2024-10-11 14:03:43
  * @Description: connect to the website's database (mongodb)
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -29,6 +29,7 @@ const MongoConnection = () => {
         uri += `?authSource=${authSource}`;
     }
 
+    console.log(uri)
     mongoose.connect(uri, {
         useNewUrlParser: true,
         useUnifiedTopology: true,

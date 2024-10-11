@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-04 19:57:46
  * @LastEditors: xudan
- * @LastEditTime: 2024-09-27 11:28:48
+ * @LastEditTime: 2024-10-09 18:40:55
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -21,6 +21,12 @@ module.exports = app => {
     }
     const router = require(`./${file}`)
     router[`${file.replace(/\.js/, '')}`] = router
+
+    router.get('/', async (ctx) => {
+      await ctx.render('index', {
+        title: 'title',
+      });
+    });
 
     app.use(router.routes()).use(router.allowedMethods());
   });

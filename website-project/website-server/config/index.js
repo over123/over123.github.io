@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-09-25 10:29:49
  * @LastEditors: xudan
- * @LastEditTime: 2024-09-26 13:34:28
+ * @LastEditTime: 2024-10-11 14:54:59
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -37,7 +37,8 @@ module.exports = {
     //   viewsDir: path.resolve(__dirname, './views'), // 静态页面文件路径
     logPath: path.resolve(__dirname, `../logs/${PROJECT_NAME}`), // 日志文件路径
     mongoDB: {
-        host: '127.0.0.1',
+        // host: '127.0.0.1',
+        host: '65.49.193.148',
         port: 27017,
         db: 'website',
         authSource: 'admin',
