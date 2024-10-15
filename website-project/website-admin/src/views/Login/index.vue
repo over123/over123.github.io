@@ -99,13 +99,13 @@ const submitForm = async (formEl: FormInstance | undefined) => {
   await formEl.validate(async (valid, fields) => {
     if (valid) {
       const user = await login(ruleForm);
+      console.log(user);
       if (user.res) {
         auth_store.update(user.res);
         tokenStorage.setToken(user.res);
         $message.success("Congratulations! Login successfully!");
         router.push("/");
         return;
-      } else {
       }
       $message.error("Login failed, please try again!");
     } else {

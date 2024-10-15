@@ -9,4 +9,4 @@ COPY . /projects/backend/website-server
 RUN npm install
 #保持和启动node服务的端口号一致
 EXPOSE 3000
-CMD ["npm","run","serve"]
+CMD ["npm","run","prd"]

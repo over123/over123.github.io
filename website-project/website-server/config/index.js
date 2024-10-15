@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-09-25 10:29:49
  * @LastEditors: xudan
- * @LastEditTime: 2024-10-11 14:54:59
+ * @LastEditTime: 2024-10-14 17:31:26
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -19,6 +19,7 @@ const PROJECT_NAME = 'website-server'
 module.exports = {
     name: PROJECT_NAME,
     //   port: '8881',
+    saltRounds: 10,
     jwtOpt: {
         conf: {
             secret: 'jwt-website-server',

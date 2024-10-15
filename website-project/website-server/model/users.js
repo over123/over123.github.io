@@ -14,7 +14,7 @@ const userSchema = mongoose.Schema({
     username: String,
     pwd: {
         type: String,
-        select: false // 当前在查询用户时，用户的pwd的显示状态处于隐藏
+        // select: false // 当前在查询用户时，用户的pwd的显示状态处于隐藏
     },
     avatar: {
         type: String,

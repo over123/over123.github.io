@@ -83,7 +83,7 @@ async function http(option: { method?: string, path?: string, params?: any } = {
             option.path || '',
             option.params
         ).then(res=> {
-            debugMode && console.log(res.data);
+            debugMode && console.log(res);
             result = res
         }).catch(err => {
             debugMode && console.log(err);

@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-12 11:31:20
  * @LastEditors: xudan
- * @LastEditTime: 2024-09-30 18:10:09
+ * @LastEditTime: 2024-10-12 12:11:24
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -69,6 +69,7 @@ const updateTopic = async (ctx) => {
     try {
         const result = verify(ctx);
         const topics = await fetchTopics(ctx);
+        console.log(topics)
         // active collection
         add(Topics, topics, ctx);
 
