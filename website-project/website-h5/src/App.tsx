@@ -1,14 +1,15 @@
-import { BrowserRouter as Router, Route, Routes, NavLink } from 'react-router-dom';
-import Home from './components/Home';
+import { BrowserRouter as Router, Route, Routes, NavLink, Navigate } from 'react-router-dom';
+// import Home from './components/Home';
 import Topics from './components/Topics';
 import TopicDetails from './components/TopicDetails';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/h5'>
       <div className="main-content">
         <Routes>
-          <Route path="/" element={<Home />} />
+          {/* <Route path="/" element={<Home />} /> */}
+          <Route path="/" element={<Navigate to="/topics" />} />
           <Route path="/topics" element={<Topics />} />
           <Route path="/topics/:id" element={<TopicDetails />} />
         </Routes>

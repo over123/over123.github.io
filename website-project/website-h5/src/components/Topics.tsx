@@ -36,7 +36,8 @@ const Topics: React.FC = () => {
       const fetchedCategories = await getCategories();
       setCategories(fetchedCategories);
       if (fetchedCategories.length > 0) {
-        setActiveCategory(fetchedCategories[0]._id);
+        const category = fetchedCategories.filter((category) => category.title === '日常');
+        setActiveCategory(category[0]._id);
       }
     };
     fetchCategories();
@@ -95,6 +96,10 @@ const Topics: React.FC = () => {
           </li>
         ))}
       </ul>
+      {
+        topics.length <= 0 && <div className='no-data' > 当前分类下无数据 ......</div>
+      }
+      
       <div className="pagination" style={{display: 'none'}}>
         <button onClick={() => setPage(page - 1)} disabled={page === 1}>
           上一页
