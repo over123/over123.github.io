@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-08-07 16:13:53
  * @LastEditors: xudan
- * @LastEditTime: 2024-09-30 18:27:06
+ * @LastEditTime: 2024-10-16 16:56:46
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -13,7 +13,7 @@
       <el-collapse-item
         :title="topicItem.singleItemTitle"
         :name="topicItem.singleItemTitle"
-        v-for="(topicItem, index) in topicContent.panelItemsList"
+        v-for="(topicItem, index) in topicContent?.panelItemsList"
         :key="index"
       >
         <div v-for="(item, idx) in topicItem.singleItemContent" :key="idx">
@@ -28,7 +28,7 @@
 <script lang="ts" setup>
 import { getTopicTabs, getTopicList } from "@/http/api";
 import { ref, onMounted } from "vue";
-
+console.log(getTopicTabs);
 const activeName = ref("1");
 import { useRoute } from "vue-router";
 
@@ -36,7 +36,18 @@ const route = useRoute();
 const { id, subId } = route.query; // 获取查询参数
 
 const topicTitle = ref("");
-const topicContent = ref({});
+
+type TopicContent = {
+  panelItemsList: Array<{
+    singleItemTitle: string;
+    singleItemContent?: Array<{
+      name: string;
+    }>;
+  }>;
+  panelIdx: string;
+};
+
+const topicContent = ref<TopicContent | null>(null);
 
 onMounted(() => {
   getTopic();
