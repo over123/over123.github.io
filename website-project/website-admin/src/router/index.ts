@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-04 19:49:37
  * @LastEditors: xudan
- * @LastEditTime: 2024-08-07 15:15:01
+ * @LastEditTime: 2024-10-16 16:11:54
  * @Description: router
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -19,6 +19,7 @@ const router = createRouter({
     routes
 })
 router.beforeEach(async (to, from) => {
+    console.log(to, from)
     if (to.meta.requiresAuth && !await isLoggedIn() ) {
         // 此路由需要授权，请检查是否已登录
         // 如果没有，则重定向到登录页面

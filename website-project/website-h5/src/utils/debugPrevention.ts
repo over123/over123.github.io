@@ -38,7 +38,7 @@ export const preventDebugging = () => {
       var $_console$$ = console;
       Object.defineProperty(window, "console", {
         get: function() {
-          if ($_console$$._commandLineAPI) {
+          if ($_console$$ && (($_console$$ as any)._commandLineAPI)) {
             redirectToBlankPage();
           }
           return $_console$$;

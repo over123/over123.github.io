@@ -71,6 +71,6 @@
 }
 </style>
 
-<script setup>
+<script setup lang="ts">
 import { routes } from "@/common/routeConfig";
 </script>

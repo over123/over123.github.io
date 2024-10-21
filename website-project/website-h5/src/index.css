@@ -75,13 +75,18 @@ body {
 }
 
 .topic-item {
-  padding: 15px;
+  /* padding: 15px; */
   border-bottom: 1px solid #e0e0e0;
   cursor: pointer;
 }
 
 .topic-item:hover {
   background-color: #f5f5f5;
+}
+.topic-item p {
+  margin: 0;
+  line-height: 32px;
+  padding: 0 20px;
 }
 
 .pagination {

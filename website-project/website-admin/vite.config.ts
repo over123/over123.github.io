@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-04 19:49:37
  * @LastEditors: xudan
- * @LastEditTime: 2024-07-23 18:37:48
+ * @LastEditTime: 2024-10-16 15:21:58
  * @Description: vite config 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -26,6 +26,7 @@ export default defineConfig({
       resolvers: [ElementPlusResolver()],
     }),
   ],
+  base: './', // 设置为相对路径
   resolve: {
     alias: {
       '@': resolve(__dirname, './src')

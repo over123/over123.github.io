@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-08-06 11:54:56
  * @LastEditors: xudan
- * @LastEditTime: 2024-09-30 15:45:21
+ * @LastEditTime: 2024-10-16 17:21:37
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -11,9 +11,10 @@
 // export const statisticsUrl = "/statistics/"
 
 /** API服务器地址（测试） */
-const developApiServer = "http://www.localhost:3000/"
+// const developApiServer = "http://www.localhost:3000/"
+const developApiServer = "http://65.49.193.148:8080/"
 /** API服务器地址（正式） */
-const releaseApiServer = ""
+const releaseApiServer = "http://65.49.193.148:8080/"
 
 /** 资源服务器地址（测试） */
 const developSrcServer = "http://localhost:5173/"

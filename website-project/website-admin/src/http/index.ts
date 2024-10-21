@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-07-15 12:06:27
  * @LastEditors: xudan
- * @LastEditTime: 2024-09-30 16:03:09
+ * @LastEditTime: 2024-10-16 15:44:16
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -41,7 +41,7 @@ instance.interceptors.request.use((config: InternalAxiosRequestConfig) => {
  * @param {*} param2
  * @return {*}
  */
-instance.interceptors.response.use((response) => {
+instance.interceptors.response.use((response:any) => {
     // 响应拦截需处理的内容
     // ...
     if(response.status == 200 && response.data.code == 200) {
@@ -65,7 +65,7 @@ instance.interceptors.response.use((response) => {
  * params: 请求数据,
  * @return {*}
  */
-async function http(option: { method?: string, path?: string, params?: any } = {}) {
+async function http(option: { method?: string, path?: string, params?: any, headers?: any } = {}) {
     let result = null;
     
     if(option.method == 'get'  || option.method == 'delete') {

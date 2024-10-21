@@ -2,7 +2,7 @@
  * @Author: xudan
  * @Date: 2024-08-07 16:13:53
  * @LastEditors: xudan
- * @LastEditTime: 2024-09-30 17:57:43
+ * @LastEditTime: 2024-10-16 18:23:17
  * @Description: 
  * Contact Information: E-mail: xudan@gmail.com
  * Copyright (c) 2024 by xudan@gmail.com, All Rights Reserved. 
@@ -18,7 +18,7 @@
       <el-tab-pane
         v-for="(topic, index) in topicList"
         :label="topic.title"
-        :name="topic.index"
+        :name="index"
         :key="index"
       >
         <!-- tab页内容 -->
@@ -56,16 +56,22 @@ import { useRouter } from "vue-router";
 const router = useRouter();
 import type { TabsPaneContext } from "element-plus";
 
-const topicIdx = ref(0);
-const topicList = ref([]);
-const currentPage = ref(1);
-const pageSize = ref(10); // 每页显示数量
-const background = ref(false);
-const pageSizes = ref([10, 20, 30, 40]); //可选择每页显示数量
-const size = ref("default"); //分页大小
-const disabled = ref(false); //是否可用
-const total = ref(0);
-const activeIdx = ref(0);
+// const topicIdx = ref(0);
+
+interface Topic {
+  title: string;
+  index: string | number;
+}
+
+const topicList = ref<Topic[]>([]);
+// const currentPage = ref(1);
+// const pageSize = ref(10); // 每页显示数量
+// const background = ref(false);
+// const pageSizes = ref([10, 20, 30, 40]); //可选择每页显示数量
+// const size = ref("default"); //分页大小
+// const disabled = ref(false); //是否可用
+// const total = ref(0);
+const activeIdx = ref<string | number>(0);
 
 const currentContent = ref(null);
 
@@ -76,18 +82,21 @@ onMounted(() => {
 /**
  * 监听每页数量显示变化
  */
-const handleSizeChange = () => {};
+// const handleSizeChange = () => {};
 
 /**
  * 监听当前页码变化
  */
-const handleCurrentChange = () => {};
+// const handleCurrentChange = () => {};
 
 /** topic tab分类切换 */
 const handleClick = (tab: TabsPaneContext, event: Event) => {
+  console.log(tab.props.name, event);
+  console.log(activeIdx.value);
   if (tab.props.name === activeIdx.value) return;
-  activeIdx.value = tab.props.name;
-  getTopic({ id: activeIdx.value });
+  console.log(event);
+  activeIdx.value = tab.props.name as string;
+  getTopic({ id: activeIdx.value as string });
 };
 
 /**
@@ -102,14 +111,15 @@ const getTopicTab = async () => {
 /**
  * 获取topics
  */
-const getTopic = async ({ id }) => {
+const getTopic = async ({ id }: { id: string }) => {
   const topics = await getTopicList({ id });
   currentContent.value = topics.res.topicList;
 };
 
 /** 获取topic详细内容 - 详情 */
 const handleRowClick = (row: any, column: any, event: Event) => {
-  console.log(row.summaryIndex, row.id);
+  console.log(row.summaryIndex, event);
+  console.log(column, event);
   router.push({
     path: "/daily/topic/content",
     query: {
